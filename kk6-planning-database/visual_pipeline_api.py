@@ -29,6 +29,9 @@ from deduplication_service import DeduplicationService
 from temporal_superseding_service import TemporalSupersedingService
 from parse_conversation_timestamps import FilenameParser
 
+# Import security manager - Phase 1.2 Enhancement
+from security_manager import SecurityManager, SecurityLevel, initialize_security, get_security_manager
+
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -233,6 +236,14 @@ async def send_pipeline_update(session_id: str, stage: PipelineStage, progress: 
 async def startup_event():
     """Initialize services on startup."""
     await get_db_pool()
+    
+    # Initialize security manager - Phase 1.2 Enhancement
+    try:
+        await initialize_security(DATABASE_URL)
+        logger.info("🔐 Security Manager initialized successfully")
+    except Exception as e:
+        logger.error(f"Failed to initialize Security Manager: {e}")
+        
     logger.info("Visual Pipeline API server started")
 
 @app.on_event("shutdown")
@@ -775,7 +786,21 @@ async def intelligent_query(request: QueryRequest):
         import time
         start_time = time.time()
         
-        logger.info(f"🧭 Router Agent processing query: '{request.query}'")
+        # Phase 1.2 Enhancement: Security validation
+        security_mgr = await get_security_manager()
+        is_safe, audit_event = await security_mgr.validate_query(
+            request.query, 
+            context={"source_ip": "127.0.0.1", "user_context": "api_user"}
+        )
+        
+        if not is_safe:
+            logger.warning(f"🚨 Security threat detected in query: {request.query[:100]}...")
+            raise HTTPException(
+                status_code=400, 
+                detail=f"Query rejected for security reasons. Risk score: {audit_event.risk_score:.2f}"
+            )
+        
+        logger.info(f"🧭 Router Agent processing secure query: '{request.query}'")
         
         # Use the convenience function for routing and execution
         result = await route_and_execute_query(
@@ -861,6 +886,40 @@ async def test_router_agent():
     except Exception as e:
         logger.error(f"Router Agent test failed: {e}")
         raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/api/security/status")
+async def security_status():
+    """
+    🔐 Get Security Manager status and metrics - Phase 1.2 Enhancement.
+    
+    Returns security statistics, recent events, and system security health.
+    """
+    try:
+        security_mgr = await get_security_manager()
+        metrics = await security_mgr.get_security_metrics()
+        
+        return {
+            "status": "operational",
+            "phase": "1.2 - Enhanced Security Model",
+            "security_features": {
+                "prompt_injection_detection": "enabled",
+                "sql_injection_protection": "enabled", 
+                "rate_limiting": "enabled",
+                "audit_logging": "enabled",
+                "least_privilege_db": "enabled"
+            },
+            "metrics": metrics,
+            "message": "🔐 Enhanced Security Model protecting KK6 pipeline operations!"
+        }
+        
+    except Exception as e:
+        logger.error(f"Failed to get security status: {e}")
+        return {
+            "status": "error",
+            "phase": "1.2 - Enhanced Security Model", 
+            "error": str(e),
+            "message": "Security system error - check logs"
+        }
 
 @app.get("/api/router/status")
 async def router_agent_status():
