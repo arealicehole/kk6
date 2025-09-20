@@ -347,6 +347,69 @@
             display: none;
         }
 
+        /* Merged Item Styles */
+        .merged-item {
+            border-left: 4px solid var(--warning-color);
+            background: linear-gradient(135deg, #fff9e6, #ffffff);
+        }
+
+        .merge-info {
+            margin: 10px 0;
+            padding: 8px 12px;
+            background: #f8f9fa;
+            border-radius: 6px;
+            border: 1px solid #e9ecef;
+        }
+
+        .merge-badge {
+            font-size: 0.75rem;
+            font-weight: bold;
+            color: var(--warning-color);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .merge-details {
+            margin-top: 4px;
+            font-size: 0.8rem;
+            color: #6c757d;
+        }
+
+        .category-badge {
+            display: inline-block;
+            padding: 2px 6px;
+            background: var(--primary-color);
+            color: white;
+            font-size: 0.7rem;
+            border-radius: 12px;
+            margin: 0 2px;
+        }
+
+        /* Enhanced confidence badges */
+        .confidence-badge.high {
+            background: var(--success-color);
+            color: white;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+        }
+
+        .confidence-badge.medium {
+            background: var(--warning-color);
+            color: white;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+        }
+
+        .confidence-badge.low {
+            background: var(--error-color);
+            color: white;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+        }
+
         /* Approval Component Styles */
         .approval-section {
             background: white;
@@ -742,6 +805,41 @@
                     Choose File
                 </button>
                 <input type="file" id="fileInput" accept=".txt" style="display: none;">
+            </div>
+        </div>
+
+        <!-- Router Agent Query Interface - Phase 1.1 Enhancement -->
+        <div class="upload-section">
+            <div style="text-align: center; margin-bottom: 30px;">
+                <h2 style="color: var(--primary-color); margin-bottom: 10px;">🧠 Intelligent Query Router</h2>
+                <p style="color: var(--gray-600);">Ask questions about your planning data using natural language</p>
+            </div>
+            
+            <div style="display: flex; gap: 10px; margin-bottom: 20px;">
+                <input type="text" id="routerQuery" placeholder="e.g., 'Find items similar to entertainment planning' or 'How many items in each category?'" 
+                       style="flex: 1; padding: 12px; border: 2px solid var(--gray-300); border-radius: 8px; font-size: 1rem;">
+                <button id="executeQueryBtn" class="upload-button" style="flex-shrink: 0;">
+                    🚀 Execute Query
+                </button>
+            </div>
+            
+            <div id="routerResults" style="display: none; background: var(--gray-100); border-radius: 8px; padding: 20px; margin-top: 20px;">
+                <div id="routerResultsContent"></div>
+            </div>
+            
+            <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 15px;">
+                <button class="example-query-btn" onclick="pipelineManager.executeExampleQuery('Find items similar to entertainment planning')">
+                    📱 Find similar items
+                </button>
+                <button class="example-query-btn" onclick="pipelineManager.executeExampleQuery('How many items in each category?')">
+                    📊 Category statistics
+                </button>
+                <button class="example-query-btn" onclick="pipelineManager.executeExampleQuery('Find duplicate planning items')">
+                    🔄 Find duplicates
+                </button>
+                <button class="example-query-btn" onclick="pipelineManager.executeExampleQuery('Analyze patterns in planning data')">
+                    🧠 Analyze patterns
+                </button>
             </div>
         </div>
 
@@ -1282,6 +1380,12 @@
                 
                 const itemDiv = document.createElement('div');
                 itemDiv.className = 'approval-item';
+                
+                // Add merged class if this is a merged item
+                if (item.is_merged) {
+                    itemDiv.classList.add('merged-item');
+                }
+                
                 itemDiv.dataset.itemId = item.result_id || item.id;
 
                 const content = item.content;
@@ -1291,14 +1395,31 @@
                 const confidence = item.confidence_score || item.confidence || 0;
                 const confidenceClass = confidence >= 0.8 ? 'high' : confidence >= 0.6 ? 'medium' : 'low';
 
+                // Create merge info section
+                let mergeInfo = '';
+                if (item.is_merged && item.merged_from_categories && item.merged_from_categories.length > 0) {
+                    const categoryBadges = item.merged_from_categories.map(cat => `<span class="category-badge">${cat}</span>`).join(' + ');
+                    mergeInfo = `
+                        <div class="merge-info">
+                            <div class="merge-badge">🔄 MERGED ITEM</div>
+                            <div class="merge-details">
+                                <small>Combined from: ${categoryBadges}</small>
+                                ${item.merge_rationale ? `<br><small>Reason: ${item.merge_rationale}</small>` : ''}
+                            </div>
+                        </div>
+                    `;
+                }
+
                 itemDiv.innerHTML = `
                     <div class="item-header">
                         <div class="item-content">
                             <div class="item-title">${title}</div>
                             <div class="item-description">${description}</div>
+                            ${mergeInfo}
                             <div class="item-meta">
                                 <span>Confidence: <span class="confidence-badge ${confidenceClass}">${Math.round(confidence * 100)}%</span></span>
-                                <span>Chunks: ${item.chunk_ids.length}</span>
+                                <span>Chunks: ${item.chunk_ids ? item.chunk_ids.length : 0}</span>
+                                ${item.is_merged ? '<span>Type: Merged</span>' : ''}
                             </div>
                         </div>
                         <div class="item-status status-pending" id="status-${item.result_id || item.id}">
@@ -1524,10 +1645,155 @@
             }
         }
 
+        // Router Agent functionality
+        async executeExampleQuery(query) {
+            console.log('Executing example query:', query);
+            document.getElementById('routerQuery').value = query;
+            await this.executeRouterQuery();
+        }
+
+        async executeRouterQuery() {
+            const query = document.getElementById('routerQuery').value.trim();
+            if (!query) {
+                alert('Please enter a query first');
+                return;
+            }
+
+            const executeBtn = document.getElementById('executeQueryBtn');
+            const resultsDiv = document.getElementById('routerResults');
+            const resultsContent = document.getElementById('routerResultsContent');
+            
+            // Show loading state
+            executeBtn.innerHTML = '<div class="loading" style="width: 16px; height: 16px; border-width: 2px;"></div> Processing...';
+            executeBtn.disabled = true;
+            resultsDiv.style.display = 'block';
+            resultsContent.innerHTML = '<div class="loading"></div><p>Analyzing query...</p>';
+
+            try {
+                const response = await fetch('/api/query', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ query: query })
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+
+                const result = await response.json();
+                this.displayRouterResults(result);
+
+            } catch (error) {
+                console.error('Router query error:', error);
+                resultsContent.innerHTML = `
+                    <div style="color: var(--error-color); text-align: center;">
+                        <h3>❌ Query Failed</h3>
+                        <p>${error.message}</p>
+                        <button onclick="pipelineManager.executeRouterQuery()" class="action-btn btn-approve" style="margin-top: 15px;">
+                            🔄 Retry
+                        </button>
+                    </div>
+                `;
+            } finally {
+                executeBtn.innerHTML = '🚀 Execute Query';
+                executeBtn.disabled = false;
+            }
+        }
+
+        displayRouterResults(result) {
+            const resultsContent = document.getElementById('routerResultsContent');
+            
+            let html = `
+                <div style="border-bottom: 2px solid var(--gray-300); padding-bottom: 15px; margin-bottom: 20px;">
+                    <h3 style="color: var(--primary-color); margin-bottom: 10px;">🧠 Query Analysis</h3>
+                    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+                        <div style="background: var(--gray-50); padding: 12px; border-radius: 8px; border-left: 4px solid var(--info-color);">
+                            <strong>Intent:</strong> ${result.intent || 'Unknown'}
+                        </div>
+                        <div style="background: var(--gray-50); padding: 12px; border-radius: 8px; border-left: 4px solid var(--success-color);">
+                            <strong>Query Type:</strong> ${result.query_type || 'Unknown'}
+                        </div>
+                        <div style="background: var(--gray-50); padding: 12px; border-radius: 8px; border-left: 4px solid var(--warning-color);">
+                            <strong>Confidence:</strong> ${Math.round((result.confidence || 0) * 100)}%
+                        </div>
+                        <div style="background: var(--gray-50); padding: 12px; border-radius: 8px; border-left: 4px solid var(--primary-color);">
+                            <strong>Processing Time:</strong> ${result.processing_time || 'N/A'}
+                        </div>
+                    </div>
+                </div>
+            `;
+
+            if (result.results && result.results.length > 0) {
+                html += `
+                    <h3 style="color: var(--success-color); margin-bottom: 15px;">📊 Results (${result.results.length} items)</h3>
+                    <div style="max-height: 400px; overflow-y: auto; border: 1px solid var(--gray-300); border-radius: 8px;">
+                `;
+
+                result.results.forEach((item, index) => {
+                    const confidence = item.confidence_score || item.confidence || 0;
+                    const confidenceClass = confidence >= 0.8 ? 'high' : confidence >= 0.6 ? 'medium' : 'low';
+                    
+                    html += `
+                        <div style="border-bottom: 1px solid var(--gray-200); padding: 15px; ${index % 2 === 0 ? 'background: var(--gray-50);' : ''}">
+                            <div style="display: flex; justify-content: between; align-items: flex-start; margin-bottom: 8px;">
+                                <h4 style="margin: 0; color: var(--gray-800); flex: 1;">${item.content?.title || item.content?.task || 'Untitled'}</h4>
+                                <span class="confidence-badge ${confidenceClass}" style="margin-left: 10px;">${Math.round(confidence * 100)}%</span>
+                            </div>
+                            <p style="margin: 5px 0; color: var(--gray-600); line-height: 1.4;">
+                                ${item.content?.description || item.content?.details || 'No description available'}
+                            </p>
+                            <div style="display: flex; gap: 15px; font-size: 0.85rem; color: var(--gray-500); margin-top: 8px;">
+                                <span>Category: ${item.category || 'Unknown'}</span>
+                                ${item.similarity_score ? `<span>Similarity: ${Math.round(item.similarity_score * 100)}%</span>` : ''}
+                                <span>Chunks: ${item.chunk_ids?.length || 0}</span>
+                            </div>
+                        </div>
+                    `;
+                });
+
+                html += '</div>';
+            } else {
+                html += `
+                    <div style="text-align: center; padding: 30px; color: var(--gray-500);">
+                        <h3>🔍 No Results Found</h3>
+                        <p>Try rephrasing your query or using different keywords.</p>
+                    </div>
+                `;
+            }
+
+            // Add usage suggestions
+            html += `
+                <div style="margin-top: 20px; padding: 15px; background: var(--info-color-light); border-radius: 8px; border-left: 4px solid var(--info-color);">
+                    <h4 style="margin: 0 0 10px 0; color: var(--info-color);">💡 Query Tips</h4>
+                    <ul style="margin: 5px 0; padding-left: 20px; color: var(--gray-700);">
+                        <li>Try queries like: "Find items similar to [keyword]"</li>
+                        <li>Ask for statistics: "How many items in each category?"</li>
+                        <li>Look for patterns: "Analyze planning trends"</li>
+                        <li>Find duplicates: "Show duplicate planning items"</li>
+                    </ul>
+                </div>
+            `;
+
+            resultsContent.innerHTML = html;
+        }
+
         // Initialize the pipeline manager when the page loads
         let pipelineManager;
         document.addEventListener('DOMContentLoaded', () => {
             pipelineManager = new PipelineManager();
+            
+            // Set up Router Agent event listeners
+            document.getElementById('executeQueryBtn').addEventListener('click', () => {
+                pipelineManager.executeRouterQuery();
+            });
+            
+            document.getElementById('routerQuery').addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') {
+                    pipelineManager.executeRouterQuery();
+                }
+            });
             
             // Check for session_id parameter in URL
             const urlParams = new URLSearchParams(window.location.search);
