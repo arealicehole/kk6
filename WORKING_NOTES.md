@@ -1,4 +1,34 @@
 # K
+## 2025-11-11 (MIDDAY UPDATE)
+
+### Discord Update Posted
+- Posted KK6 priorities update to #ppk-general
+- Team now aware of today's tasks and progress
+- Message includes all critical items and box locations
+
+### Special K DM Sent
+- **Status:** ✅ SENT
+- **Request:** 20-30 pieces total
+  - ~10 for ring toss game prizes
+  - ~10 for general giveaways/raffle prizes
+  - ~10 for smoke section
+- **Tone:** Casual, friendly, no pressure
+- **Waiting on:** Response
+
+### Box Locations Confirmed
+- **Ginza** - Ready for delivery
+- **Fancy Pets** - Ready for delivery
+- **Amaranth** (toy store in AJ) - Ready for delivery
+- **Total boxes placed:** 0 (waiting on delivery)
+- **Total boxes ready:** 3
+
+### Greek Glass Update
+- **Status:** ✅ CONFIRMED
+- **Contribution:** Sent small box of goodies for gift bags
+- This helps with gift bag sourcing!
+
+---
+
 ## 2025-11-11 (EARLY MORNING UPDATE)
 
 ### EMAIL AUTOMATION SYSTEM COMPLETE
@@ -315,13 +345,13 @@ ANNA KICKBACK 6 - WORKING NOTES
 
 ### Need to Find:
 - Chill Pipe contact
-- Greek Glasses contact
-- Special K contact
+- ~~Greek Glasses contact~~ ✅ HAVE CONTACT (sent goodies)
+- ~~Special K contact~~ ✅ HAVE CONTACT (DM sent Nov 11)
 - Brian Jacobs contact
 - Bong Blazer contact
 - D1 contact
 - Tom Palms contact
-- Toy Store contact
+- Toy Store contact (Amaranth in AJ)
 
 ---
 
@@ -329,25 +359,26 @@ ANNA KICKBACK 6 - WORKING NOTES
 
 ### Confirmed:
 - Cherry Bomb - interested, waiting for details
+- Greek Glass - ✅ Sent small box of goodies for gift bags (Nov 11)
 
-### Pending:
+### Reached Out (Awaiting Response):
+- Special K - DM sent Nov 11 (20-30 pieces requested)
+
+### Pending Outreach:
 - Chill Pipe - 30 bongs (gave last year)
-- Greek Glasses - bongs (sent stuff before)
-- Special K - 20 bongs (NOTE: might owe them payment from last year)
 - Brian Jacobs - glass
 - Tom Palms - box hosting
-
-### Reached Out:
-- None yet
 
 ---
 
 ## BOX LOCATIONS
 
-### Confirmed:
-- Toy Store (confirmed willing)
+### Ready for Delivery:
+- Ginza (restaurant venue)
+- Fancy Pets
+- Amaranth (toy store in AJ)
 
-### Likely:
+### Likely/Pending Confirmation:
 - Tom Palms
 - Cherry Bomb
 

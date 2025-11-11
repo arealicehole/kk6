@@ -1,5 +1,5 @@
 # KANNA KICKBACK 6 - TASK TRACKER
-**Last Updated:** 2025-11-11
+**Last Updated:** 2025-11-11 (Midday)
 **Days Until Event:** 25
 
 🔴 = CRITICAL | 🟡 = HIGH PRIORITY | 🟢 = MEDIUM | ⚪ = LOW
@@ -32,18 +32,19 @@
 | 🔴 TODO | Ginza venue emergency walkthrough | Gilbert | Nov 10 | Photos, capacity assessment, talk to Maggie |
 | 🟡 TODO | Schedule Berkeley video interview | | Nov 11 | ✅ She's available! Propose: date/time/location |
 | ✅ DONE | Send emails to dispensaries (box hosts) | Claude | Nov 11 | ✅ 3 emails scheduled for 9am (Nirvana, Mint, Story Partners) - Revised |
-| 🟡 TODO | Send emails to vendors/sponsors | | Nov 11 | ✅ Special K DM drafted, others pending |
-| 🔴 TODO | Place donation boxes at locations | | Nov 13 | Tom Palms, toy store, Cherry Bomb, dispos |
+| ✅ DONE | Send DM to Special K | | Nov 11 | ✅ DM sent - awaiting response (20-30 pieces requested) |
+| 🟡 TODO | Send emails to other vendors/sponsors | | Nov 11-12 | Chill Pipe, Brian Jacobs, others pending |
+| 🔴 TODO | Place donation boxes at locations | | Nov 13 | ✅ 3 ready: Ginza, Fancy Pets, Amaranth (AJ) |
 | 🔴 TODO | Launch social posts #1-3 | | Nov 10-13 | Start the campaign ASAP |
 
 ### 🟡 HIGH PRIORITY
 | Status | Task | Owner | Due | Notes |
 |--------|------|-------|-----|-------|
-| 🟡 TODO | Finalize pinata order (ornament design) | Gilbert | Nov 10 | ~$100 life-size, send logo/branding specs |
+| ✅ DONE | Finalize pinata order (ornament design) | Gilbert | Nov 10 | ✅ Design sent to vendor |
 | 🟡 TODO | Propose interview details to Berkeley | | Nov 11 | Date/time/location for Sojourner video |
 | 🟡 TODO | Create flyer OR video OR paid ad | | Nov 10-11 | Need SOMETHING out immediately |
 | 🟡 TODO | Contact Chill Pipe (30 bongs) | | Nov 12 | |
-| 🟡 TODO | Contact Greek Glasses (bongs) | | Nov 12 | |
+| ✅ DONE | Contact Greek Glasses (bongs) | | Nov 11 | ✅ Sent small box of goodies for gift bags! |
 | 🟡 TODO | Contact Brian Jacobs (glass) | | Nov 13 | |
 | 🟡 TODO | Create content calendar with assignments | | Nov 10 | Who posts what, when |
 | 🟡 TODO | Map East Valley dispensaries | | Nov 14 | For ground game |
@@ -165,13 +166,15 @@
 |--------|------|---------|------|----------|------------|
 | ✅ DONE | Cherry Bomb | | | YES | Interested, waiting for details |
 | ⚪ TODO | Chill Pipe | | | | Ask for 30 bongs |
-| ⚪ TODO | Greek Glasses | | | | Follow-up from past |
-| 🟡 DRAFTED | Special K | DM ready to send | | | Ask: 20-30 pieces (10 ring toss, 10 prizes, 10 smoke) |
+| ✅ DONE | Greek Glass | | Nov 11 | YES | ✅ Sent small box of goodies for gift bags |
+| ✅ DONE | Special K | DM | Nov 11 | PENDING | DM sent: 20-30 pieces (10 ring toss, 10 prizes, 10 smoke) |
 | ⚪ TODO | Brian Jacobs | | | | Payson glass |
 | ⚪ TODO | Bong Blazer | | | | Dispensary connections |
 | ⚪ TODO | D1 | | | | Event support |
 | ⚪ TODO | Tom Palms | | | | Box hosting |
-| ✅ DONE | Toy Store | | | YES | Box hosting confirmed |
+| ✅ DONE | Amaranth (Toy Store AJ) | | | YES | Box hosting confirmed |
+| ✅ DONE | Fancy Pets | | | YES | Box hosting confirmed |
+| ✅ DONE | Ginza | | | YES | Box hosting confirmed (venue) |
 
 ---
 
@@ -179,16 +182,19 @@
 
 | Status | Location | Contact | Placed | Pickup Scheduled | Notes |
 |--------|----------|---------|--------|------------------|-------|
-| ✅ DONE | Toy Store | | | | Confirmed |
+| ✅ READY | Ginza | | NO | Dec 15 | Venue - box ready for delivery |
+| ✅ READY | Fancy Pets | | NO | Dec 15 | Box ready for delivery |
+| ✅ READY | Amaranth (AJ) | | NO | Dec 15 | Toy store - box ready for delivery |
 | ⚪ TODO | Tom Palms | | | | Likely yes |
-| ✅ DONE | Cherry Bomb | | | | Interested |
+| ⚪ TODO | Cherry Bomb | | | | Interested |
 | ⚪ TODO | [Dispensary 1] | | | | |
 | ⚪ TODO | [Dispensary 2] | | | | |
 | ⚪ TODO | [Smoke Shop 1] | | | | |
 
 **Total Boxes Needed:** 10-15
 **Total Boxes Placed:** 0
-**Total Boxes Confirmed:** 2-3
+**Total Boxes Ready for Delivery:** 3
+**Total Boxes Confirmed:** 5
 
 ---
 
