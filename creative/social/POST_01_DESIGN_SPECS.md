@@ -1,7 +1,21 @@
 # INSTAGRAM POST #1 - DESIGN SPECIFICATIONS
 **5-Slide Carousel Graphics**
-**Status:** 🔴 CRITICAL - Launch post for entire campaign
-**Due:** Nov 9, 2025 (TODAY)
+**Status:** ✅ UPDATED Nov 14 - Ready for design production
+**Due:** Nov 15-16, 2025 (ASAP)
+
+## 🔄 UPDATES MADE (Nov 14, 2025):
+- ✅ All content updated to match current event info
+- ✅ Games updated: Special K Ring Toss, Infamous Can of Krew Pinata
+- ✅ Added "FREE EVENT" emphasis
+- ✅ Listed actual box locations (Ginza, Fancy Pets, Amaranth)
+- ✅ Changed "Smoking Section" to "420-Friendly Space"
+- ✅ Updated food: "Orange Chicken & More from Ginza"
+- ✅ Corrected location from "East Valley" to "the Valley"
+- ✅ Timeline: Toy drive Nov 15-Dec 15, Final delivery Dec 15
+- ✅ AI prompts updated with current information
+- ✅ All 5 slides reflect accurate event details
+
+**READY TO USE:** All prompts and content are current as of Nov 14, 2025
 
 ---
 
@@ -58,8 +72,9 @@ KANNA KICKBACK 6
 Friday, December 6th
 2:00 PM - 6:00 PM
 Ginza • Gold Canyon, AZ
+FREE EVENT
 
-🎄 Holiday Party • Toy Drive • Community Love 🎄
+🎄 420-Friendly Party • Toy Drive • Community Love 🎄
 ```
 
 ### Design Concept:
@@ -209,13 +224,13 @@ Title: "WHAT'S HAPPENING AT KK6?"
 
 List format with icons/emojis:
 🎅 KannaKlaus & Elves
-🎮 Crane Game (win prizes!)
+💍 Special K Ring Toss
 🏓 Bong Pong Tournament
-🪅 Giant Pinata
-🛍️ 10+ Vendor Booths
-🎁 Giveaways & Raffles
-🍜 Food & Vibes
-💨 Smoking Section
+🪅 Infamous Kanna Krew Pinata
+🛍️ 10+ Vendor Booths (glass, products, growers)
+🎁 Giveaways & Raffles ALL DAY
+🍜 Orange Chicken & More from Ginza
+💨 420-Friendly Space
 🎶 Music & Community
 
 Bottom: "Free to attend. Bring a toy, get a gift bag."
@@ -284,10 +299,11 @@ Title: "HOW THE TOY DRIVE WORKS"
 STEP 1: DROP A TOY
 (Icon: Toy box)
 "Nov 15 - Dec 15 at dispensaries & community spots"
+"Locations: Ginza, Fancy Pets, Amaranth + more!"
 
 STEP 2: GET A GIFT BAG
-(Icon: Gift bag with cannabis leaf)
-"New toy = gift bag with goodies"
+(Icon: Gift bag)
+"New, unwrapped toy = gift bag with goodies & prizes"
 
 STEP 3: PULL UP TO KK6
 (Icon: Party/celebration)
@@ -468,10 +484,10 @@ Once Instagram carousel is created, adapt for:
 
 ## TIMELINE
 
-**Nov 9 (TODAY):**
+**Nov 15-16 (ASAP):**
 - Generate/design all 5 carousel slides
 - Team review and approval
-- Post to Instagram by EOD
+- Post to Instagram ASAP (we're behind schedule)
 
 **Post-Posting:**
 - Pin to profile immediately
@@ -509,12 +525,12 @@ To create these graphics, gather:
 
 ---
 
-**Status:** Ready for production
-**Priority:** 🔴 CRITICAL - This is Post #1 of 15
+**Status:** Ready for production (info updated, behind schedule)
+**Priority:** 🔴 CRITICAL - This is Post #1 of 15, OVERDUE
 **Owner:** [Assign to designer or AI generation team]
-**Due:** Nov 9, 2025 (TODAY)
-**Next Step:** Generate 5 slides and post
+**Due:** Nov 15-16, 2025 (ASAP)
+**Next Step:** Generate 5 slides and post immediately
 
 ---
 
-**Last Updated:** 2025-11-09
+**Last Updated:** 2025-11-14

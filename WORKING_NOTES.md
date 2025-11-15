@@ -1,4 +1,150 @@
-# K
+# KANNA KICKBACK 6 - WORKING NOTES
+**Live document for daily updates, decisions, and changes**
+
+---
+
+## 2025-11-14 (UPDATES FROM VOICE NOTES & USER INFO)
+
+### ✅ MENU APPROVED!
+- **Status:** Menu approved by Maggie/Ginza (Nov 10)
+- **Items REMOVED from menu:**
+  - **Ramen** - Too long to make, complicated ingredients
+  - **Dragon Roll** - (Gilbert notes: "really fucking easy" but Maggie said no)
+  - **Spicy Yellow** (Yellowtail?) - Too difficult prep
+- **10% Revenue Confirmed:** Maggie confirmed via text that KannaKrew gets 10% of food sales (Nov 10)
+  - Important: This is for event expenses, NOT donation to Sojourner
+  - Gilbert got written confirmation in text message
+- **Impact:** Unblocks menu design and printing tasks
+- **Next Steps:**
+  - Ask Maggie if there's anything else she wants to add to replace removed items
+  - Design menu with approved items
+  - Prepare for printing
+
+### 🎉 VENUE CRISIS RESOLVED!
+- **Gilbert did drive-by of Ginza** (Nov 13)
+- Cactus planting DID limit space, but **Gilbert is not worried**
+- Quote: "It'll just look more full" - event is still viable
+- **Decision:** Moving forward with Ginza venue
+- **Status change:** Venue concern downgraded from CRITICAL to MANAGEABLE
+
+### Email Draft Found & Critiqued
+- Located existing email draft in `/raw/c/KK6 - Email draft request.htm`
+- Gilbert provided detailed critique and revisions needed (Nov 13)
+- **Key Changes Required:**
+  - Remove "If you're new to us" - they did it last year with Tom's Palms
+  - Add context: Tom's Palms was liaison last year, they're sick this year
+  - Change "East Valley" to "the Valley" (location varies)
+  - Remove KannaKlaus branding from box, keep "festive donation box"
+  - Add "social media assets" to what we provide
+  - **WE ARE NOT providing pre-rolls** - just mention some dispensaries did it before
+  - Change to "unwrapped toys" (not wrapped)
+  - **Sign as: Gilbert Trout** (T-R-O-U-T-T) not Gilbert Figueroa
+  - Can separately pitch vendor booth participation
+
+### Content Creation Status (Nov 13)
+- **CRITICAL:** Zero posts done out of 15 planned (as of 3 days ago = Nov 10)
+- ChatGPT refused to generate countdown content
+- **Alternative tools:** Grok, Gemini, or Sora for video generation
+- Gilbert has posted some content in Discord chat - needs review
+- Action plan: Create content → Review all options → Schedule posts
+- Post to #ppk-general to get team involvement
+
+### Cartoon Ad Concept
+- Gilbert wants animated cartoon ad for kickback
+- Style: "Grungy, ganja game style"
+- Concept: KannaKlaus workshop → reveals stoned skunk character prototype
+- Needs: Storyboard and script for video generator
+- **Status:** Idea captured, needs development
+
+### Context Clarifications
+- **Last year (KK5):**
+  - KannaKrew + Tom's Palms did COMBINED toy drive
+  - Tom's Palms had all the dispensary contacts
+  - Dispensaries gave pre-roll with each toy donation
+  - Nirvana definitely did pre-rolls, others may not have
+- **This year (KK6):**
+  - Tom's Palms is sick, doing something else for holidays
+  - We got dispensary contact info from Tammy (Tom's Palms)
+  - Goal: Continue what worked last year without Tom's Palms
+  - Location is "the Valley" not just "East Valley"
+
+### Berkeley Video Interview (Sojourner Center)
+- **Status:** ✅ CONFIRMED AVAILABLE (Nov 10-12)
+- **Berkeley's Availability:**
+  - Wednesday afternoon
+  - Friday before 3pm
+  - Prefers meeting at Sojourner Center location
+- **Action Needed:** Schedule specific date/time ASAP (sooner is better)
+- **Content Plan:** Film interview for social media content
+
+### Content Creation Updates (Nov 11-13)
+- **CRITICAL STATUS:** Zero posts out of 15 planned as of Nov 10
+- **AI Tool Issues:**
+  - ChatGPT refusing to generate some content
+  - Alternative tools recommended: Grok, Gemini, Sora
+  - TikTok suppressing AI content with watermarks
+  - Consider paying $20/month for Sora to remove watermarks
+- **Content Ideas from Transcripts:**
+  - "Hot Box Podcast" - Film while smoking in car on way to drop off boxes
+  - Stream making donation boxes on Instagram Live
+  - Claymation/cartoon Santa videos (Gilbert made one, demonic first try)
+  - Comedy content (not just cheesy Santa stuff)
+  - Recycled content from last year (acceptable for now)
+  - Still frame flyers
+  - Pop culture character countdown series
+  - Cameo integration (Snoop Dogg, celebrities for promo)
+
+### Team Dynamics / Concerns (Nov 13)
+- **Community Engagement Crisis:**
+  - Posted to #ppk-general, zero responses
+  - Dom considering stepping back from Trapper Dan
+  - Bong Blazer not responding much
+  - Mason hasn't been seen in a week
+  - Overall: "Way down there now" in community engagement
+- **Root Cause:** Prolonged inactivity, inconsistent content
+- **Team Assessment:** "Our inactivity for so long...we're losing people"
+- **Solution Needed:** Show up consistently, not just for events
+  - Need regular content schedule
+  - Can't just "show up" - need to evolve and innovate
+  - Friday Night Freestyle example: did same thing for year, engagement declined
+
+### Vendor Updates
+- **Cinnamon (Nov 11):** Event coordinator finally responded, confirmed Nov 21st event, 4-10pm, setup at 3pm
+- **HC Quality Glass (Nov 12):** Interested in kickback, potential collab giveaways
+- **Competing Event Alert (Nov 11):** Misha's Goods has ladies night on Dec 6 (same day)
+- **Ace of Wings (Nov 12):** Coming to Phoenix Dec 6 - could potentially invite?
+
+### Production / Operations Notes
+- **Donation Boxes (Nov 13):**
+  - Plan: Make boxes, stream it on Instagram
+  - Deliver to Amaranth and Ginza
+  - Need wrapping paper
+- **Nirvana Event (Nov 12):** Nov 21st at Nirvana on 7th (Ave or Street), asked if bringing blown glass
+- **Custom Wrapping Paper:** Decided against due to time/other priorities
+- **Event Swag:** Considering minimal event-specific items (past attempts didn't sell well)
+- **T-shirt Orders:** Kane waiting on polo orders, focus shifting to custom one-offs
+
+### AI/Tech Tool Updates
+- **Sora Access:**
+  - App is limited, but sora.OpenAI.com has more features
+  - Can extend from 10 to 15 seconds
+  - Can change landscape/format
+  - Cameo integration possible but limited
+  - $20/month ChatGPT unlocks more Sora features
+  - $200/month gets 1080p, 30+ second videos
+- **Canva Connector:** Johnny Fab recommended Claude + Canva connector for graphics
+- **Video Tools Mentioned:** Runway, Hey Gen, VO3 (Google), Cling, Flux
+
+### Other Notes
+- **Podcast Plan:** Still valid, focus on 3-4 episodes instead of 6-8
+  - Get Berkeley on camera
+  - "Hot Box" format in car
+  - Talk about process/checklist
+- **Insurance Needed:** Mentioned on Nov 13 final call
+- **Lead Sponsors Needed:** Nov 13 priorities
+
+---
+
 ## 2025-11-11 (MIDDAY UPDATE)
 
 ### Discord Update Posted

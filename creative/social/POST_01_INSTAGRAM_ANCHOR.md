@@ -1,8 +1,21 @@
 # INSTAGRAM POST #1 - KK6 GRAND ANNOUNCEMENT
 **Type:** Carousel (5 slides)
 **Purpose:** Pinned anchor post explaining everything about KK6
-**Status:** Ready to produce
-**Post Date:** November 9, 2025
+**Status:** ✅ UPDATED Nov 14 - Ready to produce
+**Target Post Date:** ASAP (Nov 15-16, 2025)
+
+## 🔄 UPDATES MADE (Nov 14, 2025):
+- ✅ Changed "East Valley" to "the Valley" (location context)
+- ✅ Added "FREE EVENT" callout
+- ✅ Updated games: Special K Ring Toss, Infamous Can of Krew Pinata
+- ✅ Changed "Smoking Section" to "420-Friendly Space"
+- ✅ Added "Orange chicken & MORE from Ginza" (menu approved)
+- ✅ Listed specific box locations: Ginza, Fancy Pets, Amaranth
+- ✅ Emphasized "new, unwrapped toys"
+- ✅ Added vendors: "glass artists, cannabis products, local growers"
+- ✅ Updated timeline: Toy drive Nov 15-Dec 15, Delivery Dec 15
+- ✅ Changed post date from Nov 9 to Nov 15-16 (we're behind)
+- ✅ Added new hashtags: #TheValley, #Tempe
 
 ---
 
@@ -11,39 +24,46 @@
 ```
 🎄✨ KANNA KICKBACK 6 IS BACK ✨🎄
 
-Year 6 of the East Valley's favorite holiday smoker's party + charity toy drive 💚
+Year 6 of the Valley's favorite holiday smoker's party + charity toy drive 💚
 
 📍 Ginza Restaurant, Gold Canyon
 📅 Friday, December 6th
 ⏰ 2:00 PM - 6:00 PM
+🎟️ FREE EVENT
 
-This December, we're doing what we do best: throwing the most festive cannabis-friendly kickback while making the holidays brighter for local families. All toys benefit the Sojourner Center.
+This December, we're doing what we do best: throwing the most festive 420-friendly kickback while making the holidays brighter for local families. All toys benefit the Sojourner Center.
 
 🎁 THE MISSION:
 Beat last year's $6,500 in toy donations. From KK3's $4,200 to KK5's $6,500, we've grown every single year. Let's make KK6 the biggest yet.
 
 🎅 WHAT TO EXPECT:
 • KannaKlaus & his elves
-• Games: Crane Game, Bong Pong, Pinata
-• 10+ vendor booths (glass, cannabis products)
+• Special K Ring Toss game
+• Bong Pong tournament
+• Infamous Can of Krew Pinata
+• 10+ vendor booths (glass, cannabis products, local growers)
 • Giveaways & raffles all day
-• Orange chicken & Asian food
-• Smoking section (obvi)
+• Orange chicken & more from Ginza
+• 420-friendly space
 • VIBES
 
 🎁 HOW IT WORKS:
-Starting Nov 15th through Dec 15th, donation boxes will be at dispensaries, smoke shops, and community spots across the East Valley. Bring a new, unwrapped toy = get a gift bag packed with weed, pre-rolls, goodies, and prizes.
+**TOY DRIVE: Nov 15 - Dec 15**
+Donation boxes at dispensaries, smoke shops, and community spots across the Valley. Bring a new, unwrapped toy = get a gift bag packed with goodies and prizes.
 
-THEN pull up to the Kickback on Dec 6th to celebrate.
+**THE PARTY: Dec 6, 2-6pm**
+Pull up to the Kickback to celebrate with food, games, vendors, and community love.
 
-Final toy collection: December 15th.
-📍 Box locations dropping soon. Follow for updates.
+**DELIVERY: Dec 15**
+All toys delivered to Sojourner Center to help local families this holiday season.
+
+📍 Box locations: Ginza (Gold Canyon), Fancy Pets (Tempe), Amaranth Toy Store (Apache Junction) + more coming!
 
 Fun first. Charity always. Year 6, let's make it legendary.
 
 Tag 3 friends who need to pull up 👇
 
-#KannaKickback #KK6 #KannaKrew #KannaKlaus #ToyDrive #GoldCanyon #EastValley #CannabisCharity #ApacheJunction #QueenCreek #Florence #CommunityCulture #SojournerCenter #HolidayGiving #420Community #ArizonaCannabis
+#KannaKickback #KK6 #KannaKrew #KannaKlaus #ToyDrive #GoldCanyon #TheValley #CannabisCharity #ApacheJunction #QueenCreek #Tempe #CommunityCulture #SojournerCenter #HolidayGiving #420Community #ArizonaCannabis
 
 ---
 
@@ -119,13 +139,13 @@ Fun first. Charity always.
 WHAT'S HAPPENING AT KK6?
 
 🎅 KannaKlaus & Elves
-🎮 Crane Game (win prizes!)
+💍 Special K Ring Toss
 🏓 Bong Pong Tournament
-🪅 Giant Pinata Smashing
-🛍️ 10+ Vendor Booths (glass, products)
+🪅 Infamous Can of Krew Pinata
+🛍️ 10+ Vendor Booths (glass artists, cannabis products, local growers)
 🎁 Giveaways & Raffles ALL DAY
-🍜 Orange Chicken & Asian Food
-💨 Smoking Section
+🍜 Orange Chicken & More from Ginza
+💨 420-Friendly Space
 🎶 Music, Vibes, Community
 
 Free to attend. Bring a toy, get a gift bag.
@@ -151,11 +171,12 @@ Free to attend. Bring a toy, get a gift bag.
 HOW THE TOY DRIVE WORKS
 
 STEP 1: DROP A TOY
-Nov 15 - Dec 15: Find a donation box at dispensaries, smoke shops, and community spots across the East Valley (locations dropping soon!)
+Nov 15 - Dec 15: Find a donation box at dispensaries, smoke shops, and community spots across the Valley
+Locations: Ginza (Gold Canyon), Fancy Pets (Tempe), Amaranth (AJ) + more!
 
 STEP 2: GET A GIFT BAG
 Bring a new, unwrapped toy = instant gift bag
-(weed, pre-rolls, goodies, prizes)
+(goodies, prizes, and swag)
 
 STEP 3: PULL UP TO KK6
 Celebrate with us on Dec 6th at the biggest Kickback yet
@@ -220,8 +241,9 @@ Year 6. Let's make it legendary.
 ## 🎯 POSTING STRATEGY
 
 ### **Timing:**
-- **Post Date:** Saturday, November 9th
+- **Post Date:** ASAP - Friday Nov 15 or Saturday Nov 16
 - **Best Time:** 10:00 AM - 12:00 PM OR 6:00 PM - 8:00 PM
+- **Note:** We're behind schedule - post ASAP to kick off campaign
 
 ### **Immediate Actions After Posting:**
 1. Pin to profile immediately

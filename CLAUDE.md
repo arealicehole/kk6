@@ -189,5 +189,31 @@ How to plug in:
 
 
 
-All K’s, no C’s: KannaKrew • KannaKickback • KannaKlaus.
+All K's, no C's: KannaKrew • KannaKickback • KannaKlaus.
+
+---
+
+## IMAGE GENERATION - CRITICAL RULE
+
+**ALWAYS AND ONLY USE THE VISUAL-CREATOR SUBAGENT SYSTEM FOR IMAGE GENERATION**
+
+- **Location:** C:\Users\figon\zeebot\.claude\agents\visual-creator\
+- **How to use:** Invoke the Task tool with subagent_type="general-purpose" and act as the coordinator agent
+- **NEVER create Python scripts for image generation**
+- **NEVER use Python scripts in /creative/social/images/ folders**
+- **NEVER bypass the subagent system**
+
+The visual-creator subagent system includes:
+- Coordinator (orchestrates workflow)
+- Content Parser (extracts design specs)
+- Prompt Engineer (creates optimized prompts)
+- Generator (calls OpenRouter API)
+- Reviewer (quality control)
+
+**Example invocation:**
+```
+Use the visual-creator subagent to regenerate slide 3 from POST_01_DESIGN_SPECS.md
+```
+
+This rule applies to ALL image generation tasks. No exceptions.
 

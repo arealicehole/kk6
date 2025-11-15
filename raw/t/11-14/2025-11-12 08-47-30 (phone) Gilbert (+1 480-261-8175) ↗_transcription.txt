@@ -1,0 +1,223 @@
+Speaker A: Yo, what up? Hold on, I'm trying to something. I'm on some. I'm on some hot fire right now.
+Speaker B: Okay. What? I'm Sora or something? Yeah, you know, Sora's cool. But it's kind of like. Remember when Chat GBT dropped the new image for 4.0 and then everyone was like, ah. And they went through the studio Ghibli phase and all that.
+Speaker C: Yeah.
+Speaker B: Okay. But then it turns out that, you know, it like, it's not better than stable diffusion or flux. Right. But it's good for just like general text prompting. Right. It's like more consumer focused, but it's not necessarily the best. And I think it's the same thing with Sora.
+Speaker A: Sorry, right now. Because we've been talking about that even before.
+Speaker C: Yeah.
+Speaker A: Sort of came out. Like, yo, there's this Runway stuff and we get Claude AI aboard, like, and we locally host it. Like, well, you can't.
+Speaker B: Runway. I don't think there are open source video ones. I haven't really seen people talking about them, so I'm assuming they're probably not. And then like to snuff. And then also I don't know what the VRAM was like, but I did find. But anyways, there's a few of them though. Runway. Hey, Gen. That are videos. So like you're going to run out of your credits or whatever. It doesn't mean you have to stop. And then also you might find more success maybe or the same success on another one. Something to think about. And then also those other ones can take image inputs a lot of the time, which will allow us to control it better. Oh, oh, oh. You know, there's a. Ah, damn. What is it called? You should look it up. It's a Google one. And I can't remember what the name of the thing was, but it was here. Come over. It was. It's VO3. Right. Is the video generator. But it's. They have a. An editor that. Remember I was like, you can click extend. That was on Google, not on Sora. And.
+Speaker A: Right, right, right, right. Yeah. No, that one thing that I was looking at, you could sit there and also you could daisy chain scenes together and they would add in transitions for you.
+Speaker B: So that sounds like cling or something. But.
+Speaker A: Yeah, yeah, right, yeah. No, because it was like you can use the geo, you can use the.
+Speaker B: Clean, you could use a different age API. This one, this is Google's actual tool. And I forget what it's called. It's not Opal, it's a different one. And Fire Studio, or that might be something else too, but it was something. And has VO 3.1 built in. And then you just, like, generate images, and then you could. It literally populates a timeline, and you can like, push it on the timeline and then, you know, generate on the timeline or whatever based on what it was.
+Speaker A: And you know what, I was talking to the wine fool and Nico, right. The other sushi shifted and. Because I was showing him some of the stuff that I was doing, and he was like, man, this shit's amazing. Right? And then he was talking about. And he's 100 right on this. But you get, like. You start collecting menial scenes kind of deal. Like the alert button flashing and fucking. The casual pan through the city sky. Like, stuff that doesn't have, like, characters in it whatsoever. You know, like the city lights reflecting from the fucking raindrops. And like that. And then he was like. And then you collect enough of those, then you start filling in the. And you got a movie.
+Speaker B: B roll. Yeah, I. I'm just. I don't know how you're gonna get character consistency on sword.
+Speaker A: Right? No, like, you know, there's no vehicle.
+Speaker B: For that unless you. But cameo thing, which isn't good for anything other than your person.
+Speaker C: Right.
+Speaker A: So this is what. And then this is what I was thinking about, right?
+Speaker B: Yeah.
+Speaker A: Like, we get like, an account. Right. Or something like that. And like Delilah, for example, you know, because we've hired her out and paid for cameo. Yeah. Right. And so we sit there and then like, we're like, all right, we need these particular scenes, you know, with this particular person. We came yet we pay her out or whatever. The. We came here out to the scenes. Yeah.
+Speaker B: Isn't it, like, for your account, you get one cameo?
+Speaker A: Well, you can. I mean, you can get rid of the cameo and get a new.
+Speaker B: Because my thought was a. Like, for Ofo, like Delilah, for instance. Like, hell, yeah. People are gonna throw her in her. In their. And then when they post it, everyone's gonna be like, what's her at?
+Speaker A: Right, right.
+Speaker B: I mean, that's. And then you have potential for a bunch of randos posting you. And then you getting the. You just gotta be searching.
+Speaker A: That's.
+Speaker B: That's the Lila.
+Speaker A: But more specifically, how to get, like, actors. You know what I'm saying?
+Speaker B: Yeah. So, I mean, Snoop Dog is on there, right? Done. Snoop should be the number one advertiser for the kickback. Like, it only makes sense. Snoop and that dude in the wheelchair.
+Speaker A: Maybe smoking with that dude in a wheelchair at the Kickback.
+Speaker B: I like it. And then. What are you doing, dude? Butterflies. Yeah. Come on, let's go. Let's get food.
+Speaker A: Yeah, I made this, like, anime boxing sequence, yo, and it looks really cool.
+Speaker B: I believe it. Come on.
+Speaker A: And then they actually were like, fighting kind of deal, right? Oh, this is dope.
+Speaker B: Come on. Go outside, get some food. It. Come on inside. Hold up.
+Speaker C: Dang.
+Speaker B: I know. I want to put the harness on you and take you outside, but gotta wait. You gotta wait. You better take your ass to sleep. So you're up at three, Dave. Oh, you want food? You hungry?
+Speaker A: Yeah. Once you can, like, extend scenes with Sora and create character.
+Speaker B: That's hilarious. Because you're like, man, once you could do this with this tool, it's just gonna be so amazing.
+Speaker A: We already have the tools.
+Speaker B: Do that right now. Just don't use spyware. Like, there's a dude from the NSA that sits on the board at OpenAI. The one dude they had, it was like, ethical AI guy they got rid of. Like, those people are scum.
+Speaker A: One of my case stubs because it has her business name on.
+Speaker B: Oh, my boy. We never got your poop. Come here. It.
+Speaker C: Sit.
+Speaker B: Sit.
+Speaker A: Be good, boy.
+Speaker C: Sit.
+Speaker B: Elbow.
+Speaker A: Come on.
+Speaker B: Come around. Sit. Hey, sit.
+Speaker A: Sit.
+Speaker B: Oh, boy. Stay. Oh, man. Eat your food, my boy.
+Speaker C: Eat it.
+Speaker B: Eat it. I know you took two poops out there and you played a whole bunch. You gotta be hungry. You emptied your and burned your energy. All right, I gotta start getting my.
+Speaker A: It's it.
+Speaker B: Oh, yeah, I gotta do a.
+Speaker A: It. It's.
+Speaker B: Eat your food. Good boy.
+Speaker A: How do I don't get this? Oh, I guess I don't know how to do the cameo thing properly. Did it flag me for third party likeness to Snoop Dogg?
+Speaker B: Did you click at Snoop Dogg? Yeah. You have to properly put the cameo in.
+Speaker A: You can't just say Snoop.
+Speaker B: It's got to be his username.
+Speaker A: Says Cameo not available. Maybe it's this Snoop Doggy Dog. No, I don't. It. Oh, that's fine.
+Speaker B: Can't do it.
+Speaker A: Yes, this cameo is unavailable, sir.
+Speaker B: Try somebody else.
+Speaker C: Hey, babe, what you doing?
+Speaker A: Let's see what happens with this one.
+Speaker B: Oh, Tucker Carlson just posted a thing. Why are they spraying pathogens into the clouds?
+Speaker A: All right, so those people finally came back. They said they came to have us at that event November 21st. It's from 4 to 10.
+Speaker B: Okay.
+Speaker A: And then he just wants to know when we want to come up, come in and set up, like, what time?
+Speaker B: I don't know, three.
+Speaker A: All right.
+Speaker C: Right.
+Speaker A: It would typically Come an hour before it.
+Speaker B: Why would we get Ace of Wings to come.
+Speaker C: Phoenix, Arizona. Phoenix, Arizona.
+Speaker A: I guess I just ignored it.
+Speaker B: No, they're doing something on the same day.
+Speaker C: Phoenix, Arizona. Phoenix, Arizona. Guess what? Glad I'm finally coming to Arizona. Be doing a meet and greet, eating contest. Everything is going down.
+Speaker B: He's talking about the influencer.
+Speaker C: December 6th.
+Speaker B: It's worth a shot. Probably.
+Speaker A: Oh, these guys think we're a glass company.
+Speaker B: Who this? Okay, now.
+Speaker A: Because he was like, will you be blowing glass on site?
+Speaker B: No.
+Speaker A: Yeah, right.
+Speaker B: I said Special K. Oh, wait. That is something we possibly can do. But we just have to figure out inventory since Chris is gone. Okay. All right. Something we definitely can do. No pressure. December 6th. Okay, that's nice. Oh, shit. What they call the conspiracy theory is now fact. Tens of thousands of non citizens were on Arizona's voter rolls after a lawsuit by America First Legal. The state is removing nearly 50,000 registrants lacking proof of citizenship. Counties under Katie Hobbs and Adrian Fontes ignored the law for years. Now they're being forced to clean it up.
+Speaker A: Is that accountability?
+Speaker B: Because that sounds like. Like we've been scammed and like. And the governor, what, oversaw it because she was Secretary of State at the time. So like, is she going to prison or, you know, here.
+Speaker C: All right, all right.
+Speaker B: I need to make some money. I gotta make some money.
+Speaker A: So we're gonna bring that. I guess we should bring some blow glass and around.
+Speaker B: Hell yeah. We. It's the. Which. What's the location?
+Speaker A: The nirvana on 7th Ave. Or something like that or 7th street something. I don't know. I sent that, so I'll find it again.
+Speaker B: That's fine. Seventh. This way. There's not going to be one on 7th street and 7th Ave. Yeah, yeah, right.
+Speaker A: I'm in Phoenix. I didn't know whether the streets were for sure. They're like Starbucks out here. Oh, my beautiful baby. Arthur peed the bed last night.
+Speaker B: Yeah, Benjamin peed the bed till he was like 10. Okay, let's go, Rhonda. Santa says we should eliminate property taxes. The United States. It's almost like they have to pay rent to the government just to enjoy the property. That's wrong. And we need to do something about it. Oh, yeah. So you heard what they did, right? They. So the government's been shut down. And then they're like. All the Democrats. Eight Democrats are gonna get. Are gonna sign on with the Republicans and. Dude. And then we're gonna get this bitch open.
+Speaker C: Like. Yeah.
+Speaker B: And then you know what they did? They put a Provision in the new spending bill, which, by the way, is a cr. It just continues spending until January. Then there you have to come up with another budget and we have another government shutdown, right? So it doesn't actually fix the problem, but they put language in. Apparently the tobacco or the alcohol lobby had their way. And Mitch McConnell, senator from Kentucky, put verbiage in. Well, first off, Mitch McConnell isn't even fucking lucid. He's like Joe Biden. He can't do interviews anymore. They removed him from leadership. Like he's fucking demented, right? And the fact that he's still senator is fucking crazy. But.
+Speaker A: Weekend at Bernie, we had a.
+Speaker B: Weekend at Bernie's presidency, dog. Like, what the fuck?
+Speaker C: Like, how is anybody okay with that? How could you be okay with that? And then not only did we have weekend of presidency, yo, they tried to just extend it for four years. Like, we wouldn't even notice.
+Speaker A: Send it over here, Marcus. Let me get back to the start.
+Speaker B: But anyways, so this is what they did. They put a provision in the continuing resolution which was not part of the continuing resolution, which they've been extending since 2022. Okay? We've been running the same budget for that long and fucking. They put a provision in there to. It doesn't ban hemp products, but it says that they can only have point oh 2%. And I have the research and I have to read it. Exactly what the language is. But it's like they said, well, now you can only have.02%. THCA or whatever, the non psychoactive, the. The shit they've been, the loophole drugs. They put the loopholes in there now, right? So effectively killing the fucking hip game, you know? So, like, what's chance look like now? If you can't have Delta 9 or THCA or O or HHC or any of that.
+Speaker A: Yeah. Especially in a mass concentrate. Like, it all has to be like.
+Speaker B: Yeah. So, like, so they. So our government, that everyone's been freaking out. There's been national craze for 41 days over the government being shut down. They said the only way we're opening this bitch up is if we fucking get rid of legal hemp. Yeah, that just happened. Yo, and then Rand. Then Rand Paul goes up and says, hey, no, okay. He puts an amendment to take that piece out. Like, let's just pass the thing without that part. Right? And it got shot down 74 to 24. What was the vote on that? 74 senators were like, no, we're not gonna get rid of that. Like, we're just gonna use this government shutdown to destroy an industry. Like.
+Speaker A: A lot of these people are probably alive before World War II started.
+Speaker B: Yo, and then, and then, then you have the massive social media campaign now. Is Rand Paul the only Republican to vote to keep the government shut down? What a piece of shit. And it's like, no, man. He was trying to stop the Fed from just eliminating people's livelihood. Like, like, okay, okay, so unemployment bad. Well, now we have 500,000 more unemployed people because they can't work in the fucking hip sector anymore. That's been around for 13 years.
+Speaker C: Right?
+Speaker B: It's not like it just happened.
+Speaker A: We're still gonna have to reclose the government.
+Speaker C: Yeah, In January.
+Speaker B: We're gonna have to do this all over again.
+Speaker C: Like, what the fuck, dude?
+Speaker A: Yes.
+Speaker B: Fucking crazy. Like our shit is just bought and paid for. And if your team are or Team D, then you're a fucking idiot. Because then motherfuckers is there is no team. Our Team D. There's Team fucking Teabag. Yo.
+Speaker A: They.
+Speaker B: That's it, is it? Team Teabag, the Teabag party. We're just gonna rub our nuts across everyone's face as much as humanly possible.
+Speaker A: You like that?
+Speaker B: Like that is just crazy, dude. I mean, it doesn't matter if it was hemp or what. Like anything like this isn't about opening the gun or snap benefits or none of that, bro. It's about alcohol lobby.
+Speaker A: Right? Yeah, with lose in. Because also think about the statistics on how many people have quit consuming alcohol. The candidate crazed.
+Speaker B: Dog. It's crazy. And what's crazy too is like Gen Z's not even with. I think Gen Z or Alpha or whatever the newest one is. I think they're like the lowest drug consumers per capita of any generation. Last fucking hundred years type shit here. Hold on one second. I'm getting a full. God. Oh, man. I almost forgot what you sound like, my friend.
+Speaker C: What?
+Speaker B: I almost forgot what you sound like.
+Speaker C: You're fine.
+Speaker B: I ain't seen you since. You got a puppy.
+Speaker C: I got a puppy.
+Speaker B: Yeah.
+Speaker C: What are you doing?
+Speaker B: I've been sitting around wishing I had someone to love on.
+Speaker C: Oh, Snuggie, I miss you.
+Speaker B: I miss you. Shawty. You need a Sammy sandwich. You got that?
+Speaker C: No getting ready. No family today. I made some coffee though.
+Speaker B: Okay. Cafe? Getting ready. About ready to leave for work? No.
+Speaker C: Yeah, yeah. No, I'm like running late again.
+Speaker B: Oh.
+Speaker C: I got like terrible time management skills. Hold on. Terrible it all morning. Oh, sh. I miss you.
+Speaker B: I miss you. Flug. It's Been too long. How we go from oh man, I can't two days is too long to now we're at two weeks. Shoot. A week. I don't know how long it's been. One week?
+Speaker C: No, my grandchildia a few days ago and got that carrier.
+Speaker B: Like Saturday or something.
+Speaker C: That was like three days ago, I swear.
+Speaker B: Was it?
+Speaker C: Yeah, I think it was like literally like three days ago. My last day off.
+Speaker B: Thursday.
+Speaker C: Thursday. It's Wednesday. Shout out the week. Will that be Longo in the background?
+Speaker B: Yeah, he's outside. Come on. Yeah, Good boy. Dave wants to go outside so bad. I bet. Yeah, he's not allowed. We got a cat harness, but I'm waiting for my mom to be here.
+Speaker C: You what?
+Speaker B: I'm waiting for my mom to be here so we do that together. Because I don't want to do it without her.
+Speaker C: What is it?
+Speaker B: A cat harness. So we take them outside. A cat artist harness and leash.
+Speaker C: Oh, a cat harness. Oh, but he's escaped. Because he's the only one to blame.
+Speaker B: Yeah, well, then too. I think it's going to be a great thing for him. And you know, he's supposed to be my mom's cat, so. Yeah, just wait.
+Speaker C: Shoddy's a little smarty.
+Speaker B: What are you smarty? You cute as hell.
+Speaker C: You're a smarty.
+Speaker B: You're smarty. Shoddy. Oh, shawty got a smackable booty. Yes, you do. Why is it always Peter Frampton? You know, you just make me sing Peter Frampton, which is just crazy. I don't even be with Frampton like that. Yo.
+Speaker C: The framps.
+Speaker B: I even be with the framps like that. You feel me?
+Speaker C: The fr.
+Speaker B: But let me tell you, it's just something about you shy that make me sing the frs. Oh, Sh. Making me sing the fr. Yes, he is. I shot him.
+Speaker C: All right, shut him. Hold on, I got time. The hair dryer. Okay.
+Speaker B: All right, hold on. To match this invite, scratch the previous overlay. Okay, so we're just gonna take it in here. Sh. You blow drying your hair is one of my favorite parts of the morning. Sh.
+Speaker C: Oh, is it?
+Speaker B: Yeah, the out.
+Speaker C: Cuz I'm making doing it.
+Speaker B: That's definitely part of it. Just get to watch you dance in the mirror, blow dry your hair, and that's them. Upper ashes do their thing. Shawty. Are you kidding me?
+Speaker C: Oh, my God.
+Speaker B: Oh, my God.
+Speaker C: Oh, yeah. I now remember why I stopped using that credit on my hair. So it's supposed to leave it the down. Makes it look uber greased aside.
+Speaker A: Okay, whatever.
+Speaker C: Go Just go.
+Speaker B: Who said you ain't got time for that?
+Speaker C: No, I don't.
+Speaker B: Let's sell it.
+Speaker C: Friday, Charlie.
+Speaker B: Friday.
+Speaker C: Yeah, what about it?
+Speaker B: That's when you got the day.
+Speaker C: Yeah, I. I'm gonna go to the pedicure Friday morning.
+Speaker B: Okay.
+Speaker C: I'm off on the 18th and the 19th birthday.
+Speaker B: Yeah, we. What are we doing?
+Speaker C: What do you want to do?
+Speaker B: Everything. Shawnee. I mean, that's two days. We could. You can get your little vacay if you want. Yeah, unless you got some plans you trying to do on your birthday?
+Speaker C: I don't know anything.
+Speaker B: So. I should try to go get us a room in Flag.
+Speaker C: Yeah. See what you can get. Let me know before you. You say yes to it so I can lock it in.
+Speaker B: Okay. Sh. Did angel get her shocked yet?
+Speaker C: Not yet.
+Speaker B: You want to do that? She's not old enough. How old is she?
+Speaker C: She's only like five weeks. Four or five weeks?
+Speaker B: Oh, I thought she was. Damn, that's too young. You're not supposed to take them away from their parents till they're eight weeks.
+Speaker C: I said. I told you. I told you.
+Speaker B: She's five weeks when you got her.
+Speaker C: Yes. I guess she's like six. Six weeks now.
+Speaker B: How old does she have to be for a shot?
+Speaker C: I think eight weeks.
+Speaker B: Why? When I got Bilongo at eight weeks, he already had one round.
+Speaker C: Well, we're gonna have to take her in.
+Speaker B: Huh?
+Speaker C: We'll have to go take her in.
+Speaker B: You want me to look it up and stuff?
+Speaker C: Okay, look it up and stuff.
+Speaker B: She needs her to shock so that she can hang out with my bully.
+Speaker A: What is he.
+Speaker B: What was the verbiage he wanted? Annual Employee Celebrate Celebrations 2025. Annual Employee Celebration 2025. That's what I got.
+Speaker C: What was the Lego? Django, Lango, Django.
+Speaker B: Hopefully this one. She needs to get flooded.
+Speaker C: Flood plugged.
+Speaker B: Plugged in the forest. Plug. Plug in the forest.
+Speaker C: Hold on, I want to call you back.
+Speaker B: Okay?
+Speaker C: I love you.
+Speaker B: Bye. Joe Bear, are you still there? Holy damn. Johnny Fab just gave me something that was dope, though. He's not who called, but he texted me, said Claude agent with Canva connector straight fire. It generated great graphics for six platforms with multiple graphic and video assets. Branded text, call to action. All of it. I go to Claude online or my claw desktop, either one. Make sure the canva connector is connected already turn on all the permissions. Once I don't do it and just use the connector, go make the graphics and it does it. Okay, so then I. I could probably do it with that. Did you ever send me Canva? Did you ever send me Canva? Login.
+Speaker A: One thing we can do, right, is me, you and Dom can cameo, right?
+Speaker B: Yeah.
+Speaker A: And we didn't sit there, lucky. Make a sitcom, right?
+Speaker B: That's real.
+Speaker A: What we'll do is we'll age ourselves, right? And like, it's 2070, and we'll be like the story of the can of crew.
+Speaker B: Story of the crew. Oh, yeah. Let me see what this thing said. So let me give you the breakdown. Says exhaustive analysis of hemp related provisions, Section 781 and HR 5371, the Continuing Appropriations and Extensions act of 2026. Let me actually, Doc.

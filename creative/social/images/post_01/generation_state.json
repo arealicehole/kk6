@@ -1,0 +1,55 @@
+{
+  "workflow_started": "2025-11-15T00:00:00Z",
+  "total_slides": 5,
+  "current_stage": "content_parsing",
+  "slides": [
+    {
+      "slide_number": 1,
+      "status": "pending",
+      "attempts": 0,
+      "current_quality_score": null,
+      "issues_found": [],
+      "best_image_so_far": null,
+      "best_score_so_far": 0
+    },
+    {
+      "slide_number": 2,
+      "status": "pending",
+      "attempts": 0,
+      "current_quality_score": null,
+      "issues_found": [],
+      "best_image_so_far": null,
+      "best_score_so_far": 0
+    },
+    {
+      "slide_number": 3,
+      "status": "pending",
+      "attempts": 0,
+      "current_quality_score": null,
+      "issues_found": [],
+      "best_image_so_far": null,
+      "best_score_so_far": 0,
+      "critical_correction": "Remove Bong Pong Tournament - only 8 activities. Spell 'Kanna Krew' correctly"
+    },
+    {
+      "slide_number": 4,
+      "status": "pending",
+      "attempts": 0,
+      "current_quality_score": null,
+      "issues_found": [],
+      "best_image_so_far": null,
+      "best_score_so_far": 0
+    },
+    {
+      "slide_number": 5,
+      "status": "pending",
+      "attempts": 0,
+      "current_quality_score": null,
+      "issues_found": [],
+      "best_image_so_far": null,
+      "best_score_so_far": 0
+    }
+  ],
+  "api_calls_made": 0,
+  "total_cost": 0.00
+}

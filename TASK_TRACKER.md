@@ -1,6 +1,6 @@
 # KANNA KICKBACK 6 - TASK TRACKER
-**Last Updated:** 2025-11-11 (Midday)
-**Days Until Event:** 25
+**Last Updated:** 2025-11-14
+**Days Until Event:** 22
 
 🔴 = CRITICAL | 🟡 = HIGH PRIORITY | 🟢 = MEDIUM | ⚪ = LOW
 
@@ -10,13 +10,13 @@
 
 | Status | Task | Owner | Due | Notes |
 |--------|------|-------|-----|-------|
-| 🔴 TODO | **URGENT: Ginza venue walkthrough** | Gilbert | Nov 10 | Assess cactus damage, get photos, talk to Maggie |
-| 🔴 TODO | **URGENT: Address venue capacity issue** | Team | Nov 10-11 | Space cut in HALF - can we still do event? |
+| ✅ DONE | **URGENT: Ginza venue walkthrough** | Gilbert | Nov 13 | ✅ Drive-by complete - venue viable, will look more full |
+| ✅ DONE | **URGENT: Address venue capacity issue** | Team | Nov 13 | ✅ RESOLVED - Moving forward with Ginza |
 | ✅ DONE | Contact Sojourner Center for cutoff date | Gilbert | Nov 9 | ✅ Berkeley: 480-518-4527 |
 | ✅ DONE | **Website audit & enhancements** | Claude | Nov 10 | ✅ Added FAQ, About, Schedule. Partners page on hold |
 | ✅ DONE | **Deploy website to production** | Claude | Nov 10 | ✅ LIVE at kannakickback.com - All forms working |
 | ✅ DONE | **Set up email automation system** | Claude | Nov 11 | ✅ MCP email client + Resend API - Can read/send/schedule emails |
-| 🔴 TODO | Finalize menu with Maggie at Ginza | Gilbert | Nov 10 | Must approve + discuss venue changes |
+| ✅ DONE | Finalize menu with Maggie at Ginza | Gilbert | Nov 10 | ✅ Menu approved - Removed: ramen, dragon roll, spicy yellow. 10% revenue confirmed |
 | 🔴 TODO | Design flyer | Team | Nov 10 | Need 1,000 copies ASAP (include Dec 15 date) |
 | 🔴 TODO | Order flyers (1,000) | | Nov 11 | After design complete |
 | 🔴 TODO | Create donation boxes (10-15) | | Nov 11 | Cardboard + Kanna Claus signage |
@@ -29,8 +29,8 @@
 ### 🔴 CRITICAL
 | Status | Task | Owner | Due | Notes |
 |--------|------|-------|-----|-------|
-| 🔴 TODO | Ginza venue emergency walkthrough | Gilbert | Nov 10 | Photos, capacity assessment, talk to Maggie |
-| 🟡 TODO | Schedule Berkeley video interview | | Nov 11 | ✅ She's available! Propose: date/time/location |
+| ✅ DONE | Ginza venue emergency walkthrough | Gilbert | Nov 13 | ✅ Drive-by complete - venue viable |
+| 🔴 TODO | Schedule Berkeley video interview | | Nov 14 | ✅ CONFIRMED AVAILABLE: Wed afternoon or Fri before 3pm at Sojourner Center - SCHEDULE NOW |
 | ✅ DONE | Send emails to dispensaries (box hosts) | Claude | Nov 11 | ✅ 3 emails scheduled for 9am (Nirvana, Mint, Story Partners) - Revised |
 | ✅ DONE | Send DM to Special K | | Nov 11 | ✅ DM sent - awaiting response (20-30 pieces requested) |
 | 🟡 TODO | Send emails to other vendors/sponsors | | Nov 11-12 | Chill Pipe, Brian Jacobs, others pending |
@@ -247,10 +247,10 @@
 
 | Issue | Impact | Status | Resolution |
 |-------|--------|--------|------------|
-| **🚨 VENUE CAPACITY CUT IN HALF** | **May not fit 10 vendors + guests** | **🔴 CRITICAL** | **Ginza patio had cactus planted without notice - URGENT walkthrough needed** |
-| Stage moved/rearranged | Layout changed, affects booth placement | 🔴 OPEN | Assess during walkthrough, may need to redesign floor plan |
+| **🚨 VENUE CAPACITY CUT IN HALF** | **May not fit 10 vendors + guests** | **✅ RESOLVED** | **Gilbert assessed (Nov 13) - venue viable, will look more full** |
+| Stage moved/rearranged | Layout changed, affects booth placement | ✅ RESOLVED | Assessed - acceptable |
 | No Sojourner cutoff date | Can't send emails, set timeline | ✅ RESOLVED | DEC 15 CUTOFF CONFIRMED (Sojourner accepts Dec 8-20) |
-| Menu not approved | Can't design/print | 🔴 OPEN | Gilbert call Maggie TODAY + discuss venue changes |
+| Menu not approved | Can't design/print | ✅ RESOLVED | Menu approved Nov 10 - Ramen, dragon roll, spicy yellow removed |
 | Toy drive should've started 11/11 | Behind schedule | 🟡 OPEN | Catch up ASAP with aggressive push |
 | No boxes created yet | Can't place anywhere | 🔴 OPEN | Make this weekend |
 | Special K payment owed? | Relationship risk | 🟡 OPEN | Clarify, address if needed |

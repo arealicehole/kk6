@@ -1,0 +1,237 @@
+{
+  "total_slides": 5,
+  "source_file": "C:\\Users\\figon\\zeebot\\kickback\\creative\\social\\POST_01_DESIGN_SPECS.md",
+  "parsed_at": "2025-11-15T00:00:00Z",
+  "slides": [
+    {
+      "slide_number": 1,
+      "slide_name": "THE HOOK",
+      "dimensions": "1080x1080",
+      "aspect_ratio": "1:1",
+      "subject": "KannaKlaus character with festive background - event announcement",
+      "text_overlay": {
+        "main_headline": "KANNA KICKBACK 6",
+        "date": "Friday, December 6th",
+        "time": "2:00 PM - 6:00 PM",
+        "location": "Ginza • Gold Canyon, AZ",
+        "free_event": "FREE EVENT",
+        "subtitle": "🎄 420-Friendly Party • Toy Drive • Community Love 🎄"
+      },
+      "style_requirements": [
+        "Center-focused layout",
+        "Bold headline takes up top 40%",
+        "KannaKlaus character prominently featured (center or bottom)",
+        "Festive gradient background (red to green) OR illustrated winter scene",
+        "Cannabis leaf snowflakes scattered throughout",
+        "Ornaments and twinkling lights",
+        "Scrollstopping, eye-catching design"
+      ],
+      "color_palette": [
+        {"name": "Forest Green", "hex": "#2D5016"},
+        {"name": "Cannabis Green", "hex": "#4CAF50"},
+        {"name": "Holiday Red", "hex": "#C41E3A"},
+        {"name": "Festive Gold", "hex": "#FFD700"},
+        {"name": "Cream", "hex": "#FFF8DC"},
+        {"name": "White", "hex": "#FFFFFF"}
+      ],
+      "typography": [
+        {"element": "Main headline", "style": "White with gold outline", "size": "largest"},
+        {"element": "Date", "style": "Medium size, easy to spot"},
+        {"element": "Time & location", "style": "Smaller but readable"},
+        {"element": "Subtext with emojis", "style": "Smallest"}
+      ],
+      "mood": ["Eye-catching", "Scrollstopping", "Festive", "Inviting", "Cannabis-friendly", "Wholesome"],
+      "brand_elements": ["KannaKlaus character", "Cannabis leaf snowflakes", "Holiday ornaments"],
+      "ai_prompt_template": "Create a festive Instagram post graphic (1080x1080px) for \"KANNA KICKBACK 6\" event announcement.\n\nMain text: \"KANNA KICKBACK 6\" in huge bold letters\nDate: \"Friday, December 6th • 2-6 PM\"\nLocation: \"Ginza, Gold Canyon, AZ\"\nSubtitle: \"Holiday Party • Toy Drive • Community Love\"\n\nStyle: Festive holiday poster with cannabis theme\nCharacter: KannaKlaus (Santa with cannabis elements) in center\nColors: Forest green, holiday red, festive gold\nBackground: Gradient or winter wonderland scene\nDecorations: Cannabis leaf snowflakes, ornaments, twinkling lights\n\nVibe: Fun, inviting, festive, community-focused, scrollstopping",
+      "use_template": true
+    },
+    {
+      "slide_number": 2,
+      "slide_name": "THE HISTORY",
+      "dimensions": "1080x1080",
+      "aspect_ratio": "1:1",
+      "subject": "Growth infographic showing toy donation increases over years",
+      "text_overlay": {
+        "title": "6 YEARS OF GIVING BACK",
+        "data_points": [
+          "KK3 (2022): $4,200 in toys",
+          "KK4 (2023): $5,500 in toys",
+          "KK5 (2024): $6,500 in toys",
+          "KK6 (2025): LET'S BEAT $7,000"
+        ],
+        "bottom_text": [
+          "Every toy goes to the Sojourner Center",
+          "to help local families this holiday season.",
+          "Fun first. Charity always."
+        ]
+      },
+      "style_requirements": [
+        "Vertical bar chart or timeline layout",
+        "Rising bars showing toy donation growth",
+        "Each year a different shade (getting brighter/bigger)",
+        "Clean, minimal background (let data shine)",
+        "Toy icons (🎁) at top of each bar",
+        "Upward arrow showing growth trend",
+        "Professional infographic aesthetic"
+      ],
+      "color_palette": [
+        {"name": "Light Green (2022)", "hex": "#9DC183"},
+        {"name": "Medium Green (2023)", "hex": "#4CAF50"},
+        {"name": "Dark Green (2024)", "hex": "#2D5016"},
+        {"name": "Festive Gold (2025)", "hex": "#FFD700"},
+        {"name": "Cream/White Background", "hex": "#FFF8DC"}
+      ],
+      "mood": ["Clean", "Professional", "Inspiring", "Growth-focused", "Trustworthy"],
+      "brand_elements": ["Upward trend arrow", "Toy icons"],
+      "ai_prompt_template": "Create an Instagram infographic (1080x1080px) showing KannaKickback toy donation growth.\n\nTitle: \"6 YEARS OF GIVING BACK\"\n\nData visualization (bar chart):\n- 2022: $4,200 (shorter bar, light green)\n- 2023: $5,500 (medium bar, medium green)\n- 2024: $6,500 (tall bar, bright green)\n- 2025: $7,000+ (tallest bar, gold - with upward arrow)\n\nBottom text:\n\"Every toy goes to the Sojourner Center\"\n\"Fun first. Charity always.\"\n\nStyle: Clean infographic, festive colors (green, gold), professional\nInclude toy icons (🎁) and upward trend arrow\nColors: Forest green to gold gradient\nBackground: Cream or white",
+      "use_template": true
+    },
+    {
+      "slide_number": 3,
+      "slide_name": "WHAT TO EXPECT",
+      "dimensions": "1080x1080",
+      "aspect_ratio": "1:1",
+      "subject": "List of event activities with icons",
+      "text_overlay": {
+        "title": "WHAT'S HAPPENING AT KK6?",
+        "activities": [
+          "🎅 KannaKlaus & Elves",
+          "💍 Special K Ring Toss",
+          "🪅 Infamous Kanna Krew Pinata",
+          "🛍️ 10+ Vendor Booths (glass, products, growers)",
+          "🎁 Giveaways & Raffles ALL DAY",
+          "🍜 Orange Chicken & More from Ginza",
+          "💨 420-Friendly Space",
+          "🎶 Music & Community"
+        ],
+        "bottom_text": "Free to attend. Bring a toy, get a gift bag."
+      },
+      "style_requirements": [
+        "Grid or list format",
+        "Icon/emoji for each activity on left side",
+        "Activity name on right side",
+        "Festive pattern or solid color background",
+        "Decorative frame around content",
+        "Energetic, exciting layout",
+        "Easy to scan quickly"
+      ],
+      "color_palette": [
+        {"name": "Forest Green", "hex": "#2D5016"},
+        {"name": "Holiday Red", "hex": "#C41E3A"},
+        {"name": "Festive Gold", "hex": "#FFD700"},
+        {"name": "White", "hex": "#FFFFFF"}
+      ],
+      "mood": ["Energetic", "Exciting", "Vibrant", "Easy-to-scan"],
+      "brand_elements": ["Colorful icons", "Festive border"],
+      "critical_correction": "EXACTLY 8 activities (NO Bong Pong Tournament). Spell 'Kanna Krew' correctly - NOT 'Can of Crew'",
+      "ai_prompt_template": "Create an Instagram post (1080x1080px) listing KK6 event activities.\n\nTitle: \"WHAT'S HAPPENING AT KK6?\"\n\nList format with icons/emojis (EXACTLY 8 activities):\n🎅 KannaKlaus & Elves\n💍 Special K Ring Toss\n🪅 Infamous Kanna Krew Pinata\n🛍️ 10+ Vendor Booths (glass, products, growers)\n🎁 Giveaways & Raffles ALL DAY\n🍜 Orange Chicken & More from Ginza\n💨 420-Friendly Space\n🎶 Music & Community\n\nBottom: \"Free to attend. Bring a toy, get a gift bag.\"\n\nStyle: Colorful list design, festive energy\nColors: Forest green, red, gold\nBackground: Festive pattern or solid color with decorative border\nIcons: Bold and colorful\n\nCRITICAL: Spell 'Kanna Krew' correctly in 'Infamous Kanna Krew Pinata'",
+      "use_template": true
+    },
+    {
+      "slide_number": 4,
+      "slide_name": "HOW IT WORKS",
+      "dimensions": "1080x1080",
+      "aspect_ratio": "1:1",
+      "subject": "4-step process flow for toy drive participation",
+      "text_overlay": {
+        "title": "HOW THE TOY DRIVE WORKS",
+        "steps": [
+          {
+            "number": 1,
+            "title": "DROP A TOY",
+            "description": "Nov 15 - Dec 15 at dispensaries & community spots",
+            "locations": "Locations: Ginza, Fancy Pets, Amaranth + more!",
+            "icon": "toy box"
+          },
+          {
+            "number": 2,
+            "title": "GET A GIFT BAG",
+            "description": "New, unwrapped toy = gift bag with goodies & prizes",
+            "icon": "gift bag"
+          },
+          {
+            "number": 3,
+            "title": "PULL UP TO KK6",
+            "description": "Celebrate Dec 6th",
+            "icon": "party/celebration"
+          },
+          {
+            "number": 4,
+            "title": "WE DELIVER",
+            "description": "Toys to Sojourner Center",
+            "icon": "delivery truck or heart"
+          }
+        ],
+        "bottom_text": "Everybody wins. Everybody eats."
+      },
+      "style_requirements": [
+        "Vertical flow (top to bottom) with numbered steps",
+        "Arrows connecting each step",
+        "Unique icon for each step",
+        "Clean, easy to read",
+        "Each step a different shade of green/gold",
+        "Process diagram aesthetic",
+        "Clear, instructional",
+        "Friendly, welcoming tone"
+      ],
+      "color_palette": [
+        {"name": "Light Green (Step 1)", "hex": "#9DC183"},
+        {"name": "Medium Green (Step 2)", "hex": "#4CAF50"},
+        {"name": "Dark Green (Step 3)", "hex": "#2D5016"},
+        {"name": "Gold (Step 4)", "hex": "#FFD700"},
+        {"name": "Cream/White Background", "hex": "#FFF8DC"}
+      ],
+      "mood": ["Clear", "Instructional", "Friendly", "Welcoming", "Community-benefit"],
+      "brand_elements": ["Step numbers", "Process arrows", "Icons"],
+      "ai_prompt_template": "Create an Instagram process graphic (1080x1080px) explaining the KK6 toy drive.\n\nTitle: \"HOW THE TOY DRIVE WORKS\"\n\n4-step vertical process flow:\n\nSTEP 1: DROP A TOY\n(Icon: Toy box)\n\"Nov 15 - Dec 15 at dispensaries & community spots\"\n\"Locations: Ginza, Fancy Pets, Amaranth + more!\"\n\nSTEP 2: GET A GIFT BAG\n(Icon: Gift bag)\n\"New, unwrapped toy = gift bag with goodies & prizes\"\n\nSTEP 3: PULL UP TO KK6\n(Icon: Party/celebration)\n\"Celebrate Dec 6th\"\n\nSTEP 4: WE DELIVER\n(Icon: Delivery truck or heart)\n\"Toys to Sojourner Center\"\n\nBottom: \"Everybody wins. Everybody eats.\"\n\nStyle: Clean process diagram with arrows connecting steps\nColors: Green gradient (light to dark through steps)\nIcons: Simple, bold, friendly\nBackground: Cream or white",
+      "use_template": true
+    },
+    {
+      "slide_number": 5,
+      "slide_name": "CALL TO ACTION",
+      "dimensions": "1080x1080",
+      "aspect_ratio": "1:1",
+      "subject": "Save the date and action checklist",
+      "text_overlay": {
+        "main_title": "SAVE THE DATE",
+        "event_details": [
+          "📅 Friday, December 6, 2025",
+          "⏰ 2:00 PM - 6:00 PM",
+          "📍 Ginza Restaurant, Gold Canyon"
+        ],
+        "checklist_title": "WHAT TO DO NOW:",
+        "checklist_items": [
+          "✅ Follow @KannaKrew for updates",
+          "✅ Watch for donation box locations (Nov 15 - Dec 15)",
+          "✅ Mark your calendar",
+          "✅ Tag 3 friends",
+          "✅ Share this post"
+        ],
+        "tagline": [
+          "Fun first. Charity always.",
+          "Year 6. Let's make it legendary."
+        ],
+        "hashtags": "#KannaKickback #KK6 #KannaKrew"
+      },
+      "style_requirements": [
+        "Checklist format for action items",
+        "Large checkboxes (✅) next to each item",
+        "Bold, attention-grabbing color background",
+        "SAVE THE DATE as hero text",
+        "Direct, action-oriented design",
+        "Checklist = easy to follow",
+        "Bold checkmarks visually satisfying"
+      ],
+      "color_palette": [
+        {"name": "Forest Green", "hex": "#2D5016"},
+        {"name": "Festive Gold", "hex": "#FFD700"},
+        {"name": "Holiday Red", "hex": "#C41E3A"},
+        {"name": "White", "hex": "#FFFFFF"}
+      ],
+      "mood": ["Direct", "Action-oriented", "Bold", "Checklist-satisfying"],
+      "brand_elements": ["Checkmarks", "Hashtags"],
+      "ai_prompt_template": "Create an Instagram call-to-action graphic (1080x1080px) for KK6.\n\nTitle: \"SAVE THE DATE\" (large, bold)\n\nEvent details:\n📅 Friday, December 6, 2025\n⏰ 2:00 PM - 6:00 PM\n📍 Ginza Restaurant, Gold Canyon\n\nChecklist section: \"WHAT TO DO NOW:\"\n✅ Follow @KannaKrew for updates\n✅ Watch for donation box locations (Nov 15 - Dec 15)\n✅ Mark your calendar\n✅ Tag 3 friends\n✅ Share this post\n\nBottom tagline:\n\"Fun first. Charity always.\"\n\"Year 6. Let's make it legendary.\"\n\nHashtags: #KannaKickback #KK6 #KannaKrew\n\nStyle: Bold, direct, action-focused\nColors: Forest green, gold, red\nLarge checkmarks (✅) next to each item\nBackground: Vibrant solid color or gradient",
+      "use_template": true
+    }
+  ]
+}
