@@ -1,6 +1,6 @@
 # KANNA KICKBACK 6 - TASK TRACKER
-**Last Updated:** 2025-11-15
-**Days Until Event:** 21
+**Last Updated:** 2025-11-16
+**Days Until Event:** 20
 
 🔴 = CRITICAL | 🟡 = HIGH PRIORITY | 🟢 = MEDIUM | ⚪ = LOW
 
@@ -157,8 +157,8 @@
 
 | Status | Task | Owner | Due | Notes |
 |--------|------|-------|-----|-------|
-| 🔴 TODO | Get new OpenRouter API key | Gilbert | Nov 16 | Old key exposed in GitHub, disabled by OpenRouter |
-| 🔴 TODO | Update visual-creator config with new key | Claude | Nov 16 | After Gilbert gets new key from https://openrouter.ai/keys |
+| ✅ DONE | Get new OpenRouter API key | Gilbert | Nov 16 | ✅ New key obtained and working |
+| ✅ DONE | Update visual-creator config with new key | Claude | Nov 16 | ✅ Updated in api-config.json, verified working |
 | ✅ DONE | Clean up exposed API key from git | Claude | Nov 15 | ✅ Files removed, .gitignore updated, security incident documented |
 | 🟡 TODO | Commit security fixes to git | Gilbert | Nov 16 | .gitignore changes + security incident report |
 
