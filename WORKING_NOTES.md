@@ -52,10 +52,23 @@
 - **Pinata history carousel:** Show pinatas from each year
 - **Vendor spotlight:** High Grade, Six Jin, Special K past participation
 - **FOMO content:** Crowd videos and wide venue shots
-- **Next Steps:**
-  - Compress large PNGs (>10MB) for web use
-  - Add media gallery to kannakickback.com
-  - Create social content calendar using historical assets
+
+### ✅ Website Gallery Added!
+- **Status:** Live on kannakickback.com (deployed via Netlify)
+- **New Section:** "From Our Past KannaKickbacks" gallery added before FAQ
+- **Assets Deployed:**
+  - 2 auto-playing videos (kkb4-crowdmadness.mp4, kkb5-pinatacrackin.mp4)
+  - 3 historical photos (KK1 pinata, KK3 Special K, KK5 wide venue shot)
+  - 1 character showcase (KannaKlaus peace pose with gradient background)
+- **Features:**
+  - Responsive grid layout (3 columns → 1 column mobile)
+  - Smooth hover animations with caption slides
+  - Year badges in gold accent color
+  - CTA button driving RSVPs
+- **File Organization:**
+  - `/website/images/characters/` (4 compressed PNGs: 2-3MB each)
+  - `/website/images/gallery/` (5 high-value assets: 15MB total)
+- **Git:** Committed to kk6-prod repo, pushed to GitHub, auto-deployed to Netlify
 
 ---
 
