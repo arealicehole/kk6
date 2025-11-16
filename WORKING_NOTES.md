@@ -3,7 +3,26 @@
 
 ---
 
-## 2025-11-16 (MEDIA ASSETS, FACEBOOK EVENT PAGE & WEBSITE UPDATES)
+## 2025-11-16 (MEDIA ASSETS, FACEBOOK EVENT PAGE, WEBSITE UPDATES & SECURITY FIX)
+
+### 🔒 SECURITY FIX - API Key Exposure Resolved!
+- **Issue:** OpenRouter API key exposed AGAIN (second alert received)
+- **Root Cause:** Visual-creator subagent was generating Python scripts with hardcoded API keys
+- **Scope:** 11 Python scripts across creative/social/images/ and creative/print/
+- **Fix Applied:**
+  1. Removed all Python scripts from git tracking (`git rm --cached`)
+  2. Updated .gitignore to block ALL *.py files in image generation folders
+  3. Created comprehensive SECURITY_INCIDENT_LOG.md
+- **Commit:** `801d4b1` - "Security fix: Remove Python scripts with embedded API keys"
+- **Status:** ✅ Fixed - Scripts now untracked, will never be committed again
+- **Files remain local** for one-time use, but won't be version controlled
+
+**Prevention:**
+```gitignore
+creative/social/images/**/*.py
+creative/print/images/**/*.py
+creative/assets/images/**/*.py
+```
 
 ### ✅ Website Updates - Hero Carousel & Gallery Repositioned!
 - **Status:** Live on kannakickback.com (deployed via Netlify)

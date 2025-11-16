@@ -6,6 +6,7 @@ website/
 # Sensitive files - API keys, credentials, logs
 **/*_response*.json
 **/*_LOG.md
+!SECURITY_INCIDENT_LOG.md
 **/*_metadata.json
 **/*prompt*.txt
 **/manifest.json
