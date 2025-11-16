@@ -64,6 +64,7 @@
 ### 🔴 CRITICAL
 | Status | Task | Owner | Due | Notes |
 |--------|------|-------|-----|-------|
+| 🔴 TODO | Schedule Post #1 for arizona_smokers (Postiz) | | Nov 16 | Upload 5 corrected slides manually, schedule for tomorrow noon |
 | 🔴 TODO | Social posts #4-8 | | Nov 16-22 | Every other day |
 | 🔴 TODO | Confirm vendor lineup (10 booths) | | Nov 20 | Lock in commitments |
 | 🔴 TODO | Source weed ($1,000 for 2 lbs) | | Nov 20 | For gift bags, giveaways |
@@ -149,6 +150,17 @@
 | 🟡 TODO | Discord media sharing | Team | Daily | Asset coordination |
 | 🟡 TODO | Vendor follow-ups | | Weekly | Confirm commitments |
 | 🟡 TODO | Box location monitoring | | Weekly | Are boxes filling up? |
+
+---
+
+## 🔧 TECH/SYSTEMS TASKS
+
+| Status | Task | Owner | Due | Notes |
+|--------|------|-------|-----|-------|
+| 🔴 TODO | Get new OpenRouter API key | Gilbert | Nov 16 | Old key exposed in GitHub, disabled by OpenRouter |
+| 🔴 TODO | Update visual-creator config with new key | Claude | Nov 16 | After Gilbert gets new key from https://openrouter.ai/keys |
+| ✅ DONE | Clean up exposed API key from git | Claude | Nov 15 | ✅ Files removed, .gitignore updated, security incident documented |
+| 🟡 TODO | Commit security fixes to git | Gilbert | Nov 16 | .gitignore changes + security incident report |
 
 ---
 

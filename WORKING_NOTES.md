@@ -61,6 +61,34 @@
 - Success rate: 100% (all images generated correctly)
 - Cost: $0.00 (free tier)
 
+### 🚨 Security Incident: OpenRouter API Key Exposed
+- **Time:** ~7:06 PM (detected by OpenRouter)
+- **Issue:** API key accidentally committed to public GitHub repo in generation log files
+- **File:** `creative/social/images/post_01/SLIDE_3_GENERATION_LOG.md` + response JSONs
+- **Impact:** OpenRouter auto-disabled key ending in ...97fb within minutes
+- **Resolution:**
+  - ✅ Removed 8 files from git tracking
+  - ✅ Updated .gitignore to prevent future exposure
+  - ✅ Created security incident report (SECURITY_INCIDENT_2025-11-15.md)
+  - ✅ Postiz agent researched correct upload endpoint (documented in /postitz/helpdesk/)
+- **Required Actions:**
+  - 🔴 Get new OpenRouter API key from https://openrouter.ai/keys
+  - 🔴 Update visual-creator config with new key
+  - 🔴 Commit .gitignore + security fixes to git
+- **Lessons Learned:** Generation logs/responses should not include full API keys
+
+### Postiz Upload Resolution:
+- **Problem:** Couldn't upload images via API to schedule Post #1 for arizona_smokers
+- **Research:** Postiz agent found correct endpoint in /postitz/helpdesk/TICKET_001_RESOLUTION.md
+- **Correct Endpoint:** `/api/public/v1/upload` (not `/api/media/upload`)
+- **Current Status:** Need to upload 5 corrected slides manually via Postiz UI
+- **Files Ready:** `creative/social/images/post_01/post_01_slide_[1-5].png`
+
+### Facebook Event Page Created:
+- **File:** `creative/social/FACEBOOK_EVENT_DESCRIPTION.md`
+- **Length:** Full description with mission, activities, FAQ, hashtags
+- **Status:** Ready to copy/paste into Facebook event page
+
 ---
 
 ## 2025-11-15 (FLYER REGENERATION - EARLIER)
