@@ -2,3 +2,14 @@ website/
 .clauderc
 .mcp.json
 .claude/
+
+# Sensitive files - API keys, credentials, logs
+**/*_response*.json
+**/*_LOG.md
+**/*_metadata.json
+**/*prompt*.txt
+**/manifest.json
+**/*_parsed_spec.json
+**/generation_state.json
+**/*_quality_review.md
+**/*_MANIFEST.json
