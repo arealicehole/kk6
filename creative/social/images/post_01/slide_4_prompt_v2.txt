@@ -1,0 +1,99 @@
+VISUAL-CREATOR PROMPT FOR SLIDE 4 (VERSION 2 - CORRECTED)
+Generated: 2025-11-15
+Target Model: google/gemini-2.5-flash-image-preview (Nano Banana)
+
+===== GENERATION PROMPT =====
+
+Create a festive Instagram process infographic (exactly 1080x1080 pixels, square format) showing EXACTLY FOUR SEPARATE STEPS for the KannaKickback 6 toy drive.
+
+TITLE (Top, centered):
+"HOW THE TOY DRIVE WORKS"
+Font: Bold, festive, forest green color #2D5016
+
+FOUR VERTICAL STEPS (CRITICAL: Must show all 4 steps separately):
+
+━━━━━━━━━━━━━━━━━━━━━━
+STEP 1 (numbered circle with "1")
+━━━━━━━━━━━━━━━━━━━━━━
+Icon: Toy box or donation box
+Step title: "DROP A TOY"
+Description: "Nov 15 - Dec 15 at dispensaries & community spots"
+Second line: "Locations: Ginza, Fancy Pets, Amaranth + more!"
+Color: Light cannabis green #4CAF50
+
+↓ (downward arrow connecting to step 2)
+
+━━━━━━━━━━━━━━━━━━━━━━
+STEP 2 (numbered circle with "2")
+━━━━━━━━━━━━━━━━━━━━━━
+Icon: Gift bag with sparkles
+Step title: "GET GOODIES AT THE KICKBACK"
+Description: "Bring a new, unwrapped toy and get goodies & freebies at the kickback"
+Color: Medium green
+
+↓ (downward arrow connecting to step 3)
+
+━━━━━━━━━━━━━━━━━━━━━━
+STEP 3 (numbered circle with "3")
+━━━━━━━━━━━━━━━━━━━━━━
+Icon: Party celebration (balloons, confetti)
+Step title: "PULL UP TO KK6"
+Description: "Celebrate Dec 6th"
+Color: Festive gold #FFD700
+
+↓ (downward arrow connecting to step 4)
+
+━━━━━━━━━━━━━━━━━━━━━━
+STEP 4 (numbered circle with "4")
+━━━━━━━━━━━━━━━━━━━━━━
+Icon: Delivery truck or heart
+Step title: "WE DELIVER"
+Description: "Toys to Sojourner Center"
+Color: Holiday red #C41E3A
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+BOTTOM TAGLINE (centered):
+"Everybody wins. Everybody eats."
+Font: Medium size, friendly, black or dark green
+
+CRITICAL REQUIREMENTS:
+- Image size: EXACTLY 1080x1080 pixels (square Instagram format)
+- MUST show all 4 steps as separate, distinct items
+- Each step has a numbered circle (1, 2, 3, 4) on the left
+- Vertical flow from top to bottom
+- Arrows connecting each step
+- Clean background: Cream #FFF8DC or white
+- Cannabis leaf snowflakes as subtle decorative elements in corners
+- High contrast text (must be very readable)
+- Professional, clean infographic style
+- Festive but not cluttered
+
+STEP LAYOUT EXAMPLE:
+[Number Circle: 1] → [Icon] → [TITLE] → [Description]
+        ↓
+[Number Circle: 2] → [Icon] → [TITLE] → [Description]
+        ↓
+[Number Circle: 3] → [Icon] → [TITLE] → [Description]
+        ↓
+[Number Circle: 4] → [Icon] → [TITLE] → [Description]
+
+STYLE KEYWORDS:
+Clean step-by-step process infographic, instructional design, numbered process flow, vertical timeline, charitable toy drive, festive cannabis holiday theme, community-focused, easy to understand, professional educational graphic
+
+NEGATIVE PROMPTS:
+Combining steps, merging steps, fewer than 4 steps, cluttered layout, hard to read, tiny text, photorealistic people, corporate sterile look, harsh colors, childish cartoons, cheap design
+
+COLOR PALETTE:
+Primary: Forest green #2D5016, Cannabis green #4CAF50
+Accent: Holiday red #C41E3A, Festive gold #FFD700
+Background: Cream #FFF8DC or White #FFFFFF
+Text: Black #000000, White for numbered circles
+
+BRAND CONSISTENCY:
+- All K's, no C's: KannaKrew, KannaKickback (abbreviated as KK6)
+- Cannabis culture meets holiday charity
+- Wholesome but cannabis-friendly
+- Community benefit focus
+
+IMPORTANT: This infographic explains a toy drive process. It must be clear, welcoming, and show the complete journey from donation to delivery in FOUR DISTINCT STEPS. Do not skip or combine any steps.

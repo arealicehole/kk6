@@ -1,0 +1,69 @@
+VISUAL-CREATOR PROMPT FOR SLIDE 4 (CORRECTED)
+Generated: 2025-11-15
+Target Model: google/gemini-2.5-flash-image-preview (Nano Banana)
+
+===== GENERATION PROMPT =====
+
+Create a festive Instagram process infographic (1080x1080 pixels, square format) explaining the KannaKickback 6 toy drive process.
+
+TITLE (Top):
+"HOW THE TOY DRIVE WORKS"
+(Bold, festive font, forest green color #2D5016)
+
+VERTICAL PROCESS FLOW (4 Steps):
+
+STEP 1: DROP A TOY
+Icon: Toy box or donation box (simple, bold)
+Text: "Nov 15 - Dec 15 at dispensaries & community spots"
+"Locations: Ginza, Fancy Pets, Amaranth + more!"
+Color: Light cannabis green #4CAF50
+
+STEP 2: GET GOODIES AT THE KICKBACK
+Icon: Gift bag with sparkles
+Text: "Bring a new, unwrapped toy and get goodies & freebies at the kickback"
+Color: Medium green transitioning to gold
+
+STEP 3: PULL UP TO KK6
+Icon: Party celebration (confetti, balloons, or party hat)
+Text: "Celebrate Dec 6th"
+Color: Festive gold #FFD700
+
+STEP 4: WE DELIVER
+Icon: Delivery truck or heart with arrow
+Text: "Toys to Sojourner Center"
+Color: Holiday red #C41E3A
+
+BOTTOM TAGLINE:
+"Everybody wins. Everybody eats."
+(Medium size, friendly font, black or dark green)
+
+DESIGN REQUIREMENTS:
+- Size: Exactly 1080x1080 pixels
+- Vertical flow with arrows connecting each step
+- Each step number (1, 2, 3, 4) large and bold in a circle
+- Clean, easy-to-read layout
+- Background: Cream (#FFF8DC) or white
+- Icons: Simple, bold, friendly style
+- Text: High contrast, very readable
+- Cannabis leaf snowflakes as subtle decorative elements
+- Professional but festive aesthetic
+
+STYLE KEYWORDS:
+Clean, instructional, friendly, welcoming, festive, cannabis-themed holiday, community-focused, process diagram, step-by-step guide, charitable, wholesome
+
+NEGATIVE PROMPTS:
+Cluttered, hard to read, tiny text, corporate, sterile, harsh, childish, cheap-looking, off-brand colors, photorealistic people
+
+COLOR PALETTE:
+Primary: Forest green #2D5016, Cannabis green #4CAF50
+Accent: Holiday red #C41E3A, Festive gold #FFD700
+Background: Cream #FFF8DC or White #FFFFFF
+Text: Black #000000
+
+BRAND ELEMENTS:
+- All K's, no C's: KannaKrew, KannaKickback, KannaKlaus
+- Cannabis leaf motifs as decorative snowflakes
+- Festive holiday vibe
+- Community and charity focus
+
+IMPORTANT: This is a charity event infographic. Balance fun cannabis culture with wholesome family-friendly charity messaging.

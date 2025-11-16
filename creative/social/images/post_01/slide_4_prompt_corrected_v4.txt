@@ -1,0 +1,105 @@
+Create an Instagram process graphic (1024x1024px, square 1:1 aspect ratio) explaining the KannaKickback 6 toy drive steps.
+
+TITLE:
+"HOW THE TOY DRIVE WORKS" (large, bold, forest green text, top center)
+
+MAIN CONTENT - 4-Step Vertical Process Flow:
+
+Display exactly 4 numbered steps in vertical flow from top to bottom, connected by gold downward arrows:
+
+STEP 1: DROP A TOY
+(Large green circle with white "1" inside)
+Icon: Toy box or donation box illustration
+Text lines:
+- "Nov 15 - Dec 15 at dispensaries & community spots" (black text)
+- "Locations: Ginza, Fancy Pets, Amaranth + more!" (black text)
+
+↓ (Gold arrow pointing down)
+
+STEP 2: PULL UP TO KK6
+(Large green circle with white "2" inside)
+Icon: Party/celebration icon (people celebrating or party popper)
+Text line:
+- "Get goodies & freebies at the kickback" (black text)
+
+↓ (Gold arrow pointing down)
+
+STEP 3: CELEBRATE
+(Large green circle with white "3" inside)
+Icon: Party popper or festive celebration icon
+Text line:
+- "Celebrate Dec 6th at the biggest Kickback yet" (black text)
+
+↓ (Gold arrow pointing down)
+
+STEP 4: WE DELIVER
+(Large green circle with white "4" inside)
+Icon: Delivery truck or heart with gift
+Text line:
+- "All toys go to Sojourner Center" (black text)
+
+BOTTOM TAGLINE:
+"Everybody wins. Everybody eats." (centered, gold text, medium-bold)
+
+STYLE & COMPOSITION:
+- Clean process diagram aesthetic
+- Vertical flow layout, center-aligned
+- Large numbered circles (forest green with white numbers)
+- Simple, friendly icons for each step
+- Gold downward arrows connecting steps
+- Clean background (cream or white)
+- Professional but approachable design
+- Easy-to-follow instructional format
+
+COLOR PALETTE:
+- Background: Cream (#FFF8DC) or clean white (#FFFFFF)
+- Step numbers/circles: Forest green (#2D5016) with white (#FFFFFF) numbers
+- Arrows: Festive gold (#FFD700)
+- Body text: Black (#000000) for maximum readability
+- Bottom tagline: Gold (#FFD700)
+
+TYPOGRAPHY:
+- Title: Bold, festive font (Impact or Bebas Neue style)
+- Step headers: Bold sans-serif (Helvetica/Arial style)
+- Body text: Clean sans-serif, regular weight
+- Bottom tagline: Medium-bold sans-serif
+
+LAYOUT DETAILS:
+- Title takes top 10% of canvas
+- Each step evenly spaced vertically (4 steps = ~70% of canvas)
+- Numbered circles: Large (60-80px diameter), left side of each step
+- Icons: Medium size, positioned near step number
+- Text: Right-aligned to icon/number, clear and readable
+- Arrows: Medium size, centered between steps
+- Bottom tagline: Bottom 10% of canvas
+
+ICON STYLE:
+- Simple, friendly, illustrative style
+- Not too detailed or complex
+- Consistent style across all 4 icons
+- Complementary to clean diagram aesthetic
+
+MOOD:
+- Clear and instructional
+- Friendly and welcoming
+- Community-focused
+- Easy to understand
+- Professional but approachable
+- Positive and uplifting
+
+CRITICAL REQUIREMENTS:
+- Step 2 MUST say "Get goodies & freebies at the kickback"
+- Do NOT use language like "instant gift bag" or "bring a toy = gift bag"
+- Do NOT say "New, unwrapped toy = gift bag with goodies" anywhere
+- All 4 steps must be clearly visible and readable
+- Numbers 1-4 must be clear and prominent
+- Gold arrows must connect steps visually
+
+AVOID:
+- Using "gift bag" language in Step 2
+- Cluttered or busy composition
+- Text that's too small to read
+- Poor alignment or uneven spacing
+- Off-brand colors
+- Corporate or sterile aesthetics
+- Complex or confusing icons

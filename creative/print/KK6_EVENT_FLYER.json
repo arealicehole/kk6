@@ -1,0 +1,13 @@
+{
+  "generated_at": "2025-11-15T12:54:01.998532",
+  "model": "google/gemini-2.5-flash-image-preview",
+  "tokens_used": 2360,
+  "dimensions": "1080x1350",
+  "aspect_ratio": "4:5",
+  "purpose": "KannaKickback 6 Event Flyer - CORRECTED VERSION",
+  "corrections": [
+    "Toy drive amounts: $4,200 \u2192 $5,500 \u2192 $6,500 \u2192 $7,000+ (NOT $15,000!)",
+    "All spelling verified: KannaKlaus, KannaKrew, KannaKickback",
+    "HAPPENING spelled correctly"
+  ]
+}

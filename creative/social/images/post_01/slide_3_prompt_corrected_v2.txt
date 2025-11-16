@@ -1,0 +1,76 @@
+Create a festive Instagram post graphic (1024x1024px, square 1:1 aspect ratio) listing KannaKickback 6 event activities.
+
+TITLE SECTION (Top):
+- "WHAT'S HAPPENING AT KK6?" (large, bold, white text, centered)
+- Festive decorative border frame around entire design
+
+MAIN CONTENT - Activity List (Center):
+Display exactly 8 items in a vertical list format with icons on left, text on right:
+
+🎅 KannaKlaus & Elves
+💍 Special K Ring Toss
+🪅 Infamous Kanna Krew Pinata
+🛍️ 10+ Vendor Booths
+🎁 Giveaways & Raffles
+🍜 Orange Chicken from Ginza
+💨 420-Friendly Space
+✨ VIBES
+
+Each line:
+- Icon/emoji on the left (actual emoji characters, large and colorful)
+- Activity text on the right (white text, medium-bold weight)
+- Evenly spaced vertically
+- Left-aligned format
+- Good spacing between items for easy reading
+
+BOTTOM TEXT:
+"Free to attend. Bring a toy, get goodies at the kickback." (smaller white text, centered)
+
+STYLE & COMPOSITION:
+- Festive red and green background with gradient or pattern
+- Ornate decorative border frame (gold and green flourishes, holiday themed)
+- Clean, list-based layout with excellent readability
+- Energetic, festive, easy-to-scan design
+- Holiday party invitation aesthetic
+
+COLOR PALETTE:
+- Background: Holiday red (#C41E3A) to forest green (#2D5016) gradient
+- Border: Festive gold (#FFD700) with green accents
+- Text: White (#FFFFFF) for maximum contrast and readability
+- Emojis: Full color, vibrant
+
+TYPOGRAPHY:
+- Title: Bold, festive font (Impact or Bebas Neue style)
+- Activity text: Clean sans-serif (Helvetica/Arial style), medium-bold
+- Bottom tagline: Clean sans-serif, regular weight
+
+LAYOUT DETAILS:
+- Title takes top 15% of canvas
+- Decorative border frames entire image (ornate, holiday style)
+- Activity list takes center 70% of canvas
+- Bottom tagline takes bottom 10%
+- Ample padding inside border for clean appearance
+
+MOOD:
+- Fun and festive
+- Energetic and exciting
+- Cannabis-friendly but wholesome
+- Holiday celebration vibes
+- Easy to read at a glance
+- Inviting and welcoming
+
+CRITICAL REQUIREMENTS:
+- Use EXACTLY 8 activity items (no more, no less)
+- Do NOT include "Bong Pong Tournament" or any 9th item
+- Spell "Kanna Krew" correctly (K-A-N-N-A K-R-E-W) - NOT "Can of Crew"
+- All emojis must be visible and colorful
+- Text must be highly legible and readable
+
+AVOID:
+- Adding extra activities beyond the 8 listed
+- Misspelling "Kanna Krew" as "Can of Crew" or any other variation
+- Cluttered composition
+- Text that's too small to read
+- Poor contrast or hard-to-read text
+- Off-brand colors
+- Corporate or sterile aesthetics

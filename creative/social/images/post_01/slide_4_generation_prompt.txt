@@ -1,0 +1,84 @@
+Create a CLEAN, SIMPLE Instagram infographic (1080x1080px, square 1:1 aspect ratio) explaining the KannaKickback 6 toy drive process.
+
+CRITICAL: This must be CLEAN and EASY TO READ. NO clutter, NO overlapping elements, PLENTY of white space.
+
+TITLE (Top of image):
+"HOW IT WORKS" - Large, bold text, forest green (#2D5016)
+
+LAYOUT - 4 STEPS ARRANGED VERTICALLY:
+List the 4 steps going DOWN the page (top to bottom), with generous spacing between each:
+
+STEP 1: DROP A TOY (Nov 15 - Dec 15)
+🎁 Emoji on the left
+Bold title: "1. DROP A TOY (Nov 15 - Dec 15)"
+Description below: "Bring new, unwrapped toy to donation boxes across the Valley"
+
+STEP 2: GET GOODIES
+🎉 Emoji on the left
+Bold title: "2. GET GOODIES"
+Description below: "Get goodies & freebies at the kickback"
+
+STEP 3: CELEBRATE (Dec 6, 2-6pm)
+🎊 Emoji on the left
+Bold title: "3. CELEBRATE (Dec 6, 2-6pm)"
+Description below: "Pull up to the party at Ginza"
+
+STEP 4: WE DELIVER (Dec 15)
+🚚 Emoji on the left
+Bold title: "4. WE DELIVER (Dec 15)"
+Description below: "All toys go to Sojourner Center"
+
+STYLE & COMPOSITION:
+- Clean, organized vertical list
+- Each step clearly separated with white space
+- Numbers (1, 2, 3, 4) should be BOLD and visible
+- Emoji + text aligned on each line
+- NO crowding, NO overlapping elements
+- Simple, readable layout like a well-designed checklist
+
+BACKGROUND:
+- Festive but SUBTLE
+- Cream (#FFF8DC) or light background
+- Optional: Very subtle cannabis leaf snowflakes in corners only (DO NOT clutter the main content area)
+- Keep background elements MINIMAL so text is perfectly readable
+
+COLOR PALETTE:
+- Forest green: #2D5016 (title and step numbers)
+- Holiday red: #C41E3A (accents)
+- Festive gold: #FFD700 (accents)
+- Black or dark gray: Step descriptions for maximum readability
+- Cream/white background: #FFF8DC or #FFFFFF
+
+TYPOGRAPHY:
+- Title: Very large, bold sans-serif
+- Step numbers and titles: Bold, medium-large size
+- Descriptions: Regular weight, smaller but still easily readable
+- All text must be CRYSTAL CLEAR and legible
+
+MOOD:
+- Clean and organized
+- Professional but friendly
+- Easy to understand at a glance
+- Welcoming and simple
+- NOT cluttered or busy
+
+TECHNICAL SPECS:
+- Square format: 1080 x 1080 pixels
+- High contrast for text readability
+- Generous margins and padding
+- Plenty of breathing room between elements
+
+CRITICAL REQUIREMENTS:
+- Step 2 must say "Get goodies & freebies at the kickback" (NOT "gift bag", NOT "instant")
+- Keep it SIMPLE - less is more
+- Maximum white space, minimum decoration
+- Text must be perfectly readable on mobile
+- NO overlapping or crowded elements
+
+AVOID:
+- Cluttered layouts
+- Too many decorative elements
+- Small or hard-to-read text
+- Overlapping text and graphics
+- Busy backgrounds that compete with content
+- Gift bag language or "instant" wording

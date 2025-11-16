@@ -1,0 +1,122 @@
+{
+  "generation_session": {
+    "timestamp": "2025-11-15T00:00:00Z",
+    "project": "KannaKickback 6",
+    "output_file": "C:\\Users\\figon\\zeebot\\kickback\\creative\\print\\KK6_EVENT_FLYER.png",
+    "source_spec": "C:\\Users\\figon\\zeebot\\kickback\\creative\\print\\FLYER_SINGLE_PAGE_REVISED_SPECS.md"
+  },
+  "parsed_spec": {
+    "image_number": 1,
+    "image_name": "KK6 Event Flyer",
+    "dimensions": "1080x1350",
+    "aspect_ratio": "4:5",
+    "format": "vertical flyer",
+    "sections": [
+      {
+        "name": "HEADER",
+        "content": {
+          "main_headline": "KANNA KICKBACK 6",
+          "subtitle": "Year 6. Let's make it legendary.",
+          "graphic": "Small, simple KannaKlaus icon - Santa hat with single cannabis leaf. Minimal and tasteful."
+        },
+        "layout": "Top 20%"
+      },
+      {
+        "name": "EVENT DETAILS BOX",
+        "content": {
+          "date": "📅 Saturday, December 6, 2025",
+          "time": "⏰ 2:00 PM - 6:00 PM",
+          "location": "📍 Ginza Restaurant, Gold Canyon, AZ",
+          "admission": "🎟️ FREE EVENT"
+        },
+        "layout": "20%"
+      },
+      {
+        "name": "WHAT'S HAPPENING",
+        "content": [
+          "🎅 KannaKlaus & Elves",
+          "💍 Special K Ring Toss",
+          "🪅 Infamous Kanna Krew Pinata",
+          "🛍️ 10+ Vendor Booths",
+          "🎁 Giveaways & Raffles",
+          "🍜 Orange Chicken from Ginza",
+          "💨 420-Friendly Space"
+        ],
+        "layout": "25%"
+      },
+      {
+        "name": "THE MISSION",
+        "content": {
+          "headline": "Help us beat $7,000 in toy donations!",
+          "beneficiary": "All toys benefit the Sojourner Center",
+          "growth": "$4,200 (2022) → $5,500 (2023) → $6,500 (2024) → $7,000+ (2025)?"
+        },
+        "layout": "20%"
+      },
+      {
+        "name": "HOW TO PARTICIPATE",
+        "content": {
+          "step_1": "Drop a toy Nov 15-Dec 15",
+          "step_2": "Get goodies at kickback",
+          "step_3": "Celebrate Dec 6!"
+        },
+        "layout": "12%",
+        "critical": "ALL 3 STEPS MUST BE VISIBLE AND CLEAR"
+      },
+      {
+        "name": "CALL TO ACTION",
+        "content": {
+          "main": "BRING A TOY • GET GOODIES • SPREAD JOY",
+          "social": "@KannaKrew | #KannaKickback #KK6"
+        },
+        "layout": "8%"
+      }
+    ],
+    "style_requirements": [
+      "CLEAN and ORGANIZED layout",
+      "30-35% white space",
+      "Professional charity event aesthetic",
+      "Bold, readable typography",
+      "SIMPLE graphics - no overwhelming visuals",
+      "Cannabis elements SUBTLE - decorations only",
+      "Small cannabis leaf ornaments or snowflakes as accents",
+      "Clear visual hierarchy",
+      "Adequate line spacing in all sections"
+    ],
+    "color_palette": [
+      {"name": "Forest Green", "hex": "#2D5016", "usage": "Primary"},
+      {"name": "Holiday Red", "hex": "#C41E3A", "usage": "Accent"},
+      {"name": "Gold", "hex": "#FFD700", "usage": "Accents"},
+      {"name": "Cream", "hex": "#FFF8DC", "usage": "Background"}
+    ],
+    "kannaklaus_graphic_requirements": {
+      "size": "SMALL - 10-15% of header area only",
+      "style": "Simple, clean Santa hat with single cannabis leaf OR simple Santa face with cannabis beard detail",
+      "placement": "Tastefully in header, not as main focal point",
+      "critical_fix": "NOT wild or busy, NOT a full character illustration"
+    },
+    "how_to_participate_requirements": {
+      "critical_fix": "All 3 steps clearly visible",
+      "formatting": "Each step on separate line, numbered, bold key words, adequate spacing",
+      "must_include": [
+        "1. Drop a toy Nov 15-Dec 15",
+        "2. Get goodies at kickback",
+        "3. Celebrate Dec 6!"
+      ]
+    },
+    "mood": [
+      "Clean",
+      "Professional",
+      "Festive",
+      "Inviting",
+      "Organized",
+      "Charity-focused"
+    ],
+    "brand_compliance": {
+      "all_ks_no_cs": true,
+      "examples": ["Kanna", "Kickback", "Klaus", "Krew"]
+    }
+  },
+  "status": "parsed",
+  "next_stage": "prompt_engineering"
+}

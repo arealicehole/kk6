@@ -5,7 +5,7 @@
 
 ## EVENT BASICS
 
-**Date:** Friday, December 6, 2025
+**Date:** Saturday, December 6, 2025
 **Time:** 2:00 PM - 6:00 PM
 **Location:** Ginza (Chinese Restaurant), Gold Canyon, Arizona
 **Beneficiary:** Sojourner Center

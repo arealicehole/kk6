@@ -1,0 +1,155 @@
+Create a CLEAN, MINIMAL, PROFESSIONAL vertical event flyer (1080x1350px, 4:5 aspect ratio) for KannaKickback 6 charity event.
+
+CRITICAL FIXES FOR THIS VERSION:
+1. Make KannaKlaus graphic even MORE SIMPLE and MINIMAL - we need cleaner, less wild graphics overall
+2. Fix "How to Participate" section with CORRECT text for each step
+
+=== LAYOUT - TOP TO BOTTOM ===
+
+**HEADER SECTION (Top 20%):**
+- "KANNA KICKBACK 6" in huge, bold, festive letters (primary headline)
+- Subtitle below: "Year 6. Let's make it legendary."
+- VERY SIMPLE KannaKlaus: Just a tiny, minimal Santa hat icon with one small leaf. Keep it EXTREMELY simple - think minimalist logo, not character. Size should be 8-10% of header area MAXIMUM.
+
+**EVENT DETAILS BOX (Next 20%):**
+Clean, organized box with clear info:
+📅 Saturday, December 6, 2025
+⏰ 2:00 PM - 6:00 PM
+📍 Ginza Restaurant, Gold Canyon, AZ
+🎟️ FREE EVENT
+
+**WHAT'S HAPPENING SECTION (Next 25%):**
+Bold section title: "WHAT'S HAPPENING"
+Listed activities with emojis (each on separate line):
+🎅 KannaKlaus & Elves
+💍 Special K Ring Toss
+🪅 Infamous Kanna Krew Pinata
+🛍️ 10+ Vendor Booths
+🎁 Giveaways & Raffles
+🍜 Orange Chicken from Ginza
+💨 420-Friendly Space
+
+**THE MISSION SECTION (Next 20%):**
+Bold section title: "THE MISSION"
+"Help us beat $7,000 in toy donations!"
+"All toys benefit the Sojourner Center"
+Growth progression: $4,200 (2022) → $5,500 (2023) → $6,500 (2024)
+
+**HOW TO PARTICIPATE (Next 12%) - CORRECTED TEXT:**
+**Bold section title: "HOW TO PARTICIPATE"**
+
+EXACT text for each numbered step:
+1. Drop a new, unwrapped toy (Nov 15-Dec 15)
+2. Get goodies & freebies at the kickback
+3. Celebrate at the party (Dec 6, 2-6pm)
+
+Each step on its own line, numbered clearly, with bold key words for emphasis.
+All 3 steps MUST be clearly visible with adequate line spacing.
+
+**CALL TO ACTION (Bottom 8%):**
+Large, bold text: "BRING A TOY • GET GOODIES • SPREAD JOY"
+Social handles: @KannaKrew | #KannaKickback #KK6
+
+=== STYLE & COMPOSITION ===
+
+Layout principles:
+- EXTREMELY CLEAN and MINIMAL - this is the priority
+- 35-40% white space throughout - give it room to breathe
+- Each section clearly separated with generous spacing
+- Professional, elegant charity event aesthetic
+- Clear visual hierarchy - less is more
+- Vertical flow guides eye from top to bottom naturally
+- NO busy or overwhelming graphics anywhere
+
+Typography:
+- All section titles: BOLD and clearly larger than body text
+- Body text: Clean, readable size (nothing under 14pt equivalent)
+- Generous line spacing in all sections
+- "KANNA KICKBACK 6" is the largest text on flyer
+- All text easily readable at both print size and mobile screen
+- Simple, elegant fonts - nothing too decorative
+
+KannaKlaus graphic specifications (UPDATED - MORE MINIMAL):
+- TINY icon size (8-10% of header area MAXIMUM)
+- Ultra-simple design: Just a basic Santa hat outline with one tiny leaf
+- Think minimalist logo, NOT a character
+- NOT wild, NOT busy, NOT overwhelming
+- Should be almost an afterthought - barely there
+- Complement the text, don't compete with it
+
+Decorative elements (KEEP MINIMAL):
+- A FEW small cannabis leaf snowflakes or ornaments as background accents
+- VERY minimal and tasteful - barely noticeable
+- Should fade into background
+- Professional charity aesthetic is priority
+
+=== COLOR PALETTE ===
+
+Primary colors:
+- Forest green: #2C5F2D (for titles, accents)
+- Holiday red: #C41E3A (for festive accents)
+- Gold: #D4AF37 (for special highlights)
+- Cream: #FFF8DC (background)
+
+Color usage:
+- Clean cream background for maximum readability
+- Forest green for main titles and borders
+- Holiday red for festive accents (use sparingly)
+- Gold for special emphasis (mission section, CTA)
+- High contrast between text and background
+- Lots of cream/white showing - don't fill every space
+
+=== MOOD & VIBE ===
+
+- CLEAN and PROFESSIONAL (top priority)
+- MINIMAL and ELEGANT
+- Simple and uncluttered
+- Festive but restrained
+- Charity-focused and trustworthy
+- Inviting and friendly
+- Organized and easy to digest
+- Cannabis-friendly but wholesome
+- Lots of white space - calm and approachable
+
+=== TECHNICAL SPECS ===
+
+- Dimensions: 1080 x 1350 pixels (vertical)
+- Aspect ratio: 4:5
+- High resolution, suitable for both print and digital
+- PNG format
+- All text must be clearly legible
+- Professional quality suitable for charity event promotion
+
+=== BRAND REQUIREMENTS ===
+
+- All "Kanna" words spelled with K's not C's
+- Consistent with KannaKrew brand identity
+- Professional but playful
+- Charity event appropriate
+
+=== CRITICAL SUCCESS CRITERIA ===
+
+✅ KannaKlaus graphic is TINY, SIMPLE, and MINIMAL (almost barely there)
+✅ All graphics are CLEAN and NOT WILD
+✅ All 3 "How to Participate" steps have CORRECT text:
+   - "Drop a new, unwrapped toy (Nov 15-Dec 15)"
+   - "Get goodies & freebies at the kickback"
+   - "Celebrate at the party (Dec 6, 2-6pm)"
+✅ 35-40% white space - layout has breathing room
+✅ Professional, elegant charity event aesthetic
+✅ Easy to read at any size
+✅ All sections clearly organized with generous spacing
+✅ Festive but minimal and restrained
+
+=== AVOID ===
+
+- Wild or busy graphics of any kind
+- Large or overwhelming KannaKlaus character
+- Too many decorative elements
+- Crowded or cluttered composition
+- Missing or incorrect "How to Participate" text
+- Insufficient white space
+- Small or hard-to-read text
+- Too many cannabis elements (keep VERY subtle)
+- Overly busy or chaotic design
+- Anything that looks "wild" or overwhelming

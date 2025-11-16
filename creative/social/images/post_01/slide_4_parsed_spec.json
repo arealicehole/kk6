@@ -1,0 +1,65 @@
+{
+  "slide_number": 4,
+  "slide_name": "HOW IT WORKS",
+  "dimensions": "1080x1080",
+  "aspect_ratio": "1:1",
+  "subject": "Clean 4-step vertical process explaining toy drive",
+  "text_overlay": {
+    "title": "HOW IT WORKS",
+    "step_1": {
+      "number": "1",
+      "title": "DROP A TOY (Nov 15 - Dec 15)",
+      "description": "Bring new, unwrapped toy to donation boxes across the Valley",
+      "emoji": "🎁"
+    },
+    "step_2": {
+      "number": "2",
+      "title": "GET GOODIES",
+      "description": "Get goodies & freebies at the kickback",
+      "emoji": "🎉"
+    },
+    "step_3": {
+      "number": "3",
+      "title": "CELEBRATE (Dec 6, 2-6pm)",
+      "description": "Pull up to the party at Ginza",
+      "emoji": "🎊"
+    },
+    "step_4": {
+      "number": "4",
+      "title": "WE DELIVER (Dec 15)",
+      "description": "All toys go to Sojourner Center",
+      "emoji": "🚚"
+    }
+  },
+  "style_requirements": [
+    "CLEAN and SIMPLE layout - NO clutter",
+    "Title 'HOW IT WORKS' at top (large, bold)",
+    "4 numbered steps arranged VERTICALLY down the page",
+    "Each step: emoji + bold title + brief description",
+    "Plenty of white space between steps",
+    "NO overlapping elements",
+    "Cannabis leaf snowflakes as SUBTLE decoration only",
+    "Festive but not cluttered background"
+  ],
+  "color_palette": [
+    {"name": "Forest Green", "hex": "#2D5016"},
+    {"name": "Holiday Red", "hex": "#C41E3A"},
+    {"name": "Festive Gold", "hex": "#FFD700"},
+    {"name": "White", "hex": "#FFFFFF"},
+    {"name": "Cream", "hex": "#FFF8DC"}
+  ],
+  "typography": [
+    {"element": "Title", "style": "Large, bold, top of image"},
+    {"element": "Step numbers", "style": "Bold, prominent"},
+    {"element": "Step titles", "style": "Bold, medium size"},
+    {"element": "Step descriptions", "style": "Regular, smaller but readable"}
+  ],
+  "mood": ["Clean", "Simple", "Easy to read", "Organized", "Welcoming"],
+  "brand_elements": ["Cannabis leaf snowflakes (subtle)", "Holiday colors"],
+  "critical_notes": [
+    "Step 2 says 'Get goodies & freebies at the kickback' - NO gift bag language",
+    "NO instant anything",
+    "Keep it SIMPLE and READABLE",
+    "Maximum white space, minimum clutter"
+  ]
+}

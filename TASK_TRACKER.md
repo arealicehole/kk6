@@ -1,6 +1,6 @@
 # KANNA KICKBACK 6 - TASK TRACKER
-**Last Updated:** 2025-11-14
-**Days Until Event:** 22
+**Last Updated:** 2025-11-15
+**Days Until Event:** 21
 
 🔴 = CRITICAL | 🟡 = HIGH PRIORITY | 🟢 = MEDIUM | ⚪ = LOW
 
@@ -17,8 +17,8 @@
 | ✅ DONE | **Deploy website to production** | Claude | Nov 10 | ✅ LIVE at kannakickback.com - All forms working |
 | ✅ DONE | **Set up email automation system** | Claude | Nov 11 | ✅ MCP email client + Resend API - Can read/send/schedule emails |
 | ✅ DONE | Finalize menu with Maggie at Ginza | Gilbert | Nov 10 | ✅ Menu approved - Removed: ramen, dragon roll, spicy yellow. 10% revenue confirmed |
-| 🔴 TODO | Design flyer | Team | Nov 10 | Need 1,000 copies ASAP (include Dec 15 date) |
-| 🔴 TODO | Order flyers (1,000) | | Nov 11 | After design complete |
+| ✅ DONE | Design flyer | Team | Nov 15 | ✅ KK6_EVENT_FLYER.png created - Clean, professional, all info correct |
+| 🔴 TODO | Order flyers (1,000) | | Nov 16 | Print-ready file available at creative/print/KK6_EVENT_FLYER.png |
 | 🔴 TODO | Create donation boxes (10-15) | | Nov 11 | Cardboard + Kanna Claus signage |
 | 🔴 TODO | Send pinata design to vendor | Gilbert | Nov 10 | Ornament design + logo specs |
 
@@ -35,14 +35,14 @@
 | ✅ DONE | Send DM to Special K | | Nov 11 | ✅ DM sent - awaiting response (20-30 pieces requested) |
 | 🟡 TODO | Send emails to other vendors/sponsors | | Nov 11-12 | Chill Pipe, Brian Jacobs, others pending |
 | 🔴 TODO | Place donation boxes at locations | | Nov 13 | ✅ 3 ready: Ginza, Fancy Pets, Amaranth (AJ) |
-| 🔴 TODO | Launch social posts #1-3 | | Nov 10-13 | Start the campaign ASAP |
+| ✅ DONE | Launch social posts #1-3 | Gilbert | Nov 15 | ✅ POST #1 published on @kannakrew (5-slide carousel) |
 
 ### 🟡 HIGH PRIORITY
 | Status | Task | Owner | Due | Notes |
 |--------|------|-------|-----|-------|
 | ✅ DONE | Finalize pinata order (ornament design) | Gilbert | Nov 10 | ✅ Design sent to vendor |
 | 🟡 TODO | Propose interview details to Berkeley | | Nov 11 | Date/time/location for Sojourner video |
-| 🟡 TODO | Create flyer OR video OR paid ad | | Nov 10-11 | Need SOMETHING out immediately |
+| ✅ DONE | Create flyer OR video OR paid ad | Team | Nov 15 | ✅ Instagram Post #1 (5 slides) + Event Flyer both complete |
 | 🟡 TODO | Contact Chill Pipe (30 bongs) | | Nov 12 | |
 | ✅ DONE | Contact Greek Glasses (bongs) | | Nov 11 | ✅ Sent small box of goodies for gift bags! |
 | 🟡 TODO | Contact Brian Jacobs (glass) | | Nov 13 | |

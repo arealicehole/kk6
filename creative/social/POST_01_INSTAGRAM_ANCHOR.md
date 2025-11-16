@@ -1,10 +1,17 @@
 # INSTAGRAM POST #1 - KK6 GRAND ANNOUNCEMENT
 **Type:** Carousel (5 slides)
 **Purpose:** Pinned anchor post explaining everything about KK6
-**Status:** ✅ UPDATED Nov 14 - Ready to produce
+**Status:** ✅ UPDATED Nov 15 - Ready to produce
 **Target Post Date:** ASAP (Nov 15-16, 2025)
 
-## 🔄 UPDATES MADE (Nov 14, 2025):
+## 🔄 UPDATES MADE:
+
+### Nov 15, 2025:
+- ✅ Removed "Bong Pong tournament" from activities (canceled)
+- ✅ Fixed pinata name: "Infamous Kanna Krew Pinata" (was "Can of Krew")
+- ✅ Changed gift bag language: "Bring a new, unwrapped toy and get goodies & freebies at the kickback" (simplified from "get a gift bag packed with goodies and prizes")
+
+### Nov 14, 2025:
 - ✅ Changed "East Valley" to "the Valley" (location context)
 - ✅ Added "FREE EVENT" callout
 - ✅ Updated games: Special K Ring Toss, Infamous Can of Krew Pinata
@@ -27,7 +34,7 @@
 Year 6 of the Valley's favorite holiday smoker's party + charity toy drive 💚
 
 📍 Ginza Restaurant, Gold Canyon
-📅 Friday, December 6th
+📅 Saturday, December 6th
 ⏰ 2:00 PM - 6:00 PM
 🎟️ FREE EVENT
 
@@ -39,8 +46,7 @@ Beat last year's $6,500 in toy donations. From KK3's $4,200 to KK5's $6,500, we'
 🎅 WHAT TO EXPECT:
 • KannaKlaus & his elves
 • Special K Ring Toss game
-• Bong Pong tournament
-• Infamous Can of Krew Pinata
+• Infamous Kanna Krew Pinata
 • 10+ vendor booths (glass, cannabis products, local growers)
 • Giveaways & raffles all day
 • Orange chicken & more from Ginza
@@ -49,7 +55,7 @@ Beat last year's $6,500 in toy donations. From KK3's $4,200 to KK5's $6,500, we'
 
 🎁 HOW IT WORKS:
 **TOY DRIVE: Nov 15 - Dec 15**
-Donation boxes at dispensaries, smoke shops, and community spots across the Valley. Bring a new, unwrapped toy = get a gift bag packed with goodies and prizes.
+Donation boxes at dispensaries, smoke shops, and community spots across the Valley. Bring a new, unwrapped toy and get goodies & freebies at the kickback.
 
 **THE PARTY: Dec 6, 2-6pm**
 Pull up to the Kickback to celebrate with food, games, vendors, and community love.
@@ -79,7 +85,7 @@ Tag 3 friends who need to pull up 👇
 **Text on Graphic:**
 ```
 KANNA KICKBACK 6
-Friday, December 6th
+Saturday, December 6th
 2:00 PM - 6:00 PM
 Ginza • Gold Canyon, AZ
 
@@ -140,15 +146,14 @@ WHAT'S HAPPENING AT KK6?
 
 🎅 KannaKlaus & Elves
 💍 Special K Ring Toss
-🏓 Bong Pong Tournament
-🪅 Infamous Can of Krew Pinata
+🪅 Infamous Kanna Krew Pinata
 🛍️ 10+ Vendor Booths (glass artists, cannabis products, local growers)
 🎁 Giveaways & Raffles ALL DAY
 🍜 Orange Chicken & More from Ginza
 💨 420-Friendly Space
 🎶 Music, Vibes, Community
 
-Free to attend. Bring a toy, get a gift bag.
+Free to attend. Bring a toy, get goodies & freebies.
 ```
 
 **Visual Concept:**
@@ -207,7 +212,7 @@ Everybody wins. Everybody eats.
 ```
 SAVE THE DATE
 
-📅 Friday, December 6, 2025
+📅 Saturday, December 6, 2025
 ⏰ 2:00 PM - 6:00 PM
 📍 Ginza Restaurant, Gold Canyon
 

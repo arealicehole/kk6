@@ -69,7 +69,7 @@ Creating 5 Instagram carousel graphics (1080x1080px each) for the anchor announc
 ```
 KANNA KICKBACK 6
 
-Friday, December 6th
+Saturday, December 6th
 2:00 PM - 6:00 PM
 Ginza • Gold Canyon, AZ
 FREE EVENT
@@ -102,7 +102,7 @@ FREE EVENT
 Create a festive Instagram post graphic (1080x1080px) for "KANNA KICKBACK 6" event announcement.
 
 Main text: "KANNA KICKBACK 6" in huge bold letters
-Date: "Friday, December 6th • 2-6 PM"
+Date: "Saturday, December 6th • 2-6 PM"
 Location: "Ginza, Gold Canyon, AZ"
 Subtitle: "Holiday Party • Toy Drive • Community Love"
 
@@ -374,7 +374,7 @@ Create an Instagram call-to-action graphic (1080x1080px) for KK6.
 Title: "SAVE THE DATE" (large, bold)
 
 Event details:
-📅 Friday, December 6, 2025
+📅 Saturday, December 6, 2025
 ⏰ 2:00 PM - 6:00 PM
 📍 Ginza Restaurant, Gold Canyon
 
