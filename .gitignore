@@ -13,3 +13,8 @@ website/
 **/generation_state.json
 **/*_quality_review.md
 **/*_MANIFEST.json
+
+# Python scripts in image generation folders (may contain API keys)
+creative/social/images/**/*.py
+creative/print/images/**/*.py
+creative/assets/images/**/*.py
