@@ -3,7 +3,37 @@
 
 ---
 
-## 2025-11-16 (MEDIA ASSETS & FACEBOOK EVENT PAGE)
+## 2025-11-16 (MEDIA ASSETS, FACEBOOK EVENT PAGE & WEBSITE UPDATES)
+
+### ✅ Website Updates - Hero Carousel & Gallery Repositioned!
+- **Status:** Live on kannakickback.com (deployed via Netlify)
+- **Commit:** `0f8131e` - "Add hero carousel and move gallery higher on page"
+- **GitHub Repo:** kk6-prod
+
+**Changes Made:**
+1. **Hero Carousel Added:**
+   - 2-column CSS Grid layout (content left, carousel right)
+   - 3 KannaKlaus character images rotating
+   - Auto-play every 4 seconds (pauses on hover)
+   - Prev/next buttons + indicator dots
+   - Keyboard navigation (arrow keys)
+   - Responsive design (1 column on mobile)
+
+2. **Gallery Repositioned:**
+   - Moved from before FAQ to immediately after hero section
+   - User feedback: "fire af" - highly visible placement
+   - Removed duplicate gallery section
+   - Added Gallery link to navigation
+
+3. **Image Assets Deployed:**
+   - Characters: 4 compressed PNGs (2-3MB each) in `/images/characters/`
+   - Gallery: 5 high-value media files in `/images/gallery/`
+   - Total deployed: 9 files (26.5MB)
+
+4. **Files Modified:**
+   - `index.html` (260 insertions, 58 deletions)
+   - `style.css` (hero grid, carousel, gallery styling)
+   - `script.js` (carousel controls, auto-play, keyboard nav)
 
 ### ✅ Facebook Event Page Created!
 - **Status:** Live and published
