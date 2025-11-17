@@ -217,5 +217,35 @@ Use the visual-creator subagent to regenerate slide 3 from POST_01_DESIGN_SPECS.
 
 This rule applies to ALL image generation tasks. No exceptions.
 
+---
+
+## CREDENTIAL SECURITY - CRITICAL RULE
+
+**NEVER include actual API keys, passwords, or secrets in ANY documentation files**
+
+- Even when documenting security incidents or credential rotations
+- ALWAYS use placeholders like `[REDACTED]`, `[KEY STORED IN .ENV]`, or `[REVOKED]`
+- NEVER write the actual key value in:
+  - WORKING_NOTES.md
+  - TASK_TRACKER.md
+  - MASTER_REFERENCE.md
+  - Any other committed files
+- Only actual credential storage: `.env` file (gitignored) and MCP settings
+
+**Example - WRONG:**
+```
+New API key: re_8Y1hQr8g_4fMmezHFxmvKpExD1VGe6GVk
+```
+
+**Example - CORRECT:**
+```
+New API key: [STORED IN .ENV]
+Old API key: [REVOKED]
+```
+
+This rule applies to ALL credential documentation. No exceptions.
+
+---
+
 - when using postitz make sure u get confirmation about which account and also you use arizona time utc-7
 - when you send emails default to send via resend unless otherwise directed
