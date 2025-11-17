@@ -169,9 +169,11 @@
 ### Dispensaries (Box Hosts):
 | Status | Name | Contact | Sent | Response | Notes |
 |--------|------|---------|------|----------|-------|
-| ⚪ TODO | [Dispensary 1] | | | | |
-| ⚪ TODO | [Dispensary 2] | | | | |
-| ⚪ TODO | [Dispensary 3] | | | | |
+| ⚪ PENDING | Nirvana Center | max@nirvanacenter.com | Nov 11 | NO RESPONSE | Follow-up needed |
+| ⚪ PENDING | The Mint Dispensary | jtellez@themintdispensary.com | Nov 11 | NO RESPONSE | Follow-up needed |
+| ⚪ PENDING | Story Partners | kweed@storypartners.com | Nov 11 | NO RESPONSE | Follow-up needed |
+| ⚪ TODO | Arizona Organix | Camielle@arizonaorganix.org | | | NEW CONTACT - Send box host + sponsor email |
+| ✅ CONFIRMED | Level Up Smoke Shop | TBD | | YES | Glendale - Box confirmed Nov 16 |
 
 ### Vendors/Sponsors:
 | Status | Name | Contact | Sent | Response | Commitment |
@@ -194,10 +196,12 @@
 
 | Status | Location | Contact | Placed | Pickup Scheduled | Notes |
 |--------|----------|---------|--------|------------------|-------|
-| ✅ READY | Ginza | | NO | Dec 15 | Venue - box ready for delivery |
-| ✅ READY | Fancy Pets | | NO | Dec 15 | Box ready for delivery |
-| ✅ READY | Amaranth (AJ) | | NO | Dec 15 | Toy store - box ready for delivery |
+| ✅ READY | Ginza (Gold Canyon) | | NO | Dec 15 | Venue - box ready for delivery |
+| ✅ READY | Fancy Pets (Tempe) | | NO | Dec 15 | Box ready for delivery |
+| ✅ CONFIRMED | Amrahlynn's Collectibles (Apache Junction) | | NO | Dec 15 | 850 S Ironwood Dr #108, AJ 85120 |
+| ✅ CONFIRMED | Level Up Smoke Shop (Glendale) | TBD | NO | Dec 15 | 6766 W Glendale Ave #125, Glendale 85303 |
 | ⚪ TODO | Tom Palms | | | | Likely yes |
+| ⚪ TODO | Arizona Organix | Camielle@arizonaorganix.org | | | Pending outreach |
 | ⚪ TODO | Cherry Bomb | | | | Interested |
 | ⚪ TODO | [Dispensary 1] | | | | |
 | ⚪ TODO | [Dispensary 2] | | | | |

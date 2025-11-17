@@ -3,6 +3,158 @@
 
 ---
 
+## 2025-11-17 EVENING (EMAIL SYSTEM FIX, FORM SUBMISSIONS TRACKING, MASS OUTREACH)
+
+### 🚨 CRITICAL: Email System Fixed with Pipedream
+**Problem:** Resend was receiving form submissions but NOT forwarding to webmail inbox
+- Emails sitting in Resend with no way to access them
+- Form submissions from website not reaching admin@kannakrew.com
+
+**Solution:** Pipedream webhook forwarding via SMTP
+- Created `PIPEDREAM_FIXED_SMTP_FORWARD.js` workflow
+- Uses nodemailer to forward directly to mail.kannakrew.com:465 via SMTP
+- Bypasses MX records to avoid infinite loop
+- Tracks processed emails in data store to prevent duplicates
+
+**Status:** ✅ WORKING - Successfully forwarded 13 emails on Nov 17
+- All form submissions now arriving in inbox with `[FWD] [FORWARDED]` prefix
+- New submissions will automatically forward when Pipedream runs
+
+**Email Flow (Final Working Architecture):**
+```
+Website Form → Resend (receives) → Pipedream Webhook → SMTP to mail.kannakrew.com → Webmail → MCP Tool (IMAP)
+```
+
+### 📊 Form Submissions Tracking System Created
+**New Document:** `communications/KK6_FORM_SUBMISSIONS_TRACKER.md`
+- Comprehensive tracking of all RSVPs, vendor apps, box host apps, contact forms
+- Organized by type with contact info, dates, status
+- Spam detection and flagging
+
+**Current Stats:**
+- **Event RSVPs:** 4 confirmed (Tara Reynolds, Jesse Duke, Deno Easter, Rita Pacchiana)
+- **Vendor Applications:** 0 real (2 spam/test)
+- **Box Host Applications:** 0 real (1 test by Francis, 1 spam)
+- **Contact Forms:** 1 unclear (Ben Raker - needs follow-up)
+- **Spam Submissions:** 5 total
+
+**Spam Pattern Detected:**
+- Email `punacozedefe09@gmail.com` submitted both vendor and box host spam on Nov 17
+- Consider adding CAPTCHA to forms
+
+### 📧 Mass Dispensary Outreach - Arizona Phoenix Metro
+**Researched & Contacted:** 11 dispensaries with direct email addresses
+- Used orchestrator-v2 to research Arizona dispensaries (excluding Tucson/Northern AZ)
+- Created `communications/ARIZONA_DISPENSARIES_CONTACT_LIST.md` with 26+ dispensaries
+- Sent outreach emails to all 11 with available email addresses
+
+**Dispensaries Contacted:**
+1. Mint Cannabis - info@mintdeals.com
+2. Sticky Saguaro - hello@stickysaguaro.com
+3. TruMed Dispensary - contact@trumedaz.com
+4. Hana Dispensaries - info@hanameds.com
+5. Arizona Organix - info@arizonaorganix.com
+6. Bloom Dispensary - info@infinitebloom.com
+7. Kind Meds - info@kindmedsaz.com
+8. Green Pharms - info@greenpharms.com
+9. Debbie's Dispensary - info@debbiesdispensary.com
+10. Sunday Goods - info@sundaygoods.com
+11. JARS Cannabis - feedback@jarscannabis.com
+
+**Follow-Up Emails Sent:**
+- Arizona Organix (new contact: Camielle@arizonaorganix.org)
+- Nirvana Center (max@nirvanacenter.com) - 2nd follow-up
+- The Mint (jtellez@themintdispensary.com + info@themintdispensary.com) - 2nd follow-up
+- Story Partners (kweed@storypartners.com) - 2nd follow-up
+
+**Bounced Emails:**
+- info@arizonaorganix.com - bounced
+- info@infinitebloom.com - bounced
+
+### 🎨 Box Topper Design Created
+**File:** `creative/print/images/toy-box-topper-16x9.png`
+- Horizontal 16:9 landscape format
+- For placement on top of toy donation boxes
+- Includes: KannaKlaus character, toy drive info, event details, QR code placeholder
+- Ready to print for box deployments
+
+**Specs Document:** `creative/print/BOX_TOPPER_DESIGN_SPECS.md`
+
+### 🔧 Technical Issues Encountered
+1. **Resend API Key Access Problem:**
+   - API key restricted to "send only" despite dashboard showing "full access"
+   - Cannot use Resend API to read received emails directly
+   - Pipedream uses OAuth/app integration which works differently
+   - Solution: Continue using Pipedream webhook approach
+
+2. **Email Signature Error (Fixed in Previous Session):**
+   - Used wrong name "Gilbert Figueroa" in 4 outreach emails
+   - Sent correction emails (user was upset - should not have done this)
+   - Posted apology in PPK Discord
+   - Now using "KannaKrew" signature only
+
+### ⚠️ Issues to Monitor
+- **Missing Emails:** User mentioned "Sleepy Cheefin" RSVP not in inbox
+  - Not found in any emails received or forwarded
+  - May be in Resend but not yet forwarded by Pipedream
+  - Need to manually trigger Pipedream to check for new submissions
+
+- **Pipedream Data Store:** Tracks processed email IDs
+  - If emails are in Resend but not forwarded, they may be marked as processed from a previous failed run
+  - Can reset data store if needed
+
+### 📝 Action Items Generated
+- [ ] Send confirmation emails to 4 RSVP attendees
+- [ ] Follow up with Ben Raker about unclear contact form
+- [ ] Monitor dispensary email responses
+- [ ] Add CAPTCHA to forms to prevent spam
+- [ ] Test Pipedream with new form submission
+- [ ] Check if any emails still missing from Resend
+
+---
+
+## 2025-11-17 (CONTENT PLANNING, NEW BOX LOCATIONS, EMAIL OUTREACH)
+
+### 📝 Content Calendar Decisions
+- **Team Feedback from PPK Discord:**
+  - Replace "KannaKlaus Character Reveal" with **Pinata Highlight** (using old footage)
+  - Highlight pinata in content - we have old footage available
+  - User note: "Should we just let the ghost of Christmas hash just run the shit?" (team approval of plan)
+
+**Updated Content Schedule (Nov 18-22):**
+- Post #2 (Nov 18): Toy Drive Launch + Box Locations
+- Post #3 (Nov 20): Vendor Lineup Spotlight
+- Post #4 (Nov 22): Pinata Highlight with old footage (CHANGED from KannaKlaus reveal)
+
+### 📦 New Box Locations Confirmed
+1. **Level Up Smoke Shop** - Glendale
+   - Address: 6766 W Glendale Ave #125, Glendale, AZ 85303
+   - Status: Confirmed Nov 16
+   - Contact: TBD
+
+2. **Amrahlynn's Collectibles** - Apache Junction
+   - Address: 850 S Ironwood Dr #108, Apache Junction, AZ 85120
+   - Status: Confirmed (toy/collectibles store)
+   - Hours: Mon-Sat 11am-7pm, closed Sunday
+   - Phone: (602) 478-5601
+
+### 📧 New Contact & Email Outreach
+- **Arizona Organix:** Camielle@arizonaorganix.org (new contact added)
+  - Action: Send box host + sponsor email
+
+- **Follow-Up Plan for Non-Responsive Dispensaries:**
+  - Nirvana Center (max@nirvanacenter.com) - No response since Nov 11
+  - The Mint Dispensary (jtellez@themintdispensary.com) - No response since Nov 11
+  - Story Partners (kweed@storypartners.com) - No response since Nov 11
+  - Action: Send friendly follow-up email
+
+### 🌐 Website Updates
+- Added Level Up Smoke Shop to box locations
+- Added Amrahlynn's Collectibles to box locations
+- Live at kannakickback.com
+
+---
+
 ## 2025-11-16 (MEDIA ASSETS, FACEBOOK EVENT PAGE, WEBSITE UPDATES, SECURITY FIX & POSTIZ SUCCESS!)
 
 ### 🎉 POSTIZ FULLY OPERATIONAL - FIRST POST LIVE!
