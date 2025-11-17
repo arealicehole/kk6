@@ -17,10 +17,12 @@
 - Confirmation on pre-roll for toy donation promo (like last year)
 - Mentioned vendor booth opportunity for Dec 6 event
 
-**Reply Sent:** Successfully sent via Resend API with proper email threading
+**Reply Sent:** ⚠️ Sent via Resend API but threading FAILED
 - Message ID: `101af892-7ace-4c8e-bb0f-5dc1e70fefe4`
-- Threaded with original Message ID: `d41c9c73-453b-4647-8471-62af621fa17f`
-- Used In-Reply-To and References headers for proper threading
+- Used WRONG Message-ID: `<d41c9c73-453b-4647-8471-62af621fa17f>` (Resend internal ID)
+- Should have used: `<CAAXR8zM_iHtD_5Knd92hBpmm5RpSSydG7fYW7U2aaewUALfmMw@mail.gmail.com>` (actual Gmail Message-ID)
+- Email sent but won't thread properly in Max's inbox
+- Lesson: Always check `/emails/inbound` endpoint first to get actual Message-ID
 
 **Delivery Plan:**
 - Targeting Nov 18 delivery route for all 9 locations
