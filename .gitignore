@@ -28,3 +28,9 @@ FORWARD_EMAILS_README.md
 .env
 .env.local
 .env.*.local
+
+# Temporary utility scripts
+send_threaded_reply.js
+node_modules/
+package.json
+package-lock.json
