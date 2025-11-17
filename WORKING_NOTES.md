@@ -29,7 +29,7 @@
 - Updated MCP settings documentation for email tool
 
 **New Credentials Generated:**
-- Resend API key: `re_8Y1hQr8g_4fMmezHFxmvKpExD1VGe6GVk` (stored in `.env`)
+- Resend API key: [NEW KEY GENERATED - stored in `.env`]
 - SMTP password: (pending update)
 
 **Files Created:**
