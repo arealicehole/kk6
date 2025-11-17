@@ -218,3 +218,4 @@ Use the visual-creator subagent to regenerate slide 3 from POST_01_DESIGN_SPECS.
 This rule applies to ALL image generation tasks. No exceptions.
 
 - when using postitz make sure u get confirmation about which account and also you use arizona time utc-7
+- when you send emails default to send via resend unless otherwise directed

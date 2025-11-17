@@ -9,13 +9,16 @@
 
 | Date | Name | Email | Phone | Status | Notes |
 |------|------|-------|-------|--------|-------|
-| Nov 16 | **Tara Reynolds** | taracoreen13@gmail.com | (480) 215-8843 | ✅ CONFIRMED | Real RSVP |
-| Nov 16 | **Jesse Duke** | jesseduke34@hotmail.com | (602) 425-4529 | ✅ CONFIRMED | Real RSVP |
-| Nov 15 | **Deno Easter** | deasterdenoeasterdeaster@hotmail.com | (480) 504-7160 | ✅ CONFIRMED | Real RSVP |
-| Nov 15 | **Rita Pacchiana** | ritajeanmary@hotmail.com | (480) 249-5516 | ✅ CONFIRMED | Real RSVP |
+| Nov 16 | **Tara Reynolds** | taracoreen13@gmail.com | (480) 215-8843 | ✅ CONFIRMED | Real RSVP - Forwarded to inbox |
+| Nov 16 | **Jesse Duke** | jesseduke34@hotmail.com | (602) 425-4529 | ✅ CONFIRMED | Real RSVP - Forwarded to inbox |
+| Nov 16 | **Dustin Morrissey** | TBD | TBD | ⚠️ NEEDS FOLLOW-UP | Real RSVP - In Resend, not forwarded (need contact info) |
+| Nov 16 | **Susanna Grijalva** | TBD | TBD | ⚠️ NEEDS FOLLOW-UP | Real RSVP - In Resend, not forwarded (need contact info) |
+| Nov 15 | **Sleepy Cheefin** | TBD | TBD | ⚠️ NEEDS FOLLOW-UP | Real RSVP - In Resend, not forwarded (need contact info) |
+| Nov 15 | **Deno Easter** | deasterdenoeasterdeaster@hotmail.com | (480) 504-7160 | ✅ CONFIRMED | Real RSVP - Forwarded to inbox |
+| Nov 15 | **Rita Pacchiana** | ritajeanmary@hotmail.com | (480) 249-5516 | ✅ CONFIRMED | Real RSVP - Forwarded to inbox |
 | Nov 11 | poop | poop@poop.copm | (555) 555-5555 | ❌ TEST | Test submission |
 
-**Total Real RSVPs: 4**
+**Total Real RSVPs: 7** (4 with contact info, 3 need follow-up)
 
 ---
 
@@ -23,8 +26,8 @@
 
 | Date | Name | Business Name | Email | Phone | Products/Services | Donation Offer | Status | Notes |
 |------|------|---------------|-------|-------|-------------------|----------------|--------|-------|
-| Nov 17 | test | testpoop | trat@test.com | (480) 555-5555 | Test | Test | ❌ TEST | Test submission |
-| Nov 17 | eealYYUXvfolWOncJzNxCIR | ZwYjIZeVvrllTtuUh | punacozedefe09@gmail.com | (850) 158-5655 | TOansPJeJbfTFdnHTmBLbM | CUJqjQdGFFwXPSvARm | 🚫 SPAM | Spam/bot submission |
+| Nov 17 | test | testpoop | trat@test.com | (480) 555-5555 | Test | Test | ❌ TEST | Test submission (2 copies) |
+| Nov 17 | eealYYUXvfolWOncJzNxCIR | ZwYjIZeVvrllTtuUh | punacozedefe09@gmail.com | (850) 158-5655 | TOansPJeJbfTFdnHTmBLbM | CUJqjQdGFFwXPSvARm | 🚫 SPAM | Spam/bot submission - Not forwarded |
 
 **Total Real Vendor Applications: 0**
 
@@ -54,19 +57,25 @@
 
 ## SUMMARY STATS
 
-- **Total Event RSVPs:** 4 people confirmed
-- **Total Vendor Applications:** 0 (need outreach!)
-- **Total Box Host Applications:** 0 (need outreach!)
+- **Total Event RSVPs:** 7 people confirmed
+  - 4 with full contact info (Tara, Jesse, Deno, Rita)
+  - 3 need follow-up (Sleepy Cheefin, Susanna Grijalva, Dustin Morrissey)
+- **Total Vendor Applications:** 0 real (need outreach!)
+- **Total Box Host Applications:** 0 real (need outreach!)
 - **Total Contact Forms:** 1 unclear (Ben Raker)
-- **Spam/Test Submissions:** 5
+- **Spam/Test Submissions:** 7+ (multiple spam submissions not forwarded)
 
 ---
 
 ## ACTION ITEMS
 
 ### RSVPs - Follow Up Needed:
-- [ ] Send confirmation emails to all 4 RSVPs with event details
-- [ ] Add to guest list for Dec 6 event
+- [ ] **URGENT:** Get contact info for 3 missing RSVPs (in Resend but not forwarded):
+  - Sleepy Cheefin (Nov 15)
+  - Susanna Grijalva (Nov 16)
+  - Dustin Morrissey (Nov 16)
+- [ ] Send confirmation emails to all 7 RSVPs with event details
+- [ ] Add all 7 to guest list for Dec 6 event
 - [ ] Consider sending reminder closer to event date
 
 ### Vendor Applications:
