@@ -20,3 +20,10 @@ helpdesk/
 creative/social/images/**/*.py
 creative/print/images/**/*.py
 creative/assets/images/**/*.py
+
+# Credentials - DO NOT COMMIT
+PIPEDREAM_FIXED_SMTP_FORWARD.js
+forward-resend-emails.js
+FORWARD_EMAILS_README.md
+*.env
+.env.*
