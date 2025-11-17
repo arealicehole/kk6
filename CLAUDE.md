@@ -51,6 +51,17 @@ Help me plan the Kanna Kickback 6 for the Kanna Krew
 - Record questions that need answers
 - Keep running list of content ideas
 
+### KK6_FORM_SUBMISSIONS_TRACKER.md - Form Submissions Tracking
+- **Location:** `communications/KK6_FORM_SUBMISSIONS_TRACKER.md`
+- **UPDATE IMMEDIATELY** when new form submissions arrive via email
+- Tracks all website form submissions:
+  - Event RSVPs (name, email, phone, date, status)
+  - Vendor applications
+  - Box host applications
+  - Contact form messages
+- Remove spam/test submissions - keep only real data
+- **ALWAYS check and update this tracker** when processing emails from forms
+
 ### Document Relationships:
 ```
 MASTER_REFERENCE.md  →  The "what" (complete info about KK6)
