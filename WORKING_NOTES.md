@@ -3,6 +3,48 @@
 
 ---
 
+## 2025-11-18 EARLY MORNING - KANNAKLAUS VS KRAMPUS POST LIVE
+
+### 🎅 KannaKlaus vs Krampus Carousel Posted to Instagram
+**Platform:** @kannakrew Instagram
+**Post ID:** `cmi4t7j8g0000ix80de47r0zt`
+**Posted:** Nov 18, 2025 (early morning)
+**Format:** 6-slide carousel (1 image + 5 video clips)
+
+**Content:**
+- AI-generated KannaKlaus vs Krampus battle video
+- Option 2 caption: "POV: KannaKlaus training for KannaKickback 6 💀🎄"
+- Event details: Dec 6, 2-6pm, Ginza Gold Canyon
+- CTA: "Who's pulling up? 👇"
+- Hashtags: #KannaKickback #KK6 #KannaKlausVsKrampus #AIGoneWild
+
+**Files Posted (Order):**
+1. r0.png - Cover image
+2. r1.mp4 - Video clip 1
+3. r2.mp4 - Video clip 2
+4. r3.mp4 - Video clip 3
+5. r4.mp4 - Video clip 4
+6. r5.mp4 - Video clip 5
+
+**Source Location:** `C:\Users\figon\OneDrive\aaaa2\` (r0-r5 files)
+
+**Upload IDs (Postiz):**
+- r0.png: `0643efbb-9c96-41ac-a857-f6585852dffa`
+- r1.mp4: `de9dac21-86f3-4806-b545-025cf6d188ca`
+- r2.mp4: `0f8b6d25-748c-492f-ba41-1d782b665a83`
+- r3.mp4: `54983e33-357b-4f3b-8c61-af114a570788`
+- r4.mp4: `6a4e4628-e028-40b0-a55f-43c53180fb52`
+- r5.mp4: `e1f19380-3314-4b75-8ced-9abfcb7cce23`
+
+**Content Calendar Note:**
+- This counts as early POST #6 (KannaKlaus Origin Teaser) from content calendar
+- Originally planned for Nov 21, posted early on Nov 18
+- POST #4 (Save the Date) still needs to be created
+
+**Posted Via:** Postiz API (type: "now" - immediate post)
+
+---
+
 ## 2025-11-17 CONTENT CALENDAR CREATED
 
 ### 📅 Comprehensive Content Calendar Built
