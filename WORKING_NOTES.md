@@ -87,7 +87,8 @@
 **All Details Tracked:** See `operations/boxes/BOX_PLACEMENT_TRACKER.md` for complete addresses and contacts
 
 **Next Steps:**
-- [ ] Draft reply to Max with Dec 1-19 date request
+- [x] Draft reply to Max with Dec 1-19 date request → `communications/emails/DRAFT_NIRVANA_DEC1-19_TIMELINE.md`
+- [ ] Review and send draft to Max
 - [ ] Decide which boxes delivering Nov 18
 - [ ] Plan delivery routes for all 9 locations
 - [ ] Decide on Special Case bong purchase ($600-900)
