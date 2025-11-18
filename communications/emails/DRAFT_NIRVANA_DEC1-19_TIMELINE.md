@@ -3,8 +3,11 @@
 **To:** max@nirvanacenter.com
 **From:** admin@kannakrew.com
 **Subject:** Re: KannaKickback 6 - Box Host Partnership
-**Status:** DRAFT - NOT SENT
+**Status:** ✅ SENT - Nov 18, 2025
 **Created:** 2025-11-17
+**Sent:** 2025-11-18
+**Email ID:** b3b380e5-3dca-4978-91b4-5bf0516baff3
+**Threaded Reply To:** <CAAXR8zMMmUSfi1MtFYsj8G7MpjZp7bjymFxpBZQV0R=Ltf-X_g@mail.gmail.com>
 
 ---
 

@@ -3,6 +3,36 @@
 
 ---
 
+## 2025-11-18 MORNING - NIRVANA EMAIL SENT (THREADED CORRECTLY)
+
+### 📧 Email to Max - Dec 1-19 Timeline Counter-Offer
+**To:** max@nirvanacenter.com
+**Subject:** Re: KannaKickback 6 - Box Host Partnership
+**Sent:** Nov 18, 2025
+**Email ID:** `b3b380e5-3dca-4978-91b4-5bf0516baff3`
+
+**Threading:**
+- ✅ Properly threaded using Gmail Message-ID
+- **In-Reply-To:** `<CAAXR8zMMmUSfi1MtFYsj8G7MpjZp7bjymFxpBZQV0R=Ltf-X_g@mail.gmail.com>`
+- **References:** `<CAAXR8zMMmUSfi1MtFYsj8G7MpjZp7bjymFxpBZQV0R=Ltf-X_g@mail.gmail.com>`
+- Should appear correctly in Max's Gmail thread
+
+**Email Content:**
+- ✅ Confirmed all 9 Nirvana locations
+- ✅ Acknowledged pre-roll promo
+- ✅ Counter-offered Dec 1-19 (instead of their Dec 1-22)
+- ✅ Explained reason: Sojourner deadline Dec 20
+- ✅ Asked about delivery schedule logistics
+
+**Next Steps:**
+- Wait for Max's response on Dec 1-19 timeline
+- Coordinate box delivery schedule once confirmed
+- Plan social media announcement for Dec 1 (POST #11)
+
+**Draft Location:** `communications/emails/DRAFT_NIRVANA_DEC1-19_TIMELINE.md`
+
+---
+
 ## 2025-11-18 EARLY MORNING - KANNAKLAUS VS KRAMPUS POST LIVE
 
 ### 🎅 KannaKlaus vs Krampus Carousel Posted to Instagram
