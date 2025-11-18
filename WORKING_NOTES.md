@@ -3,6 +3,40 @@
 
 ---
 
+## 2025-11-17 LATE NIGHT CONTINUED - MAX'S FULL RESPONSE (ALL 9 LOCATIONS CONFIRMED!)
+
+### 🎉🎉 MAX REPLIED WITH EVERYTHING - All 9 Locations Fully Confirmed!
+
+**Max's Response Included:**
+- ✅ All 9 location addresses
+- ✅ General Manager contact for each location
+- ✅ Confirmed free pre-roll with toy donation promo
+- ✅ Includes Cookies Tempe and Backpackboyz AZ (branded locations!)
+- 📅 **Timeline Adjustment:** They want Dec 1-22 (not our Nov 15 - Dec 15)
+  - Reason: They have food drive through end of November
+- 📍 Wants advance notice on delivery days to prep stores
+
+**⚠️ DECISIONS NEEDED:**
+1. **Accept timeline change to Dec 1-22?** (vs our Nov 15 - Dec 15)
+2. **Accept Tucson location?** (Outside Phoenix metro scope)
+3. **Accept Prescott Valley location?** (Northern AZ, outside scope)
+
+**Location Breakdown:**
+- Phoenix Metro: 6 locations ✅
+- Southeast: 1 location (Florence)
+- Northern AZ: 1 location (Prescott Valley) ⚠️
+- Tucson: 1 location ⚠️
+
+**All Details Tracked:** See `operations/boxes/BOX_PLACEMENT_TRACKER.md` for complete addresses and contacts
+
+**Next Steps:**
+- [ ] Decide on timeline (Dec 1-22 vs Nov 15 - Dec 15)
+- [ ] Decide on out-of-area locations (Tucson, Prescott Valley)
+- [ ] Reply to Max confirming delivery schedule
+- [ ] Plan delivery routes for Nov 18 (or adjusted date)
+
+---
+
 ## 2025-11-17 LATE NIGHT CONTINUED (NIRVANA CENTER - 9 LOCATIONS!)
 
 ### 🎉 MAJOR WIN - Nirvana Center Commits to ALL 9 Arizona Locations
