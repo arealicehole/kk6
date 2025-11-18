@@ -79,6 +79,38 @@ Track all donation box host locations, delivery status, and pickup schedule.
 
 ---
 
+### 🕐 PENDING CONFIRMATION
+
+#### First Stop Smoke Shop
+**Status:** Interested - waiting to talk to partner
+**Source:** Instagram DM response (Nov 17)
+**Contact:** TBD
+**Location:** TBD
+**Notes:** Positive initial response, needs partner approval
+
+#### Glendale Shop
+**Status:** Confirmed interested
+**Source:** DM response (Nov 17)
+**Contact:** TBD
+**Location:** Glendale, AZ
+**Notes:** Confirmed can host box, need full details
+
+---
+
+### ❌ REJECTED/NO RESPONSE
+
+#### Tom's Palms
+**Status:** DECLINED
+**Date:** Nov 17, 2025
+**Reason:** Not interested
+
+#### Arizona Organics
+**Status:** NO RESPONSE EXPECTED
+**Date:** Nov 17, 2025
+**Notes:** Reached out, not expecting response
+
+---
+
 ## BOX DELIVERY SCHEDULE
 
 ### November 18, 2025 - Major Delivery Route
@@ -108,13 +140,17 @@ Track all donation box host locations, delivery status, and pickup schedule.
 ## TOTAL BOX COUNT
 
 **Committed:** 9 boxes (Nirvana Center)
+**Pending:** 2 boxes (First Stop Smoke Shop, Glendale Shop)
+**Potential Total:** 11 boxes
 **Target:** 20-30 boxes total
-**Remaining to secure:** 11-21 boxes
+**Remaining to secure:** 9-19 boxes
 
 ---
 
 ## NOTES
 
-- Box collection period: November 15 - December 15, 2025
+- ⚠️ **TIMELINE CONFLICT:** Nirvana wants Dec 1-22, but Sojourner accepts Dec 8-20
+- Original box collection period: November 15 - December 15, 2025
 - All toys go to Sojourner Center
-- Delivery to Sojourner: December 16-17, 2025
+- Sojourner delivery window: December 8-20, 2025
+- Our planned delivery: December 16-17, 2025

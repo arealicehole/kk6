@@ -3,6 +3,67 @@
 
 ---
 
+## 2025-11-17 LATE NIGHT - TRANSCRIPT REVIEW & TIMELINE CONFLICT
+
+### 📝 Processed Transcripts from Gilbert Conversations
+**Source:** `C:\Users\figon\OneDrive\Apps\Cube ACR\2025-11-17\`
+**Copied to:** `raw/t/`
+
+**Relevant Transcripts:**
+1. **2025-11-17_08-13-58_Gilbert_Early_Planning.txt**
+   - Early KK6 planning discussion
+   - Only had 2-3 box locations at that time
+   - Identified dispensary targets in Apache Junction
+   - Tom's Palms said no
+   - Arizona Organics - expecting nothing
+
+2. **2025-11-17_14-09-25_Gilbert_Nirvana_Delivery_Planning.txt**
+   - Right after Max's first response
+   - Planning Nov 18 delivery
+   - Special Case bong quote discussion
+   - Additional box host leads identified
+
+### 📦 Additional Box Host Leads (From Transcripts)
+1. **First Stop Smoke Shop**
+   - Status: Interested, waiting to talk to partner
+   - Source: Instagram DM response
+
+2. **Glendale Shop**
+   - Status: Confirmed interested in hosting box
+   - Source: DM response
+
+### 🎁 Prize/Raffle Issue (From Transcripts)
+**Special Case Quote:** 20-30 medium bullets for $600-900
+**Current Inventory:**
+- 3-5 unused Special Case pieces
+- 3 Greek glass pieces
+
+**Question:** What goes in raffle boxes without major spending?
+
+### ❌ Rejected Dispensaries
+- Tom's Palms - declined
+- Arizona Organics - no response expected
+
+### ⚠️ CRITICAL TIMELINE CONFLICT DISCOVERED
+
+**Nirvana's Request:** Dec 1-22
+**Sojourner Window:** Dec 8-20
+**Our Original Plan:** Nov 15 - Dec 15
+
+**THE PROBLEM:** Nirvana wants to run promo through Dec 22, but Sojourner stops accepting toys Dec 20!
+
+**Options:**
+1. **Ask Nirvana to end Dec 20** (not 22) - aligns perfectly with Sojourner
+2. **Pick up boxes Dec 20, deliver Dec 21** - tight window, 1 day before Sojourner deadline
+3. **Ask Sojourner if they can extend to Dec 22-23** - may not be possible
+4. **Accept Dec 1-20 timeline** - clean solution, no conflicts
+
+**Recommendation:** Option 4 - Accept Dec 1-20 (aligns with Sojourner window)
+
+**DECISION NEEDED:** Which option?
+
+---
+
 ## 2025-11-17 LATE NIGHT CONTINUED - MAX'S FULL RESPONSE (ALL 9 LOCATIONS CONFIRMED!)
 
 ### 🎉🎉 MAX REPLIED WITH EVERYTHING - All 9 Locations Fully Confirmed!
