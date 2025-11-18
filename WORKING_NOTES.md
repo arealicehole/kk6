@@ -3,6 +3,46 @@
 
 ---
 
+## 2025-11-17 CONTENT CALENDAR CREATED
+
+### 📅 Comprehensive Content Calendar Built
+**Location:** `creative/social/CONTENT_CALENDAR.md`
+
+**What's Included:**
+- **15 posts** mapped Nov 17 → Dec 6
+- Specific topics/themes for each post
+- Format recommendations (carousel, reel, etc.)
+- Content elements needed
+- Visual requirements
+- Platform strategy (IG/FB/TT/arizona_smokers)
+- Coordination notes with partners
+
+**Key Posts:**
+- **POST #4 (Nov 17)** - URGENT - Save the Date announcement
+- **POST #11 (Dec 1)** - CRITICAL - Nirvana partnership launch (9 locations + pre-roll promo)
+- **POST #13 (Dec 5)** - First Friday final countdown
+- **POST #14-15 (Dec 6)** - Event day live coverage
+
+**Built From:**
+- TASK_TRACKER.md "Content Posting Tracker" (lines 217-235)
+- MASTER_REFERENCE.md "Content Plan" section (lines 44-63)
+- Updated timeline starting from today (Nov 17)
+- Includes Nirvana partnership content
+- Accounts for missed posts #1-3 (Nov 9-13)
+
+**Immediate Actions Needed:**
+- [ ] Create POST #4 (Save the Date) - URGENT
+- [ ] Assign posts to team (Gilbert, Speaker A, Dom - 5 each)
+- [ ] Coordinate POST #11 announcement with Max/Nirvana before Dec 1
+
+**Content Creation Queue:**
+- Nov 17-19: Posts #4-5
+- Nov 20-23: Posts #6-7
+- Nov 24-30: Posts #8-10
+- Dec 1-6: Posts #11-15
+
+---
+
 ## 2025-11-17 LATE NIGHT - TRANSCRIPT REVIEW & TIMELINE CONFLICT
 
 ### 📝 Processed Transcripts from Gilbert Conversations
