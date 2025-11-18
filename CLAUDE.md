@@ -245,7 +245,7 @@ This rule applies to ALL image generation tasks. No exceptions.
 
 **Example - WRONG:**
 ```
-New API key: re_8Y1hQr8g_4fMmezHFxmvKpExD1VGe6GVk
+New API key: re_AbCd1234EfGh5678IjKl (actual key value written out)
 ```
 
 **Example - CORRECT:**
