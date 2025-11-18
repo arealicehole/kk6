@@ -52,15 +52,10 @@
 
 **THE PROBLEM:** Nirvana wants to run promo through Dec 22, but Sojourner stops accepting toys Dec 20!
 
-**Options:**
-1. **Ask Nirvana to end Dec 20** (not 22) - aligns perfectly with Sojourner
-2. **Pick up boxes Dec 20, deliver Dec 21** - tight window, 1 day before Sojourner deadline
-3. **Ask Sojourner if they can extend to Dec 22-23** - may not be possible
-4. **Accept Dec 1-20 timeline** - clean solution, no conflicts
-
-**Recommendation:** Option 4 - Accept Dec 1-20 (aligns with Sojourner window)
-
-**DECISION NEEDED:** Which option?
+**✅ DECISION MADE:**
+- **Ask Nirvana for Dec 1-19** (1 day buffer before Sojourner's Dec 20 deadline)
+- Gives us Dec 19 pickup → Dec 20 delivery to Sojourner
+- Clean timeline, no conflicts
 
 ---
 
@@ -77,24 +72,25 @@
   - Reason: They have food drive through end of November
 - 📍 Wants advance notice on delivery days to prep stores
 
-**⚠️ DECISIONS NEEDED:**
-1. **Accept timeline change to Dec 1-22?** (vs our Nov 15 - Dec 15)
-2. **Accept Tucson location?** (Outside Phoenix metro scope)
-3. **Accept Prescott Valley location?** (Northern AZ, outside scope)
+**✅ DECISIONS MADE:**
+1. **Timeline:** Asking Nirvana for Dec 1-19 (counter to their Dec 1-22 request)
+2. **All 9 locations:** YES - accepting all including Tucson & Prescott Valley
+3. **Nov 18 delivery:** Delivering SOME boxes (not all Nirvana - TBD which ones)
+4. **Special Case bongs:** TBD
 
 **Location Breakdown:**
-- Phoenix Metro: 6 locations ✅
-- Southeast: 1 location (Florence)
-- Northern AZ: 1 location (Prescott Valley) ⚠️
-- Tucson: 1 location ⚠️
+- Phoenix Metro: 6 locations ✅ ACCEPTED
+- Southeast: 1 location (Florence) ✅ ACCEPTED
+- Northern AZ: 1 location (Prescott Valley) ✅ ACCEPTED
+- Tucson: 1 location ✅ ACCEPTED
 
 **All Details Tracked:** See `operations/boxes/BOX_PLACEMENT_TRACKER.md` for complete addresses and contacts
 
 **Next Steps:**
-- [ ] Decide on timeline (Dec 1-22 vs Nov 15 - Dec 15)
-- [ ] Decide on out-of-area locations (Tucson, Prescott Valley)
-- [ ] Reply to Max confirming delivery schedule
-- [ ] Plan delivery routes for Nov 18 (or adjusted date)
+- [ ] Draft reply to Max with Dec 1-19 date request
+- [ ] Decide which boxes delivering Nov 18
+- [ ] Plan delivery routes for all 9 locations
+- [ ] Decide on Special Case bong purchase ($600-900)
 
 ---
 
