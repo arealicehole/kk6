@@ -31,6 +31,10 @@ FORWARD_EMAILS_README.md
 
 # Temporary utility scripts
 send_threaded_reply.js
+get_email_details.js
+get_received_email.js
+list_inbound_emails.js
+list_received_emails.js
 node_modules/
 package.json
 package-lock.json
