@@ -7,7 +7,7 @@
 
 **Date:** Saturday, December 6, 2025
 **Time:** 2:00 PM - 6:00 PM
-**Location:** Ginza (Chinese Restaurant), Gold Canyon, Arizona
+**Location:** Ginza Restaurant, 8654 E Topaz Dr, Gold Canyon, AZ 85118
 **Beneficiary:** Sojourner Center
 **Goal:** Beat last year's $6,000-6,500 in toy donations
 

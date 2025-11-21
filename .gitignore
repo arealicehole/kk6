@@ -29,6 +29,9 @@ FORWARD_EMAILS_README.md
 .env.local
 .env.*.local
 
+# Email list folder
+email-list/
+
 # Temporary utility scripts
 send_threaded_reply.js
 get_email_details.js

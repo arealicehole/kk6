@@ -1,6 +1,6 @@
 # KANNA KICKBACK 6 - TASK TRACKER
-**Last Updated:** 2025-11-16
-**Days Until Event:** 20
+**Last Updated:** 2025-11-21
+**Days Until Event:** 15
 
 🔴 = CRITICAL | 🟡 = HIGH PRIORITY | 🟢 = MEDIUM | ⚪ = LOW
 
@@ -18,7 +18,10 @@
 | ✅ DONE | **Set up email automation system** | Claude | Nov 11 | ✅ MCP email client + Resend API - Can read/send/schedule emails |
 | ✅ DONE | Finalize menu with Maggie at Ginza | Gilbert | Nov 10 | ✅ Menu approved - Removed: ramen, dragon roll, spicy yellow. 10% revenue confirmed |
 | ✅ DONE | Design flyer | Team | Nov 15 | ✅ KK6_EVENT_FLYER.png created - Clean, professional, all info correct |
-| 🔴 TODO | Order flyers (1,000) | | Nov 16 | Print-ready file available at creative/print/KK6_EVENT_FLYER.png |
+| ✅ DONE | Order flyers (1,000) | Team | Nov 18 | ✅ Ordered Nov 18 - RECEIVED Nov 20 |
+| 🔴 TODO | **Attend Cinnamon Event with flyers** | | Nov 21 | 4-10pm, setup at 3pm - MAJOR distribution opportunity |
+| 🔴 TODO | **Attend Nirvana Event with flyers** | | Nov 21 | On 7th Ave/Street - Distribution + networking |
+| 🔴 TODO | **Deliver flyers to September's Bar** | | Nov 22-23 | Mesa - Kanna Klaus Fri/Sat night after 9pm |
 | 🔴 TODO | Create donation boxes (10-15) | | Nov 11 | Cardboard + Kanna Claus signage |
 | 🔴 TODO | Send pinata design to vendor | Gilbert | Nov 10 | Ornament design + logo specs |
 
@@ -65,6 +68,13 @@
 | Status | Task | Owner | Due | Notes |
 |--------|------|-------|-----|-------|
 | ✅ DONE | Schedule Post #1 for arizona_smokers (Postiz) | Claude | Nov 16 | ✅ LIVE - Posted 7pm MST, 5-slide carousel, clean formatting |
+| ✅ DONE | Generate POST #2 carousel images | Claude | Nov 20 | ✅ 2 slides generated - Email blast tie-in theme |
+| ✅ DONE | **Post POST #2 to Instagram + Facebook** | Claude | Nov 21 | ✅ IG: 2-slide carousel, FB: 1 slide - Both LIVE via Postiz |
+| ✅ DONE | **Process Sojourner Center interview** | Claude | Nov 21 | ✅ COMPLETE - Strategy docs created, 4 content pieces planned (Nov 22-27) |
+| 🔴 TODO | **Create short-form video (60-90s)** | Gilbert | Nov 23 | "We Beat Corporations" - Edit 6 video clips into ONE video |
+| 🔴 TODO | **Regenerate POST #6 (5 slides)** | Claude | Nov 22 | Black Friday Super-Carousel - Merge teen gifts + Seren validation |
+| 🔴 TODO | **Create Story series (5-7 parts)** | Gilbert + Claude | Nov 26 | Short clips from Sojourner interview |
+| 🔴 TODO | **Post Facebook long-form** | Claude | Nov 27 | "Why We Partner with Sojourner" emotional piece |
 | 🔴 TODO | Social posts #4-8 | | Nov 16-22 | Every other day |
 | 🔴 TODO | Confirm vendor lineup (10 booths) | | Nov 20 | Lock in commitments |
 | 🔴 TODO | Source weed ($1,000 for 2 lbs) | | Nov 20 | For gift bags, giveaways |
@@ -72,19 +82,25 @@
 ### 🟡 HIGH PRIORITY
 | Status | Task | Owner | Due | Notes |
 |--------|------|-------|-----|-------|
+| ✅ DONE | **Export Mailchimp email list (2k+)** | Claude | Nov 20 | ✅ 1,387 emails exported from Mailchimp |
+| ✅ DONE | **Draft Email Blast #1 content** | Claude | Nov 20-21 | ✅ Template created with images, all details |
+| ✅ DONE | **Send Email Blast #1 to 2k+ list** | Claude | Nov 20-21 | ✅ ALL 1,223 EMAILS SENT (100% success) - 614 sent Nov 20, 609 sent Nov 21. FIRST CONVERSION: Stephanie Crawford RSVP'd! |
 | 🟡 TODO | Record Podcast Ep 1 (History) | | Nov 17 | Clip into reels |
 | 🟡 TODO | Plan gift bags (sourcing) | | Nov 18 | Half oz, pre-rolls, wax, papers, lighter |
 | 🟡 TODO | Dispensary ground game visits | | Nov 16-22 | In person w/ flyers |
 | 🟡 TODO | Finalize games setup | | Nov 20 | Crane, Bong Pong, Pinata |
 | 🟡 TODO | Design menu (print ready) | | Nov 18 | After Maggie approval |
 | 🟡 TODO | Order menu printing | | Nov 19 | |
+| 🟡 TODO | Contact Marys Heady Smoke Shop | Bong Blazer | Nov 21 | Interested in sponsorship + box hosting |
+| 🟡 TODO | DM Hetti Supply AZ on Instagram | | Nov 21 | @hettisupplyaz - interested partner |
 
 ### 🟢 MEDIUM
 | Status | Task | Owner | Due | Notes |
 |--------|------|-------|-----|-------|
-| 🟢 TODO | Flyer distribution run #1 | | Nov 17 | Smoke shops, dispensaries |
+| 🟢 TODO | Flyer distribution run #1 | | Nov 24 | Smoke shops, dispensaries (flyers RECEIVED Nov 20) |
 | 🟢 TODO | Plan paid ads | | Nov 20 | Launch week 3 |
 | 🟢 TODO | Order custom wrapping paper | | Nov 17 | If decided yes |
+| 🟢 TODO | Send RSVP confirmations (9 people) | | Nov 21-22 | **NEW:** Stephanie Crawford (from email blast!) + Andreah Crowe |
 
 ---
 
@@ -130,6 +146,8 @@
 ### 🟡 HIGH PRIORITY
 | Status | Task | Owner | Due | Notes |
 |--------|------|-------|-----|-------|
+| 🟡 TODO | **Draft Email Blast #2 content** | | Nov 30 | "1 Week Out + Nirvana Partnership" |
+| 🟡 TODO | **Send Email Blast #2 to 2k+ list** | | Dec 1-2 | Coordinate with Post #11 (Dec 1 9am) |
 | 🟡 TODO | Record Podcast Ep 6-7 (finale) | | Dec 1 | Kickback Manifesto |
 | 🟡 TODO | Ginza walk-through execution | | Dec 3 | Final venue check |
 | 🟡 TODO | Deliver toys to Sojourner Center | | Dec 16-17 | After final collection (by Dec 20) |
@@ -203,36 +221,44 @@
 | ⚪ TODO | Tom Palms | | | | Likely yes |
 | ⚪ TODO | Arizona Organix | Camielle@arizonaorganix.org | | | Pending outreach |
 | ⚪ TODO | Cherry Bomb | | | | Interested |
+| ⚪ TODO | Marys Heady Smoke Shop | Via Bong Blazer | | | Owner interested in sponsorship + box (Nov 14) |
+| ⚪ TODO | Hetti Supply AZ | @hettisupplyaz (Instagram) | | | Interested partner (Nov 14) |
 | ⚪ TODO | [Dispensary 1] | | | | |
 | ⚪ TODO | [Dispensary 2] | | | | |
-| ⚪ TODO | [Smoke Shop 1] | | | | |
 
 **Total Boxes Needed:** 10-15
 **Total Boxes Placed:** 0
 **Total Boxes Ready for Delivery:** 3
 **Total Boxes Confirmed:** 5
+**Total Pending/Interested:** 7
 
 ---
 
 ## CONTENT POSTING TRACKER
 
-| # | Date | Platform | Topic | Owner | Status | Link |
-|---|------|----------|-------|-------|--------|------|
-| 1 | Nov 9 | IG/FB/TT | Kickback announcement | | 🔴 TODO | |
-| 2 | Nov 11 | IG/FB/TT | Toy drive launch | | 🔴 TODO | |
-| 3 | Nov 13 | IG/FB/TT | Box locations | | 🔴 TODO | |
-| 4 | Nov 16 | IG/FB/TT | | | ⚪ TODO | |
-| 5 | Nov 18 | IG/FB/TT | | | ⚪ TODO | |
-| 6 | Nov 20 | IG/FB/TT | | | ⚪ TODO | |
-| 7 | Nov 22 | IG/FB/TT | | | ⚪ TODO | |
-| 8 | Nov 24 | IG/FB/TT | | | ⚪ TODO | |
-| 9 | Nov 26 | IG/FB/TT | | | ⚪ TODO | |
-| 10 | Nov 28 | IG/FB/TT | Black Friday | | ⚪ TODO | |
-| 11 | Nov 30 | IG/FB/TT | | | ⚪ TODO | |
-| 12 | Dec 2 | IG/FB/TT | | | ⚪ TODO | |
-| 13 | Dec 4 | IG/FB/TT | | | ⚪ TODO | |
-| 14 | Dec 5 | IG/FB/TT | First Friday | | ⚪ TODO | |
-| 15 | Dec 6 | IG/FB/TT | Event day | | ⚪ TODO | |
+| # | Date | Platform | Topic | Owner | Status | Notes |
+|---|------|----------|-------|-------|--------|-------|
+| 1 | Nov 15 | IG/FB | KK6 Grand Announcement | Claude | ✅ PUBLISHED | 5-slide carousel - LIVE on @kannakrew IG + arizona_smokers FB |
+| - | Nov 18 | IG | KannaKlaus vs Krampus | Gilbert | ✅ PUBLISHED | 6-slide carousel (1 image + 5 videos) - Early POST #6 concept |
+| 2 | Nov 21 | IG/FB | Email Blast Tie-In | Claude | ✅ PUBLISHED | IG: 2-slide carousel, FB: 1-slide - "Did You Get The Email?" |
+| 3 | Nov 22 | IG/FB/TT | Box locations | | 🔴 TODO | |
+| 4 | Nov 24 | IG/FB/TT | Save the Date / Pinata | | 🔴 TODO | Changed from KannaKlaus reveal to Pinata highlight (old footage) |
+| 5 | Nov 26 | IG/FB/TT | | | 🔴 TODO | |
+| 6 | Nov 29 | IG/FB | Black Friday Teen Gifts | Claude | 🟡 REVIEW | ✅ GENERATED (3 slides) - Awaiting user review before posting |
+| 7 | Nov 30 | IG/FB/TT | | | 🔴 TODO | |
+| 8 | Dec 1 | IG/FB/TT | | | 🔴 TODO | |
+| 9 | Dec 2 | IG/FB/TT | | | 🔴 TODO | |
+| 10 | Dec 3 | IG/FB/TT | | | 🔴 TODO | |
+| 11 | Dec 1 | IG/FB | Nirvana Partnership (9 Locations) | Claude | 🟡 SCHEDULED | ✅ GENERATED (6 slides) - Scheduled Dec 1, 9am AZ - Awaiting Max confirmation on timeline |
+| 12 | Dec 4 | IG/FB/TT | | | 🔴 TODO | |
+| 13 | Dec 5 | IG/FB/TT | First Friday Countdown | | 🔴 TODO | |
+| 14 | Dec 6 AM | IG/FB/TT | Event Day Hype | | 🔴 TODO | |
+| 15 | Dec 6 PM | IG/FB/TT | Live Event Coverage | | 🔴 TODO | |
+
+**SUMMARY:**
+- ✅ Published: 3 posts (POST #1, Krampus, POST #2)
+- 🟡 Pending Review: 2 posts (POST #6, POST #11)
+- 🔴 Still Needed: 10 posts (POST #3-5, #7-10, #12-15)
 
 ---
 
@@ -281,5 +307,15 @@
 - Flag blockers immediately
 - Track contact info as you get it
 
-**Last Update:** 2025-11-09
-**Next Update:** 2025-11-10
+### 📧 EMAIL LIST ASSET (Nov 20 Discovery)
+- **2,000+ contacts** in Mailchimp (older list, last used KK5)
+- **~Few hundred AZ locals** (majority out-of-state supporters)
+- **✅ Blast #1 COMPLETE:** 1,413 emails scheduled for Nov 21-22 (99.9% success)
+  - Sources: Mailchimp export (1,387) + KK6 RSVPs (8) + KK5 CSV (151)
+  - Deduped and cleaned for optimal deliverability
+  - Distribution: 4 time slots across Nov 21-22
+- **Blast #2 PLANNED:** Dec 1-2 (1 Week Out + Nirvana Partnership)
+- **Platform:** Resend ($20/month paid tier - unlimited sending)
+
+**Last Update:** 2025-11-20
+**Next Update:** 2025-11-21

@@ -1,6 +1,6 @@
 # KannaKickback 6 - Form Submissions Tracker
 
-**Last Updated:** 2025-11-17
+**Last Updated:** 2025-11-21
 **Purpose:** Track all form submissions from kannakickback.com
 
 ---
@@ -9,6 +9,8 @@
 
 | Date | Name | Email | Phone | Status | Notes |
 |------|------|-------|-------|--------|-------|
+| Nov 21 | **Stephanie Crawford** | sawilliamsx8@aol.com | (623) 239-8036 | ✅ CONFIRMED | From Nov 20 email blast (KK3 subscriber) |
+| Nov 20 | **Andreah Crowe** | andreah.crowe@gmail.com | (937) 424-7309 | ✅ CONFIRMED | Real RSVP |
 | Nov 16 | **Tara Reynolds** | taracoreen13@gmail.com | (480) 215-8843 | ✅ CONFIRMED | Real RSVP |
 | Nov 16 | **Jesse Duke** | jesseduke34@hotmail.com | (602) 425-4529 | ✅ CONFIRMED | Real RSVP |
 | Nov 16 | **Dustin Morrissey** | morrisseydustin@gmail.com | +626233499114 | ✅ CONFIRMED | Real RSVP |
@@ -17,7 +19,7 @@
 | Nov 15 | **Deno Easter** | deasterdenoeasterdeaster@hotmail.com | (480) 504-7160 | ✅ CONFIRMED | Real RSVP |
 | Nov 15 | **Rita Pacchiana** | ritajeanmary@hotmail.com | (480) 249-5516 | ✅ CONFIRMED | Real RSVP |
 
-**Total Real RSVPs: 7**
+**Total Real RSVPs: 9** (1 from Nov 20 email blast!)
 
 ---
 
@@ -53,22 +55,31 @@
 
 ## SUMMARY STATS
 
-- **Total Event RSVPs:** 7 people confirmed ✅
-  - All 7 have complete contact info
+- **Total Event RSVPs:** 9 people confirmed ✅
+  - **1 RSVP from Nov 20 email blast** (Stephanie Crawford - KK3 subscriber since 2022)
+  - All 9 have complete contact info
   - Sleepy Cheefin, Susanna Grijalva, Dustin Morrissey (manually added)
-  - Tara Reynolds, Jesse Duke, Deno Easter, Rita Pacchiana (auto-forwarded)
+  - Tara Reynolds, Jesse Duke, Deno Easter, Rita Pacchiana, Andreah Crowe (auto-forwarded)
+  - Stephanie Crawford (from email blast - first conversion!)
 - **Total Vendor Applications:** 0 real (need outreach!)
 - **Total Box Host Applications:** 0 real (need outreach!)
 - **Total Contact Forms:** 1 unclear (Ben Raker)
 - **Spam/Test Submissions:** 4 spam + 2 test = 6 total junk submissions
+
+### EMAIL BLAST CONVERSION:
+- **Emails sent:** 1,413 (Nov 20-21)
+- **RSVPs from blast:** 1 (Stephanie Crawford)
+- **Conversion rate so far:** 0.07% (will increase as more emails are opened)
 
 ---
 
 ## ACTION ITEMS
 
 ### RSVPs - Follow Up Needed:
-- [ ] ✅ All 7 RSVPs now have complete contact information
-- [ ] Send confirmation emails to all 7 RSVPs with event details:
+- [ ] ✅ All 9 RSVPs now have complete contact information
+- [ ] Send confirmation emails to all 9 RSVPs with event details:
+  - Stephanie Crawford (sawilliamsx8@aol.com) - **NEW Nov 21 - FROM EMAIL BLAST!**
+  - Andreah Crowe (andreah.crowe@gmail.com) - Nov 20
   - Tara Reynolds (taracoreen13@gmail.com)
   - Jesse Duke (jesseduke34@hotmail.com)
   - Dustin Morrissey (morrisseydustin@gmail.com)
@@ -76,7 +87,7 @@
   - Sleepy Cheefin (sleepycheefin@gmail.com)
   - Deno Easter (deasterdenoeasterdeaster@hotmail.com)
   - Rita Pacchiana (ritajeanmary@hotmail.com)
-- [ ] Add all 7 to guest list for Dec 6 event
+- [ ] Add all 9 to guest list for Dec 6 event
 - [ ] Consider sending reminder closer to event date
 
 ### Vendor Applications:
