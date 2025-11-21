@@ -53,15 +53,36 @@
 - All KK5 subscribers (Dec 2024)
 - 1,223 people total notified about KK6
 
-### ✅ NEW RSVP FROM EMAIL BLAST
+### ✅ 4 NEW RSVPS FROM EMAIL BLAST! 🎉
 
-**Stephanie Crawford** - sawilliamsx8@aol.com - (623) 239-8036
-- **Source:** Nov 20 email blast (received email Nov 21, 10:00 AM AZ)
-- **History:** KK3 subscriber since Dec 2, 2022
-- **Status:** First RSVP conversion from email blast!
-- **Conversion rate:** 0.07% so far (will increase as more emails are opened)
+**Email Blast Performance:**
+- **Emails sent:** 1,223 (Nov 20-21)
+- **RSVPs from blast:** 4 people
+- **Conversion rate:** 0.33% (4x increase from initial 0.07%!)
 
-**Total RSVPs:** Now 9 people confirmed (was 8)
+**NEW RSVPs (Nov 21):**
+
+1. **Bong blazer (Marco Soto)** - myjjsrbest@gmail.com - (623) 640-0687
+   - **ORIGINAL KREW MEMBER since 2020!**
+   - Address: 8221 West Laurel Lane, Peoria, AZ 85345
+   - Was on Mailchimp list, received Nov 20-21 blast
+
+2. **Ryan Z Schroeder** - ryry2135@gmail.com - (602) 463-2899
+   - **RETURNING ATTENDEE from KK5!** 🎉
+   - RSVP'd to KK5 in Dec 2024
+   - Was on Mailchimp list, received Nov 20-21 blast
+
+3. **Leticia Salazar** - Leticia.salazar29@aol.com - (480) 201-5562
+   - **KK3 subscriber since 2022**
+   - Was on Mailchimp list, received Nov 20-21 blast
+
+4. **Stephanie Crawford** - sawilliamsx8@aol.com - (623) 239-8036
+   - **First conversion** (Nov 21 morning)
+   - KK3 subscriber since Dec 2, 2022
+
+**Total RSVPs:** Now 12 people confirmed (was 9)
+- 4 from email blast
+- 8 from website RSVPs
 
 ### 🎥 SOJOURNER CENTER INTERVIEW - COMPLETE! ✅
 
