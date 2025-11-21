@@ -9,6 +9,9 @@
 
 | Date | Name | Email | Phone | Status | Notes |
 |------|------|-------|-------|--------|-------|
+| Nov 21 | **Bong blazer (Marco Soto)** | myjjsrbest@gmail.com | (623) 640-0687 | ✅ CONFIRMED | From Nov 20 email blast - ORIGINAL KREW MEMBER (2020!) |
+| Nov 21 | **Ryan Z Schroeder** | ryry2135@gmail.com | (602) 463-2899 | ✅ CONFIRMED | From Nov 20 email blast - **RETURNING FROM KK5!** 🎉 |
+| Nov 21 | **Leticia Salazar** | Leticia.salazar29@aol.com | (480) 201-5562 | ✅ CONFIRMED | From Nov 20 email blast (KK3 subscriber 2022) |
 | Nov 21 | **Stephanie Crawford** | sawilliamsx8@aol.com | (623) 239-8036 | ✅ CONFIRMED | From Nov 20 email blast (KK3 subscriber) |
 | Nov 20 | **Andreah Crowe** | andreah.crowe@gmail.com | (937) 424-7309 | ✅ CONFIRMED | Real RSVP |
 | Nov 16 | **Tara Reynolds** | taracoreen13@gmail.com | (480) 215-8843 | ✅ CONFIRMED | Real RSVP |
@@ -19,7 +22,7 @@
 | Nov 15 | **Deno Easter** | deasterdenoeasterdeaster@hotmail.com | (480) 504-7160 | ✅ CONFIRMED | Real RSVP |
 | Nov 15 | **Rita Pacchiana** | ritajeanmary@hotmail.com | (480) 249-5516 | ✅ CONFIRMED | Real RSVP |
 
-**Total Real RSVPs: 9** (1 from Nov 20 email blast!)
+**Total Real RSVPs: 12** (4 from Nov 20-21 email blast! 🎉)
 
 ---
 
@@ -55,40 +58,53 @@
 
 ## SUMMARY STATS
 
-- **Total Event RSVPs:** 9 people confirmed ✅
-  - **1 RSVP from Nov 20 email blast** (Stephanie Crawford - KK3 subscriber since 2022)
-  - All 9 have complete contact info
+- **Total Event RSVPs:** 12 people confirmed ✅
+  - **4 RSVPs from Nov 20-21 email blast!** 🎉
+    - Bong blazer (Marco Soto) - ORIGINAL KREW MEMBER since 2020!
+    - Ryan Z Schroeder - **RETURNING ATTENDEE from KK5!** 🎉
+    - Leticia Salazar - KK3 subscriber since 2022
+    - Stephanie Crawford - KK3 subscriber since 2022
+  - All 12 have complete contact info
   - Sleepy Cheefin, Susanna Grijalva, Dustin Morrissey (manually added)
   - Tara Reynolds, Jesse Duke, Deno Easter, Rita Pacchiana, Andreah Crowe (auto-forwarded)
-  - Stephanie Crawford (from email blast - first conversion!)
 - **Total Vendor Applications:** 0 real (need outreach!)
 - **Total Box Host Applications:** 0 real (need outreach!)
 - **Total Contact Forms:** 1 unclear (Ben Raker)
 - **Spam/Test Submissions:** 4 spam + 2 test = 6 total junk submissions
 
 ### EMAIL BLAST CONVERSION:
-- **Emails sent:** 1,413 (Nov 20-21)
-- **RSVPs from blast:** 1 (Stephanie Crawford)
-- **Conversion rate so far:** 0.07% (will increase as more emails are opened)
+- **Emails sent:** 1,223 (all sent Nov 20-21)
+- **RSVPs from blast:** 4 people
+  - Bong blazer (Marco Soto) - OG Krew!
+  - Ryan Z Schroeder - KK5 returnee!
+  - Leticia Salazar
+  - Stephanie Crawford
+- **Conversion rate:** 4/1,223 = **0.33%** (4x increase from initial 0.07%!)
 
 ---
 
 ## ACTION ITEMS
 
 ### RSVPs - Follow Up Needed:
-- [ ] ✅ All 9 RSVPs now have complete contact information
-- [ ] Send confirmation emails to all 9 RSVPs with event details:
-  - Stephanie Crawford (sawilliamsx8@aol.com) - **NEW Nov 21 - FROM EMAIL BLAST!**
-  - Andreah Crowe (andreah.crowe@gmail.com) - Nov 20
-  - Tara Reynolds (taracoreen13@gmail.com)
-  - Jesse Duke (jesseduke34@hotmail.com)
-  - Dustin Morrissey (morrisseydustin@gmail.com)
-  - Susanna Grijalva (grijalvasu@hotmail.com)
-  - Sleepy Cheefin (sleepycheefin@gmail.com)
-  - Deno Easter (deasterdenoeasterdeaster@hotmail.com)
-  - Rita Pacchiana (ritajeanmary@hotmail.com)
-- [ ] Add all 9 to guest list for Dec 6 event
+- [ ] ✅ All 12 RSVPs now have complete contact information
+- [ ] Send confirmation emails to all 12 RSVPs with event details:
+  - **NEW Nov 21 - FROM EMAIL BLAST (4 people):**
+    - Bong blazer / Marco Soto (myjjsrbest@gmail.com) - OG Krew member!
+    - Ryan Z Schroeder (ryry2135@gmail.com) - KK5 returnee!
+    - Leticia Salazar (Leticia.salazar29@aol.com)
+    - Stephanie Crawford (sawilliamsx8@aol.com)
+  - **Previous RSVPs (8 people):**
+    - Andreah Crowe (andreah.crowe@gmail.com) - Nov 20
+    - Tara Reynolds (taracoreen13@gmail.com)
+    - Jesse Duke (jesseduke34@hotmail.com)
+    - Dustin Morrissey (morrisseydustin@gmail.com)
+    - Susanna Grijalva (grijalvasu@hotmail.com)
+    - Sleepy Cheefin (sleepycheefin@gmail.com)
+    - Deno Easter (deasterdenoeasterdeaster@hotmail.com)
+    - Rita Pacchiana (ritajeanmary@hotmail.com)
+- [ ] Add all 12 to guest list for Dec 6 event
 - [ ] Consider sending reminder closer to event date
+- [ ] Reach out to Ryan Z Schroeder personally - returning from KK5!
 
 ### Vendor Applications:
 - [ ] No real vendor applications yet
