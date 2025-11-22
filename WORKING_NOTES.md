@@ -87,9 +87,25 @@
    - **First conversion** (Nov 21 morning)
    - KK3 subscriber since Dec 2, 2022
 
-**Total RSVPs:** Now 13 people confirmed (was 9)
-- 5 from email blast
-- 8 from website RSVPs
+**Total RSVPs:** Now 15 people confirmed! 🎉
+- 5 from email blast (0.41% conversion)
+- 10 from organic website RSVPs
+
+### 🎉 2 MORE ORGANIC RSVPs! (Nov 21 Evening)
+
+**NEW RSVPS (Not from email list):**
+
+1. **Emily Walker** - emily.cannadega@gmail.com - (480) 495-6942
+   - Organic website RSVP
+   - Email domain: "cannadega" - cannabis themed! 🌿
+
+2. **Margarita Rodriguez** - rita_rodriguez112@yahoo.com - (623) 570-5113
+   - Organic website RSVP
+
+**RSVP Momentum:**
+- 15 total RSVPs (was 13)
+- Website is working! Getting consistent organic traffic
+- Mix of email blast conversions + organic discovery
 
 ### 🎯 MAJOR BOX HOST EXPANSION - 4 NEW LOCATIONS! 📦
 
