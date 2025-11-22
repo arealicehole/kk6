@@ -79,7 +79,37 @@ Track all donation box host locations, delivery status, and pickup schedule.
 
 ---
 
-### 🕐 PENDING CONFIRMATION
+### ✅ RECENTLY CONFIRMED (Nov 21)
+
+#### Highgrade Cannabis Products
+**Status:** ✅ CONFIRMED - Box host
+**Contact:** TBD
+**Location:** TBD
+**Confirmed:** Nov 21, 2025
+**Notes:**
+- Confirmed will take a donation box
+- **ACTION NEEDED:** Get contact info, location address, delivery schedule
+
+#### The High Lounge
+**Status:** ✅ CONFIRMED - Box host
+**Type:** Cannabis lounge
+**Location:** Tempe, AZ
+**Contact:** TBD
+**Confirmed:** Nov 21, 2025
+**Notes:**
+- Cannabis consumption lounge in Tempe
+- Confirmed will take a donation box
+- **ACTION NEEDED:** Get contact info, exact address, delivery schedule
+
+#### Level Up Smoke Shop
+**Status:** ✅ CONFIRMED - Box host
+**Location:** Glendale, AZ
+**Address:** 6766 W Glendale Ave #125, Glendale 85303
+**Contact:** TBD
+**Confirmed:** Nov 16, 2025 (reconfirmed Nov 21)
+**Notes:**
+- Already in tracker, reconfirmed Nov 21
+- **ACTION NEEDED:** Coordinate delivery with contact
 
 #### Hetti Supply AZ
 **Status:** ✅ CONFIRMED - Box host + Vendor
@@ -96,6 +126,10 @@ Track all donation box host locations, delivery status, and pickup schedule.
 - Followed up via email Nov 21 requesting logos/media
 - Dual commitment: box hosting + event vendor participation
 - **ACTION NEEDED:** Reply with logos, get location details, confirm dab bar setup
+
+---
+
+### 🕐 PENDING CONFIRMATION
 
 #### First Stop Smoke Shop
 **Status:** Interested - waiting to talk to partner

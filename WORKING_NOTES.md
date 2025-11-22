@@ -87,26 +87,58 @@
 - 5 from email blast
 - 8 from website RSVPs
 
-### 🎯 HETTI SUPPLY AZ - BOX HOST + VENDOR CONFIRMED!
+### 🎯 MAJOR BOX HOST EXPANSION - 4 NEW LOCATIONS! 📦
 
-**Email Received:** Nov 21 from hettisupply@gmail.com
-**Subject:** "Logos and media"
-**Instagram:** @hettisupplyaz
+**Confirmed Nov 21, 2025:**
 
-**Commitments:**
-- ✅ **Box Host:** Wants donation box at their location (location TBD)
-- ✅ **Event Vendor:** Will do "dab bar or something" at KK6 event Dec 6
+1. **Hetti Supply AZ** - Box Host + Vendor
+   - Email: hettisupply@gmail.com
+   - Instagram: @hettisupplyaz
+   - Box hosting + dab bar at event
+   - Action: Reply with logos/media
 
-**Background:**
-- First contact via Instagram DM Nov 14 (marked as interested partner)
-- Followed up via email Nov 21 requesting logos/media for promotion
-- Dual partnership: box hosting + event participation
+2. **Highgrade Cannabis Products** - Box Host
+   - Location: TBD
+   - Action: Get contact info and address
+
+3. **The High Lounge** - Box Host
+   - Type: Cannabis consumption lounge
+   - Location: Tempe, AZ
+   - Action: Get contact info and exact address
+
+4. **Level Up Smoke Shop** - Box Host (Reconfirmed)
+   - Location: 6766 W Glendale Ave #125, Glendale 85303
+   - Already confirmed Nov 16, reconfirmed Nov 21
+
+**Impact:**
+- **+4 box locations in ONE day!**
+- Total box hosts now: 13+ locations (9 Nirvana + 4 new + previously confirmed)
+- Massive expansion for toy drive reach
+
+### 🎁 HCQQ - VENDOR PARTNER & PRIZE DONOR
+
+**Discord:** HCQQ (connected to A Real Icehole - Gilbert)
+**Confirmed:** Nov 21, 2025
+
+**Donations:**
+- ✅ **Glass prizes** - Already sent for "secret prizes" at event
+- 🕐 **10-11 Webkinz stuffed animals** - Pending shipping logistics
+
+**Event Participation:**
+- Wants signage/display for company at event
+- Will provide branding materials by Dec 6
+- Gilbert offered local printing connections (cheap + fast)
+
+**Business Info:**
+- Small business owner with 3D printer (Bambu Lab P2S)
+- Transparent about financial struggles
+- Community member supporting KannaKrew mission
 
 **Action Needed:**
-- Reply with KannaKrew/KK6 logos and media assets
-- Get store location details for box delivery
-- Confirm dab bar setup details for Dec 6 event
-- Add to vendor booth assignments
+- Confirm signage specs and timeline
+- Decide on Webkinz shipping method (vacuum seal vs. regular)
+- Create display area at event for HCQQ branding
+- Feature HCQQ on social media (support small business)
 
 ### 🎥 SOJOURNER CENTER INTERVIEW - COMPLETE! ✅
 

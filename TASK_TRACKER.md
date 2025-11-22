@@ -208,6 +208,10 @@
 | ✅ DONE | Fancy Pets | | | YES | Box hosting confirmed |
 | ✅ DONE | Ginza | | | YES | Box hosting confirmed (venue) |
 | ✅ DONE | Hetti Supply AZ | hettisupply@gmail.com | Nov 21 | YES | ✅ Box hosting + dab bar vendor at event - Need location details |
+| ✅ DONE | HCQQ | Discord: HCQQ | Nov 21 | YES | ✅ Glass prizes donated + 10-11 Webkinz pending - Wants signage at event |
+| ✅ DONE | Highgrade Cannabis Products | TBD | Nov 21 | YES | ✅ Box hosting confirmed - Need contact/location |
+| ✅ DONE | The High Lounge | TBD | Nov 21 | YES | ✅ Cannabis lounge Tempe - Box hosting confirmed |
+| ✅ DONE | Level Up Smoke Shop (reconfirmed) | TBD | Nov 21 | YES | ✅ Glendale - Box hosting reconfirmed |
 
 ---
 
