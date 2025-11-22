@@ -9,6 +9,7 @@
 
 | Date | Name | Email | Phone | Status | Notes |
 |------|------|-------|-------|--------|-------|
+| Nov 21 | **Jenny Williamson** | williamson.nej@gmail.com | (602) 376-1845 | ✅ CONFIRMED | From Nov 20 email blast |
 | Nov 21 | **Bong blazer (Marco Soto)** | myjjsrbest@gmail.com | (623) 640-0687 | ✅ CONFIRMED | From Nov 20 email blast - ORIGINAL KREW MEMBER (2020!) |
 | Nov 21 | **Ryan Z Schroeder** | ryry2135@gmail.com | (602) 463-2899 | ✅ CONFIRMED | From Nov 20 email blast - **RETURNING FROM KK5!** 🎉 |
 | Nov 21 | **Leticia Salazar** | Leticia.salazar29@aol.com | (480) 201-5562 | ✅ CONFIRMED | From Nov 20 email blast (KK3 subscriber 2022) |
@@ -22,7 +23,7 @@
 | Nov 15 | **Deno Easter** | deasterdenoeasterdeaster@hotmail.com | (480) 504-7160 | ✅ CONFIRMED | Real RSVP |
 | Nov 15 | **Rita Pacchiana** | ritajeanmary@hotmail.com | (480) 249-5516 | ✅ CONFIRMED | Real RSVP |
 
-**Total Real RSVPs: 12** (4 from Nov 20-21 email blast! 🎉)
+**Total Real RSVPs: 13** (5 from Nov 20-21 email blast! 🎉)
 
 ---
 
@@ -58,8 +59,9 @@
 
 ## SUMMARY STATS
 
-- **Total Event RSVPs:** 12 people confirmed ✅
-  - **4 RSVPs from Nov 20-21 email blast!** 🎉
+- **Total Event RSVPs:** 13 people confirmed ✅
+  - **5 RSVPs from Nov 20-21 email blast!** 🎉
+    - Jenny Williamson
     - Bong blazer (Marco Soto) - ORIGINAL KREW MEMBER since 2020!
     - Ryan Z Schroeder - **RETURNING ATTENDEE from KK5!** 🎉
     - Leticia Salazar - KK3 subscriber since 2022
@@ -74,21 +76,23 @@
 
 ### EMAIL BLAST CONVERSION:
 - **Emails sent:** 1,223 (all sent Nov 20-21)
-- **RSVPs from blast:** 4 people
+- **RSVPs from blast:** 5 people
+  - Jenny Williamson
   - Bong blazer (Marco Soto) - OG Krew!
   - Ryan Z Schroeder - KK5 returnee!
   - Leticia Salazar
   - Stephanie Crawford
-- **Conversion rate:** 4/1,223 = **0.33%** (4x increase from initial 0.07%!)
+- **Conversion rate:** 5/1,223 = **0.41%** (5x increase from initial 0.07%!)
 
 ---
 
 ## ACTION ITEMS
 
 ### RSVPs - Follow Up Needed:
-- [ ] ✅ All 12 RSVPs now have complete contact information
-- [ ] Send confirmation emails to all 12 RSVPs with event details:
-  - **NEW Nov 21 - FROM EMAIL BLAST (4 people):**
+- [ ] ✅ All 13 RSVPs now have complete contact information
+- [ ] Send confirmation emails to all 13 RSVPs with event details:
+  - **NEW Nov 21 - FROM EMAIL BLAST (5 people):**
+    - Jenny Williamson (williamson.nej@gmail.com)
     - Bong blazer / Marco Soto (myjjsrbest@gmail.com) - OG Krew member!
     - Ryan Z Schroeder (ryry2135@gmail.com) - KK5 returnee!
     - Leticia Salazar (Leticia.salazar29@aol.com)
@@ -102,7 +106,7 @@
     - Sleepy Cheefin (sleepycheefin@gmail.com)
     - Deno Easter (deasterdenoeasterdeaster@hotmail.com)
     - Rita Pacchiana (ritajeanmary@hotmail.com)
-- [ ] Add all 12 to guest list for Dec 6 event
+- [ ] Add all 13 to guest list for Dec 6 event
 - [ ] Consider sending reminder closer to event date
 - [ ] Reach out to Ryan Z Schroeder personally - returning from KK5!
 

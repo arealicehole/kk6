@@ -81,6 +81,22 @@ Track all donation box host locations, delivery status, and pickup schedule.
 
 ### 🕐 PENDING CONFIRMATION
 
+#### Hetti Supply AZ
+**Status:** ✅ CONFIRMED - Box host + Vendor
+**Source:** Email response (Nov 21) - hettisupply@gmail.com
+**Contact:** hettisupply@gmail.com
+**Instagram:** @hettisupplyaz
+**Location:** TBD (need to confirm)
+**Box Host:** YES - wants donation box
+**Vendor:** YES - will do "dab bar or something" at KK6 event
+**Email Subject:** "Logos and media" (Nov 21)
+**Attachments:** 2 images (image0.png, image1.png)
+**Notes:**
+- Reached out via Instagram Nov 14 (marked as interested partner)
+- Followed up via email Nov 21 requesting logos/media
+- Dual commitment: box hosting + event vendor participation
+- **ACTION NEEDED:** Reply with logos, get location details, confirm dab bar setup
+
 #### First Stop Smoke Shop
 **Status:** Interested - waiting to talk to partner
 **Source:** Instagram DM response (Nov 17)

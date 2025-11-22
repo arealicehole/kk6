@@ -207,6 +207,7 @@
 | ✅ DONE | Amaranth (Toy Store AJ) | | | YES | Box hosting confirmed |
 | ✅ DONE | Fancy Pets | | | YES | Box hosting confirmed |
 | ✅ DONE | Ginza | | | YES | Box hosting confirmed (venue) |
+| ✅ DONE | Hetti Supply AZ | hettisupply@gmail.com | Nov 21 | YES | ✅ Box hosting + dab bar vendor at event - Need location details |
 
 ---
 

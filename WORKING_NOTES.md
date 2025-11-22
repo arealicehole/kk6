@@ -53,36 +53,60 @@
 - All KK5 subscribers (Dec 2024)
 - 1,223 people total notified about KK6
 
-### ✅ 4 NEW RSVPS FROM EMAIL BLAST! 🎉
+### ✅ 5 NEW RSVPS FROM EMAIL BLAST! 🎉
 
 **Email Blast Performance:**
 - **Emails sent:** 1,223 (Nov 20-21)
-- **RSVPs from blast:** 4 people
-- **Conversion rate:** 0.33% (4x increase from initial 0.07%!)
+- **RSVPs from blast:** 5 people
+- **Conversion rate:** 0.41% (5x increase from initial 0.07%!)
 
 **NEW RSVPs (Nov 21):**
 
-1. **Bong blazer (Marco Soto)** - myjjsrbest@gmail.com - (623) 640-0687
+1. **Jenny Williamson** - williamson.nej@gmail.com - (602) 376-1845
+   - Was on Mailchimp list, received Nov 20-21 blast
+
+2. **Bong blazer (Marco Soto)** - myjjsrbest@gmail.com - (623) 640-0687
    - **ORIGINAL KREW MEMBER since 2020!**
    - Address: 8221 West Laurel Lane, Peoria, AZ 85345
    - Was on Mailchimp list, received Nov 20-21 blast
 
-2. **Ryan Z Schroeder** - ryry2135@gmail.com - (602) 463-2899
+3. **Ryan Z Schroeder** - ryry2135@gmail.com - (602) 463-2899
    - **RETURNING ATTENDEE from KK5!** 🎉
    - RSVP'd to KK5 in Dec 2024
    - Was on Mailchimp list, received Nov 20-21 blast
 
-3. **Leticia Salazar** - Leticia.salazar29@aol.com - (480) 201-5562
+4. **Leticia Salazar** - Leticia.salazar29@aol.com - (480) 201-5562
    - **KK3 subscriber since 2022**
    - Was on Mailchimp list, received Nov 20-21 blast
 
-4. **Stephanie Crawford** - sawilliamsx8@aol.com - (623) 239-8036
+5. **Stephanie Crawford** - sawilliamsx8@aol.com - (623) 239-8036
    - **First conversion** (Nov 21 morning)
    - KK3 subscriber since Dec 2, 2022
 
-**Total RSVPs:** Now 12 people confirmed (was 9)
-- 4 from email blast
+**Total RSVPs:** Now 13 people confirmed (was 9)
+- 5 from email blast
 - 8 from website RSVPs
+
+### 🎯 HETTI SUPPLY AZ - BOX HOST + VENDOR CONFIRMED!
+
+**Email Received:** Nov 21 from hettisupply@gmail.com
+**Subject:** "Logos and media"
+**Instagram:** @hettisupplyaz
+
+**Commitments:**
+- ✅ **Box Host:** Wants donation box at their location (location TBD)
+- ✅ **Event Vendor:** Will do "dab bar or something" at KK6 event Dec 6
+
+**Background:**
+- First contact via Instagram DM Nov 14 (marked as interested partner)
+- Followed up via email Nov 21 requesting logos/media for promotion
+- Dual partnership: box hosting + event participation
+
+**Action Needed:**
+- Reply with KannaKrew/KK6 logos and media assets
+- Get store location details for box delivery
+- Confirm dab bar setup details for Dec 6 event
+- Add to vendor booth assignments
 
 ### 🎥 SOJOURNER CENTER INTERVIEW - COMPLETE! ✅
 
