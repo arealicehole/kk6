@@ -15,7 +15,9 @@
 5. ✅ POST #6 GENERATED! (All 5 slides created, 100% success rate, ready for review)
 6. Video edit brief created (60-90s short-form video guide)
 7. FFmpeg workflow guide completed (comprehensive video editing guide saved to /r)
-8. All working docs updated
+8. Facebook Event/Group strategy completed (54KB comprehensive guide with templates)
+9. 2 new organic RSVPs processed (Emily Walker, Margarita Rodriguez)
+10. All working docs updated
 
 **🔴 NEXT IMMEDIATE ACTIONS:**
 1. **Review POST #6 slides** - Check text accuracy, QR code, visual quality (creative/social/POST_06_images/)
@@ -31,6 +33,7 @@
 - FFmpeg workflow: `r/ffmpeg-video-editing-workflow-2025-11-21.md` (technical guide for Gilbert)
 - POST #6 specs: `creative/social/POST_06_BLACK_FRIDAY_SEREN_DESIGN_SPECS.md`
 - POST #6 slides: `creative/social/POST_06_images/` (5 slides ready for review)
+- Facebook strategy: `communications/FACEBOOK_EVENT_GROUP_STRATEGY.md` (event/group optimization + ad prep)
 - Content calendar: `creative/social/CONTENT_CALENDAR.md`
 
 ---
@@ -226,6 +229,54 @@
 - Generation time: ~25 seconds
 
 **NEXT STEP:** Manual review using quality checklist in `GENERATION_REPORT.md` before Nov 29 posting
+
+### 📘 FACEBOOK EVENT/GROUP STRATEGY - COMPLETE! ✅
+
+**Status:** COMPLETE - 54KB comprehensive strategy guide created Nov 22
+**Location:** `communications/FACEBOOK_EVENT_GROUP_STRATEGY.md`
+**Research:** orchestrator-v2 (10 areas, 40+ sources, 2024-2025 best practices)
+
+**STRATEGIC RECOMMENDATION: Use BOTH Event Page + Facebook Group**
+- **Event Page** = Front door (public, ads, RSVPs)
+- **Facebook Group** = Living room (daily engagement, UGC)
+
+**Quick Start Plan (3 hours TODAY):**
+1. Event Page optimization (30 min) - Cover photo, description, pinned post
+2. Create Facebook Group (1 hour) - "KannaKickback 6 Community"
+3. Send co-host invites (15 min) - Sojourner Center + partners
+4. Schedule first week of posts (1 hour) - Templates included
+
+**Content Strategy (Nov 22 - Dec 6):**
+- Group: 1-2 posts daily (73% engagement rate target)
+- Event Page: 1 post daily during countdown week
+- Best times: 1-3pm weekdays, Thu/Fri (18% higher engagement)
+- Content mix: 35% interactive, 40% visual, 25% informational
+
+**Cannabis Compliance Framework:**
+- ✅ Cannabis-friendly events (21+), culture content
+- ❌ NO selling/trading THC, product promotions
+- Strategy: Lead with charity, cannabis as culture not product
+
+**Facebook Ads Prep:**
+- Activate pages with 7 days organic content BEFORE ads
+- Budget: $5-10/day = $70-140 total (14 days)
+- Pre-ad checklist: 5-10 posts, 20-30 RSVPs, active Group
+
+**Templates Included (20+):**
+- Copy-paste post templates
+- Event description
+- Group welcome message
+- Vendor spotlights
+- Countdown series
+- Photo challenge rules
+
+**Gamification Tactics:**
+- Photo challenge: "Post donation pic, win prizes"
+- Leaderboards: Top donors weekly
+- Badges: "First Donor," "Box Scout"
+- Milestones: 100 → 200 → 500 toys
+
+**Next Action:** Implement 3-hour quick start TODAY to activate before weekend
 
 ### 🎨 SOCIAL MEDIA CONTENT STATUS - COMPLETE OVERVIEW
 
