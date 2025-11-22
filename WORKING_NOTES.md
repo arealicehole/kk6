@@ -13,7 +13,8 @@
 3. Content strategy created (4 pieces planned for Nov 22-27)
 4. POST #6 redesigned (5-slide Black Friday super-carousel with Seren validation)
 5. Video edit brief created (60-90s short-form video guide)
-6. All working docs updated
+6. FFmpeg workflow guide completed (comprehensive video editing guide saved to /r)
+7. All working docs updated
 
 **🔴 NEXT IMMEDIATE ACTIONS:**
 1. **Gilbert edits video** (tomorrow Nov 22) - Use `VIDEO_SHORT_FORM_EDIT_BRIEF.md`
@@ -26,6 +27,7 @@
 **📁 KEY FILES TO REFERENCE:**
 - Sojourner strategy: `creative/social/SOJOURNER_INTERVIEW_CONTENT_STRATEGY.md`
 - Video edit guide: `creative/social/VIDEO_SHORT_FORM_EDIT_BRIEF.md`
+- FFmpeg workflow: `r/ffmpeg-video-editing-workflow-2025-11-21.md` (technical guide for Gilbert)
 - POST #6 specs: `creative/social/POST_06_BLACK_FRIDAY_SEREN_DESIGN_SPECS.md`
 - Content calendar: `creative/social/CONTENT_CALENDAR.md`
 
