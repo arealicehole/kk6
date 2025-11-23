@@ -12,7 +12,7 @@
 
 ### 🔴 CRITICAL CORRECTIONS TO TRACKING:
 - **ALL FACEBOOK CALENDAR DAYS OFF BY 1** - Fixed all day-of-week labels (Sat-Fri)
-- **BOXES STATUS:** 2 PLACED (Ginza, Fancy Pets), 1 unassembled ready for Amarillin
+- **BOXES STATUS:** 2 PLACED (Ginza, Fancy Pets), 1 unassembled ready for Amrahlynn's Watch Repair
 - **BOX DEPLOYMENT PLAN:** Smoke shops Sunday Nov 23, remaining boxes Mon/Tue
 - **FACEBOOK STRATEGY:** Using Option C (Event Page + existing groups), NOT creating new Group
 - **SEREN INTERVIEW:** Already completed Nov 21 (originally scheduled with Berkeley)
@@ -24,7 +24,7 @@
 - Add video clip from Seren interview to POST #6 carousel
 - Facebook Option C: Optimize Event Page, post in existing cannabis groups (not creating new Group)
 - Game name correction: It's "Ring Toss" not "Bong Pong"
-- Location correction: "Amarillin" (not "Amaranth") in Apache Junction
+- Location correction: "Amrahlynn's Watch Repair" (not "Amaranth" or "Amarillin") in Apache Junction
 - Boxes content post (POST #3) can move to Tue/Wed after boxes placed
 - Need meetings this week: Event itinerary + ring toss game planning
 
@@ -56,7 +56,7 @@
 
 ### 🔴 IMMEDIATE ACTIONS (TONIGHT/TOMORROW):
 1. ✅ Deliver flyers to September's Bar (tonight after 9pm)
-2. Deploy 1 unassembled box to Amarillin
+2. Deploy 1 unassembled box to Amrahlynn's Watch Repair
 3. Adjust POST #6 dates (Black Friday = Nov 29 Sat)
 4. Extract video clip from Seren interview
 5. Review and schedule remaining social posts

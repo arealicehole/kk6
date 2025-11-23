@@ -22,7 +22,7 @@
 | ✅ DONE | **Attend Cinnamon Event with flyers** | | Nov 21 | ✅ Same as Nirvana event, didn't attend |
 | ✅ DONE | **Attend Nirvana Event with flyers** | | Nov 21 | ✅ Same event, didn't attend |
 | 🔴 TODO | **Deliver flyers to September's Bar** | | Nov 22 | Sat Nov 22 after 9pm (20min drive) |
-| 🔴 TODO | Create donation boxes (10-15) | | Nov 11 | 2 PLACED (Ginza, Fancy Pets), 1 unassembled ready for Amarillin |
+| 🔴 TODO | Create donation boxes (10-15) | | Nov 11 | 2 PLACED (Ginza, Fancy Pets), 1 unassembled ready for Amrahlynn's Watch Repair |
 | 🔴 TODO | Send pinata design to vendor | Gilbert | Nov 10 | Ornament design + logo specs |
 | 🔴 TODO | **Facebook Event/Group 3-Hour Quick Start** | Team | Nov 22 | Using OPTION C (Event Page + existing groups, NOT creating new Group) |
 
@@ -332,7 +332,7 @@
 | ⚪ TODO | Bong Blazer | | | | Dispensary connections |
 | ⚪ TODO | D1 | | | | Event support |
 | ⚪ TODO | Tom Palms | | | | Box hosting |
-| ✅ DONE | Amarillin (Toy Store AJ) | | | YES | Box hosting confirmed |
+| ✅ DONE | Amrahlynn's Watch Repair (AJ) | | | YES | Box hosting confirmed |
 | ✅ DONE | Fancy Pets | | | YES | Box hosting confirmed |
 | ✅ DONE | Ginza | | | YES | Box hosting confirmed (venue) |
 | ✅ DONE | Hetti Supply AZ | hettisupply@gmail.com | Nov 21 | YES | ✅ Box hosting + dab bar vendor at event - Need location details |
@@ -352,7 +352,7 @@
 |--------|----------|---------|--------|------------------|-------|
 | ✅ PLACED | Ginza (Gold Canyon) | | YES | Dec 15 | Venue - box placed |
 | ✅ PLACED | Fancy Pets (Tempe) | | YES | Dec 15 | Box placed |
-| ✅ READY | Amarillin Collectibles (Apache Junction) | | NO | Dec 15 | 850 S Ironwood Dr #108, AJ 85120 - 1 unassembled box ready |
+| ✅ READY | Amrahlynn's Watch Repair (Apache Junction) | | NO | Dec 15 | 850 S Ironwood Dr #108, AJ 85120 - 1 unassembled box ready |
 | ✅ CONFIRMED | Level Up Smoke Shop (Glendale) | TBD | NO | Dec 15 | 6766 W Glendale Ave #125, Glendale 85303 |
 | ⚪ TODO | Tom Palms | | | | Likely yes |
 | ⚪ TODO | Arizona Organix | Camielle@arizonaorganix.org | | | Pending outreach |
