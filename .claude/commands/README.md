@@ -55,6 +55,37 @@ This directory contains slash commands for efficient KK6 project management.
 
 ---
 
+### `/kk6-update`
+**Update tracking documents** - Update TASK_TRACKER, WORKING_NOTES, and FORM_SUBMISSIONS with work from this session.
+
+**Use when:**
+- Ending a work session
+- Completed multiple tasks
+- Made important decisions
+- Received form submissions (RSVPs, vendors)
+- Created deliverables
+
+**How it works:**
+1. Analyzes current conversation
+2. Reads tracking files to understand current state
+3. Shows you proposed updates
+4. Asks for confirmation
+5. Delegates to agent for file updates
+6. Commits changes to git (doesn't push)
+
+**Arguments:**
+```bash
+# Simple (will prompt for details)
+/kk6-update
+
+# With context hint
+/kk6-update "Finished Facebook strategy and POST #6"
+```
+
+**Output:** Updated tracking docs + git commit summary
+
+---
+
 ## Command Syntax
 
 ```bash
@@ -75,6 +106,7 @@ This directory contains slash commands for efficient KK6 project management.
 2. **Use `/kk6-agenda` weekly** - Comprehensive planning
 3. **Run `/kk6-blockers` when stuck** - Find unblocking actions
 4. **Launch `/kk6-agent` for complex work** - Autonomous execution
+5. **End sessions with `/kk6-update`** - Keep tracking docs current
 
 ## Customization
 
