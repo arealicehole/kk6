@@ -1,6 +1,6 @@
 # KannaKickback 6 - Form Submissions Tracker
 
-**Last Updated:** 2025-11-21
+**Last Updated:** 2025-11-23
 **Purpose:** Track all form submissions from kannakickback.com
 
 ---
@@ -9,6 +9,7 @@
 
 | Date | Name | Email | Phone | Status | Notes |
 |------|------|-------|-------|--------|-------|
+| Nov 23 | **Trevor Meyer** | trevormeyer3@gmail.com | (480) 904-8679 | ✅ CONFIRMED | Organic website RSVP |
 | Nov 21 | **Emily Walker** | emily.cannadega@gmail.com | (480) 495-6942 | ✅ CONFIRMED | Organic website RSVP |
 | Nov 21 | **Margarita Rodriguez** | rita_rodriguez112@yahoo.com | (623) 570-5113 | ✅ CONFIRMED | Organic website RSVP |
 | Nov 21 | **Jenny Williamson** | williamson.nej@gmail.com | (602) 376-1845 | ✅ CONFIRMED | From Nov 20 email blast |
@@ -25,7 +26,7 @@
 | Nov 15 | **Deno Easter** | deasterdenoeasterdeaster@hotmail.com | (480) 504-7160 | ✅ CONFIRMED | Real RSVP |
 | Nov 15 | **Rita Pacchiana** | ritajeanmary@hotmail.com | (480) 249-5516 | ✅ CONFIRMED | Real RSVP |
 
-**Total Real RSVPs: 15** (5 from Nov 20-21 email blast! 🎉)
+**Total Real RSVPs: 16** (5 from Nov 20-21 email blast! 🎉)
 
 ---
 
@@ -61,17 +62,18 @@
 
 ## SUMMARY STATS
 
-- **Total Event RSVPs:** 15 people confirmed ✅
+- **Total Event RSVPs:** 16 people confirmed ✅
   - **5 RSVPs from Nov 20-21 email blast!** 🎉
     - Jenny Williamson
     - Bong blazer (Marco Soto) - ORIGINAL KREW MEMBER since 2020!
     - Ryan Z Schroeder - **RETURNING ATTENDEE from KK5!** 🎉
     - Leticia Salazar - KK3 subscriber since 2022
     - Stephanie Crawford - KK3 subscriber since 2022
-  - **2 NEW organic RSVPs (Nov 21 evening):**
-    - Emily Walker - email: cannadega themed!
-    - Margarita Rodriguez
-  - All 15 have complete contact info
+  - **3 NEW organic RSVPs:**
+    - Trevor Meyer (Nov 23)
+    - Emily Walker (Nov 21 evening) - email: cannadega themed!
+    - Margarita Rodriguez (Nov 21 evening)
+  - All 16 have complete contact info
   - Sleepy Cheefin, Susanna Grijalva, Dustin Morrissey (manually added)
   - Tara Reynolds, Jesse Duke, Deno Easter, Rita Pacchiana, Andreah Crowe (auto-forwarded)
 - **Total Vendor Applications:** 0 real (need outreach!)
@@ -94,8 +96,10 @@
 ## ACTION ITEMS
 
 ### RSVPs - Follow Up Needed:
-- [ ] ✅ All 15 RSVPs now have complete contact information
-- [ ] Send confirmation emails to all 15 RSVPs with event details:
+- [ ] ✅ All 16 RSVPs now have complete contact information
+- [ ] Send confirmation emails to all 16 RSVPs with event details:
+  - **NEW Nov 23 - ORGANIC (1 person):**
+    - Trevor Meyer (trevormeyer3@gmail.com)
   - **NEW Nov 21 EVENING - ORGANIC (2 people):**
     - Emily Walker (emily.cannadega@gmail.com)
     - Margarita Rodriguez (rita_rodriguez112@yahoo.com)
@@ -114,7 +118,7 @@
     - Sleepy Cheefin (sleepycheefin@gmail.com)
     - Deno Easter (deasterdenoeasterdeaster@hotmail.com)
     - Rita Pacchiana (ritajeanmary@hotmail.com)
-- [ ] Add all 13 to guest list for Dec 6 event
+- [ ] Add all 16 to guest list for Dec 6 event
 - [ ] Consider sending reminder closer to event date
 - [ ] Reach out to Ryan Z Schroeder personally - returning from KK5!
 

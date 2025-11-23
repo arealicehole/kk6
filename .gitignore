@@ -2,6 +2,7 @@ website/
 .clauderc
 .mcp.json
 .claude/
+!.claude/commands/
 helpdesk/
 
 # Sensitive files - API keys, credentials, logs
