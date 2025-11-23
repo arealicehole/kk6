@@ -1,35 +1,40 @@
-# KANNA KICKBACK 6 - CONTENT CALENDAR (REVISED)
+# KANNA KICKBACK 6 - CONTENT CALENDAR (REVISED NOV 22)
 
-**Last Updated:** 2025-11-20
-**Timeline:** November 21 - December 6, 2025 (16 days)
-**Total Posts:** 11 posts (1 done + 10 new)
-**Strategy:** Email support, real moments, event momentum
+**Last Updated:** 2025-11-22 (Evening - Major revision)
+**Timeline:** November 23 - December 6, 2025 (14 days until event)
+**Total Posts:** 13 posts planned
+**Strategy:** Sojourner content priority, community engagement, vendor spotlights, event momentum
 
 ---
 
 ## STRATEGY OVERVIEW
 
-### Why We Revised:
-- **Old plan:** 15 posts, falling behind schedule, no clear ownership
-- **New plan:** 11 posts total, strategically timed, 80% can be pre-made with AI
-- **Focus:** Support email blasts (1,413 contacts), real distribution events, conversion-driven
+### Major Changes (Nov 22 Revision):
+- **Sojourner content moved up** - Interview processed, prioritizing validation messaging
+- **Box posts delayed** - Waiting for actual deployment + real photos (not AI)
+- **Vendor spotlights added** - 2 carousel posts featuring partners
+- **Shirt design contest added** - Discord growth + Trapper Dan collaboration
+- **Crane game comedy video added** - Real footage from past events
 
 ### Core Priorities:
-1. **Email Blast Support** - Reinforce what 1,413 people read in their inboxes
-2. **Real Events/Moments** - Nirvana event (Nov 21), September's Bar, actual milestones
-3. **Event Day Momentum** - Dec 1-6 final countdown and hype
+1. **Sojourner Validation** - "You beat corporations" messaging ASAP
+2. **Community Engagement** - Shirt contest drives Discord growth
+3. **Authentic Content** - Real photos of boxes, real crane game footage
+4. **Vendor Love** - Spotlights for Gemmi Connect, Greek Glass, HCQQ, Lost My Marbles, Holy Smokes, Trapper Dan
+5. **Event Momentum** - Final week countdown (Dec 1-6)
 
 ### Platforms:
 - **Instagram:** Primary (@kannakrew + arizona_smokers via Postiz)
 - **Facebook:** Kanna Krew page + event page
 - **TikTok:** Short-form video content
-- **Cross-posting:** All major posts hit all 3 platforms
+- **Discord:** Design contest hub
 
 ### Brand Voice:
 - Fun first, charity always
-- Cannabis-friendly but wholesome (Sojourner Center mission)
+- Cannabis-friendly but wholesome
 - Authentic, not overly polished
-- "All K's, no C's" (KannaKrew, KannaKickback, KannaKlaus)
+- Community over competition
+- "All K's, no C's"
 
 ---
 
@@ -44,188 +49,262 @@
 
 ---
 
-## 📧 WEEK 1: EMAIL BLAST SUPPORT (Nov 21-27)
-
 ### POST #2 - NOV 21 (THURSDAY) - "Did You Get The Email?"
-**Status:** 🔴 TODO - CREATE NOW
-**Purpose:** Reinforce 1,413 emails sent Nov 20-21
-**Format:** Static post or 2-slide carousel
+**Status:** ✅ POSTED
+**Format:** 2-slide carousel
 **Platforms:** IG, FB, TT
-
-**Content Elements:**
-- Email screenshot mockup (stylized/branded)
-- "📧 Check your inbox! We just sent the official KK6 invite"
-- Didn't get it? Check spam, RSVP at kannakickback.com
-- Dec 6, 2-6pm, Ginza Gold Canyon
-- Bring a toy, get goodies
-
-**Visuals Needed:**
-- Email mockup graphic (phone or desktop view)
-- KannaKlaus branding
-- Green/red/gold color scheme
-- QR code to website
-
-**Caption Hook:** "📧 If you're on our list, check your inbox RIGHT NOW..."
-
-**CTA:** Visit kannakickback.com/rsvp, forward to friends, check spam folder
-
-**Visual Creator:** ✅ CAN GENERATE
-
-**Assigned To:** TBD
-**Due:** Nov 21 morning
+**Purpose:** Reinforce email blast sent to 1,223 people
+**Files:** `POST_02_DESIGN_SPECS.md`, images in `POST_02/`
 
 ---
 
-### POST #3 - NOV 23 (SATURDAY) - "Box Locations Update"
-**Status:** 🔴 TODO - CREATE NOW
-**Purpose:** Drive immediate toy donations, show progress
-**Format:** 3-4 slide carousel or location map
-**Platforms:** IG, FB, TT
+## 🎥 WEEK 1: SOJOURNER PRIORITY (Nov 23-29)
+
+### POST #3 - NOV 23 (SUNDAY) - "We Beat Corporations" Video
+**Status:** 🔴 TODO - GILBERT EDITS
+**Purpose:** Sojourner Center validation, credibility builder, shareability
+**Format:** 60-90 second short-form video (Reels/TikTok)
+**Platforms:** Instagram Reels (primary), TikTok, Facebook
 
 **Content Elements:**
-Slide 1: "🎁 Where to donate RIGHT NOW!"
-Slide 2: Location list:
-  - Ginza Restaurant (Gold Canyon)
-  - Fancy Pets (Tempe)
-  - Amrahlynn's Collectibles (Apache Junction)
-  - Level Up Smoke Shop (Glendale)
-Slide 3: "More locations coming Dec 1..." (tease Nirvana)
-Slide 4: QR code + kannakickback.com/locations
+- Seren (Sojourner Community Engagement Manager) saying "You've outdone corporations"
+- KannaKrew track record: $4,200 → $5,500 → $6,500
+- Personal connection: "Someone in the Krew was helped by them"
+- CTA: Bring a toy Dec 6, help us beat $6,500
 
-**Visuals Needed:**
-- Map of Phoenix metro with pins
-- Location cards with addresses
-- Box topper design visible
-- "Dec 1 announcement coming" teaser
+**Source Material:**
+- 6 video clips from Seren interview (C:/Users/figon/OneDrive/Kk6/Sojourner Center interview/)
+- Clip 3 (0:20-0:45): Main validation message
+- Clip 3 (1:10-1:25): "Beat corporations" quote
+- Clip 4: Backup if audio issues
 
-**Caption Hook:** "🗺️ LIVE NOW: 4 donation boxes across the Valley. Find the one closest to you..."
+**Edit Brief:** `VIDEO_SHORT_FORM_EDIT_BRIEF.md`
+**Strategy Doc:** `SOJOURNER_INTERVIEW_CONTENT_STRATEGY.md`
 
-**CTA:** Visit closest location today, bring a toy, tag us in your donation
+**Post Time:** Nov 23, 7:00 PM AZ (Saturday evening, high engagement)
 
-**Visual Creator:** ✅ CAN GENERATE
+**Success Metrics:**
+- 1,000+ views in 24 hours
+- 100+ shares (high shareability due to validation)
+- Drive box location inquiries
 
-**Assigned To:** TBD
+**Assigned To:** Gilbert (video edit)
 **Due:** Nov 23
 
 ---
 
-### POST #4 - NOV 25 (MONDAY) - "Behind the Scenes: Box Delivery Day"
-**Status:** 🔴 TODO - CREATE NOW
-**Purpose:** Show the work, build authenticity and connection
-**Format:** Photo carousel or short reel
-**Platforms:** IG, FB, TT
+### POST #4 - NOV 24 (MONDAY) - Shirt Design Contest + Trapper Dan
+**Status:** 🔴 TODO - GENERATE IMAGES
+**Purpose:** Drive Discord signups, engage community, spotlight Trapper Dan
+**Format:** 5-slide Instagram/Facebook carousel
+**Platforms:** IG, FB, TikTok (static carousel)
 
 **Content Elements:**
-- Box delivery journey (team loading van, dropping at locations)
-- Boxes at each location (Ginza, Fancy Pets, etc.)
-- "Every box = more impact for families"
-- Behind-the-scenes team effort
-- Optional: Hot Box Podcast vibe if filming in car
+- Slide 1: "CALLING ALL DESIGNERS 🎨" attention grabber
+- Slide 2: Trapper Dan intro (vendor partner, 12 premium long sleeves)
+- Slide 3: How to enter (Join Discord, use /design bot, QR code)
+- Slide 4: Community designs showcase (4-6 existing submissions)
+- Slide 5: CTA with large QR code to Discord
 
-**Visuals Needed:**
-- IF real photos available: Use those
-- IF no photos: AI-generated delivery journey aesthetic
-- Shots of boxes, locations, team
-- Candid/authentic vibe (not overly polished)
+**Strategic Value:**
+- Discord growth (unique invite link to track)
+- Trapper Dan vendor spotlight
+- User-generated content for future posts
+- Creates ongoing engagement (submissions, voting, winner announcement)
 
-**Caption Hook:** "POV: Delivering 15+ toy boxes across the Valley 📦🚗 Every location is a chance for someone to give..."
+**Design Specs:** `SHIRT_DESIGN_CONTEST_POST_SPECS.md`
 
-**CTA:** Visit these locations to donate, DM us if you want to host a box
+**Post Time:** Nov 24, 10:00 AM AZ (Monday morning scroll)
 
-**Visual Creator:** ⚠️ MIXED - Prefers real photos but can generate AI version
+**Follow-up Posts:**
+- Nov 28-30: Design submission update
+- Dec 3-4: Winner announcement
+- Dec 6: Shirt reveal at event
 
-**Video Prompt (if reel):** "Montage of delivery van driving through Arizona, boxes being placed at smoke shops and dispensaries, team members smiling, festive holiday vibes, cannabis-friendly aesthetic, uplifting music"
+**Visual Creator:** ✅ CAN GENERATE (use visual-creator subagent)
 
-**Assigned To:** TBD (needs filming coordination OR AI generation)
+**Pre-Post Checklist:**
+- [ ] Confirm Trapper Dan Instagram handle
+- [ ] Get Trapper Dan logo/branding
+- [ ] Create unique Discord invite link
+- [ ] Screenshot /design bot interface
+- [ ] Collect 4-6 existing designs for showcase
+- [ ] Generate QR code
+
+**Assigned To:** Claude (image generation)
+**Due:** Nov 24
+
+---
+
+### POST #5 - NOV 25 (TUESDAY) - Sojourner Story Series
+**Status:** 🔴 TODO - EXTRACT CLIPS
+**Purpose:** Educational, humanize Sojourner Center, build trust
+**Format:** 5-7 part Instagram Story series
+**Platforms:** Instagram Stories (primary)
+
+**Content Elements:**
+- Clip 1: "Meet Seren" intro
+- Clip 2: What is Sojourner Center? (3 programs)
+- Clip 3: Gifting Hope store (autonomy for families)
+- Clip 4: Teen gap insight (13-17 year olds need gifts too)
+- Clip 5: KannaKrew partnership validation
+- Clip 6: How to donate
+- Clip 7: Event reminder Dec 6
+
+**Source Material:**
+- Same 6 video clips from interview
+- Extract 5-10 second clips for Stories
+- Add text overlays, stickers, music
+
+**Post Time:** Throughout the day (9am, 12pm, 3pm, 6pm, 9pm)
+
+**Assigned To:** Gilbert or Team
 **Due:** Nov 25
 
 ---
 
-### POST #5 - NOV 27 (WEDNESDAY) - "Why We Do This Every Year"
-**Status:** 🔴 TODO - CREATE NOW
-**Purpose:** Emotional storytelling before Nirvana announcement, build trust
-**Format:** 4-5 slide carousel - impact timeline
+### POST #6 - NOV 26 (WEDNESDAY) - Box Locations + Real Photos
+**Status:** 🔴 TODO - WAIT FOR DEPLOYMENT
+**Purpose:** Drive immediate toy donations, show progress
+**Format:** 4-slide carousel with REAL PHOTOS
+**Platforms:** IG, FB, TT
+
+**Content Elements:**
+- Slide 1: "🎁 Where to donate RIGHT NOW!"
+- Slide 2: Ginza + Fancy Pets (photos of boxes on location)
+- Slide 3: Amrahlynn's Watch Repair + others (photos)
+- Slide 4: "More locations coming Dec 1..." (Nirvana teaser) + QR code
+
+**REQUIRES:**
+- ⚠️ Boxes deployed to smoke shops Sun Nov 23
+- ⚠️ REAL PHOTOS of boxes at each location (not AI-generated)
+- ⚠️ Updated location list
+
+**Original Design Specs:** `POST_03_DESIGN_SPECS.md` (will need revision with real photos)
+
+**Post Time:** Nov 26, 11:00 AM AZ
+
+**Assigned To:** Team (photos) + Claude (carousel assembly)
+**Due:** Nov 26
+
+---
+
+### POST #7 - NOV 27 (THURSDAY) - HYBRID: "Why We Do This" + Sojourner Partnership
+**Status:** 🔴 TODO - CREATE DESIGN SPECS + GENERATE
+**Purpose:** Emotional storytelling, impact timeline, Sojourner validation
+**Format:** 5-6 slide carousel (IG/FB) + long-form caption
 **Platforms:** IG, FB
 
 **Content Elements:**
-Slide 1: "6 years. $20k+ in toys. One mission 💚"
-Slide 2: KK1 (2020) - $4,200 in toys, started in pandemic
-Slide 3: KK3 (2022) - $5,500 in toys, Sojourner partnership begins
-Slide 4: KK5 (2024) - $6,500 in toys, community tradition solidified
-Slide 5: KK6 (2025) - Goal: $7,000+, "This is bigger than us"
+- Slide 1: "6 years. $20k+ in toys. One mission 💚"
+- Slide 2: Timeline KK1-KK5 ($4,200 → $5,500 → $6,500)
+- Slide 3: Sojourner Center partnership (why we chose them)
+- Slide 4: "You've outdone corporations" - Seren quote
+- Slide 5: Personal connection ("Someone in the Krew was helped by them")
+- Slide 6: KK6 goal: $7,000+ and event details
 
-**Visuals Needed:**
-- Timeline infographic (2020 → 2025)
-- Sojourner Center logo
-- Growth chart/progression
-- Past event photos (archive)
-- Personal connection angle: "Someone in our crew was helped by them"
-
-**Caption Hook:** "Why do we throw the same party every December? Because in 2020, someone in the Krew needed Sojourner Center. They were there. Now we're here for them 💚"
-
-**CTA:** Be part of the legacy, donate at any box location, RSVP for Dec 6
+**Caption:**
+- Long-form storytelling (Facebook-optimized)
+- Personal connection angle
+- Track record validation
+- Emotional hook
+- CTA: Be part of the legacy
 
 **Visual Creator:** ✅ CAN GENERATE
 
-**Assigned To:** TBD
+**Post Time:** Nov 27, 6:00 PM AZ (Thursday evening)
+
+**Assigned To:** Claude (design specs + generation)
 **Due:** Nov 27
 
 ---
 
-## 🚨 WEEK 2: NIRVANA ANNOUNCEMENT (Nov 28 - Dec 1)
+### POST #8 - NOV 28 (FRIDAY) - FLEXIBLE SLOT
+**Options:**
+1. **Crane Game Comedy Video** (if edited)
+2. **Vendor Spotlight #1:** Gemmi Connect + Greek Glass + HCQQ
+3. **Box Delivery BTS** (if real photos available)
 
-### POST #6 - NOV 29 (FRIDAY) - "Black Friday = Smart Shopping for Teens" ⚠️ CRITICAL REVISION
-**Status:** ✅ COMPLETE - ALL COPY & SPECS READY
-**Purpose:** Educational content teaching Black Friday shoppers about teen donation needs
-**Format:** 3-slide carousel (IG primary) + 20-25 sec video (TT/Reels)
-**Platforms:** IG (carousel), TT (video), FB (both)
+**Recommended:** Crane Game Comedy Video
 
-**🚨 CONCEPT CHANGED FROM ORIGINAL 🚨**
-- ❌ OLD: "Green Friday vs Black Friday" anti-shopping comparison
-- ✅ NEW: "Use Black Friday deals to donate quality gifts for teens"
-- Reason: Educational + empowering > preachy + counter-culture
+**Status:** 🔴 TODO - EDIT VIDEO
+**Format:** 30-45 second Reel/TikTok
+**Platforms:** Instagram Reels, TikTok, Facebook
 
-**Content Elements:**
-- Slide 1: "BLACK FRIDAY SHOPPERS: They have TEENS too (Ages 13-17)"
-- Slide 2: 3x3 grid of teen gift ideas (headphones, gift cards, makeup, sports gear, tech, clothing, gaming, art supplies, backpacks)
-- Slide 3: Event info + donation locations + "Shop smart, give better"
-- Video: Fast-paced shopping montage with checkmarks showing teen gifts
-- Key insight: Most people don't know Sojourner Center serves teenagers (13-17)
+**Content:**
+- Tabletop crane game footage
+- Mix of real prizes + gag prize
+- Comedy angle: "Will you get the good stuff or... 💀"
+- Authentic reactions, genuine laughs
+- CTA: Test your luck Dec 6
 
-**Key Messages:**
-- Sojourner serves teens, not just little kids
-- Teens don't want stuffed animals - they want age-appropriate gifts
-- Use Black Friday deals to donate something they'll actually love
-- One week between shopping (Nov 29) and event (Dec 6) = perfect timing
+**Edit Brief:** `CRANE_GAME_COMEDY_VIDEO_BRIEF.md`
 
-**Visuals Needed:**
-- Slide 1: Bold text "They have TEENS too" on green gradient with shopping bag + heart icons
-- Slide 2: Clean 3x3 grid with category icons and examples
-- Slide 3: White event info box on green background with KannaKlaus holding shopping bags
-- Video: Shopping aesthetic with energetic music and checkmark animations
+**Post Time:** Nov 28, 7:00 PM AZ (Friday evening)
 
-**Caption Hook:** "Black Friday shoppers – this one's for you 🛍️💚 Here's something most people don't know: The Sojourner Center serves TEENAGERS (ages 13-17), not just little kids. They don't want stuffed animals. Use those Black Friday deals to donate something they'll actually love..."
-
-**CTA:** Shop smart, give better, drop at 15+ locations or bring Dec 6
-
-**Visual Creator:** ✅ CAN GENERATE (use visual-creator subagent)
-
-**Complete Files:**
-- ✅ POST_06_CAPTION.md (revised Nov 21)
-- ✅ POST_06_DESIGN_SPECS.md (revised Nov 21 - 3 carousel slides)
-- ✅ POST_06_VIDEO_PROMPT.md (revised Nov 21 - detailed Sora/Runway prompt)
-- ✅ POST_06_REVISION_REPORT.md (complete strategic analysis)
-
-**Assigned To:** Visual generation next
-**Due:** Nov 27 (assets ready for Nov 29 8:00 AM posting)
-**Post Time:** Nov 29, 8:00 AM Arizona Time (catch early Black Friday shoppers)
+**Assigned To:** Gilbert (video edit)
+**Due:** Nov 28
 
 ---
 
-### POST #7 - DEC 1 (SUNDAY, 9:00 AM) - "🚨 MAJOR ANNOUNCEMENT: 9 Nirvana Locations!"
-**Status:** ✅ SCHEDULED
+### POST #9 - NOV 29 (SATURDAY) - Black Friday Super-Carousel
+**Status:** ✅ IMAGES GENERATED - NEEDS DATE FIX
+**Purpose:** Educational Black Friday shoppers about teen donation needs
+**Format:** 5-slide carousel
+**Platforms:** IG, FB
+
+**Content Elements:**
+- Slide 1: "They Have TEENS Too" (Seren quote)
+- Slide 2: "Black Friday → Good Deeds" timeline
+- Slide 3: Teen Gift Guide (3x3 grid of ideas)
+- Slide 4: Event info + donation locations
+- Slide 5: Seren validation quote
+
+**Images:** ✅ Generated in `POST_06_images/` (all 5 slides ready)
+
+**🔴 ACTION NEEDED:**
+- Manually change Nov 28 → Nov 29 in slides
+- Consider adding Seren video clip to carousel
+
+**Design Specs:** `POST_06_BLACK_FRIDAY_SEREN_DESIGN_SPECS.md`
+
+**Post Time:** Nov 29, 8:00 AM AZ (catch early Black Friday shoppers)
+
+**Assigned To:** Claude (date fix) + Team (review)
+**Due:** Nov 27 (ready for Nov 29 posting)
+
+---
+
+### POST #10 - NOV 30 (SUNDAY) - Vendor Spotlight #2
+**Status:** 🔴 TODO - CREATE DESIGN SPECS + GENERATE
+**Purpose:** Spotlight vendors, show community support, cross-promotion
+**Format:** 4-slide carousel
+**Platforms:** IG, FB
+
+**Vendors Featured:**
+- Lost My Marbles (OG Skunk) - Vendor booth
+- Holy Smokes - Vendor booth
+- Trapper Dan - Vendor booth (follow-up from shirt contest)
+
+**Content Elements:**
+- Slide 1: "Meet Our KK6 Vendors 🤝"
+- Slide 2: Lost My Marbles spotlight (what they're bringing, IG handle)
+- Slide 3: Holy Smokes spotlight
+- Slide 4: Trapper Dan spotlight (shirt contest update)
+
+**Post Time:** Nov 30, 12:00 PM AZ (Sunday midday)
+
+**Assigned To:** Claude (design specs + generation)
+**Due:** Nov 30
+
+---
+
+## 🚨 WEEK 2: FINAL COUNTDOWN (Dec 1-6)
+
+### POST #11 - DEC 1 (MONDAY, 9:00 AM) - Nirvana 9 Locations Announcement
+**Status:** ✅ SCHEDULED - 100% COMPLETE
 **Format:** 6-slide carousel
-**Platforms:** Instagram (@kannakrew), Facebook (Kanna Krew page)
+**Platforms:** Instagram + Facebook (both scheduled via Postiz)
 
 **Post IDs:**
 - Instagram: `cmi51q7li000bix80ov4wzy6k`
@@ -235,134 +314,113 @@ Slide 5: KK6 (2025) - Goal: $7,000+, "This is bigger than us"
 - 9 Nirvana Center locations across Arizona
 - Includes Cookies Tempe & Backpackboyz AZ
 - FREE pre-roll with every toy donation (Dec 1-19)
-- Full location list with addresses (slides 4-5)
-- Arizona coverage map (slide 3)
-- Partnership reveal + how to participate
+- Full location list with addresses
+- Arizona coverage map
+- Partnership reveal
 
-**Images:** All 6 slides generated in `creative/social/images/POST_11_NIRVANA/`
+**Images:** All 6 slides in `creative/social/images/POST_11_NIRVANA/`
+**Design Specs:** `POST_11_NIRVANA_DESIGN_SPECS.md`
 
-**Status:** ✅ COMPLETE - Scheduled for Dec 1 at 9:00 AM Arizona Time
+**Post Time:** Dec 1, 9:00 AM AZ (AUTO-POSTS)
 
-**Design Specs:** `creative/social/POST_11_NIRVANA_DESIGN_SPECS.md`
-
-**Notes:** This is the BIG partnership announcement - game changer for reach
+**Status:** ✅ NO ACTION NEEDED
 
 ---
 
-## 📧 WEEK 3: FINAL PUSH (Dec 2-6)
+### POST #12 - DEC 2 (TUESDAY) - FLEXIBLE SLOT
+**Options:**
+1. **Email Blast #2 Tie-In** (if second email sent)
+2. **Vendor Spotlight #1:** Gemmi Connect + Greek Glass + HCQQ (if not posted Nov 28)
+3. **Shirt Design Contest Update** (showcase new submissions)
 
-### POST #8 - DEC 2 (MONDAY) - "Email Blast #2 Sent - Final Call"
-**Status:** 🔴 TODO - CREATE NOW
-**Purpose:** Reinforce 2nd email blast (sent Dec 1-2)
-**Format:** Static post or 2-slide carousel
-**Platforms:** IG, FB, TT
+**Recommended:** Shirt Design Contest Update
 
-**Content Elements:**
-- "📧 FINAL CALL email just sent to 1,400+ people"
-- 1 week out urgency
-- ALL 9 Nirvana locations now live (post-announcement)
-- Event reminder: Dec 6, 2-6pm
-- Last chance to RSVP
+**Status:** 🔴 TODO - CREATE WHEN NEEDED
+**Format:** 2-3 slide carousel or static post
+**Platforms:** IG, FB
 
-**Visuals Needed:**
-- Email reminder graphic (inbox mockup)
-- "1 WEEK OUT" badge/sticker
-- Event details card
-- Urgency design elements (countdown, limited time)
+**Content:**
+- "10+ new designs submitted!"
+- Showcase 4-6 more designs from Discord
+- Reminder to join and submit
+- "Winner announced Dec 3-4"
 
-**Caption Hook:** "📧 Just sent: Your FINAL reminder to 1,400+ people. If you're on the list, check your inbox. If not, here's what you missed..."
-
-**CTA:** Check email, RSVP if you haven't, bring a toy Dec 6
-
-**Visual Creator:** ✅ CAN GENERATE
+**Post Time:** Dec 2, 2:00 PM AZ
 
 **Assigned To:** TBD
 **Due:** Dec 2
 
 ---
 
-### POST #9 - DEC 4 (WEDNESDAY) - "2 Days Out - Everything You Need to Know"
-**Status:** 🔴 TODO - CREATE NOW
+### POST #13 - DEC 3 (WEDNESDAY) - Shirt Contest Winner Announcement
+**Status:** 🔴 TODO - DEPENDS ON CONTEST
+**Format:** Static post or 2-slide carousel
+**Platforms:** IG, FB, Discord
+
+**Content:**
+- Winning design reveal
+- Designer congratulations (Discord username)
+- "See it IRL at KK6 tomorrow!"
+- Trapper Dan tag
+
+**Post Time:** Dec 3, 5:00 PM AZ
+
+**Assigned To:** Team
+**Due:** Dec 3
+
+---
+
+### POST #14 - DEC 4 (THURSDAY) - "2 Days Out - Everything You Need to Know"
+**Status:** 🔴 TODO - GENERATE IMAGES
 **Purpose:** Comprehensive event guide, remove friction for attendees
 **Format:** 5-6 slide carousel (save-able guide)
 **Platforms:** IG, FB
 
 **Content Elements:**
-Slide 1: "⏰ 48 HOURS! Your complete KK6 guide"
-Slide 2: 📍 Location & Parking
-  - Ginza Restaurant, 8654 E Topaz Dr, Gold Canyon
-  - Parking info, arrival time
-Slide 3: 🎁 What to Bring
-  - 1 unwrapped toy = gift bag entry
-  - Bring friends, bring your vibe
-Slide 4: 🎮 What to Expect
-  - Games: Crane, Bong Pong (maybe), Pinata
-  - 10 vendor booths
-  - Food from Ginza (menu)
-  - Giveaways all day
-Slide 5: 💚 The Impact
-  - All toys → Sojourner Center families
-  - Goal: $7,000+ in donations
-  - 6th year of tradition
-Slide 6: ✅ Final Checklist
-  - RSVP at kannakickback.com
-  - Invite friends
-  - Pick up toy to donate
-  - See you Saturday!
+- Slide 1: "⏰ 48 HOURS! Your complete KK6 guide"
+- Slide 2: 📍 Location & Parking (Ginza, Gold Canyon)
+- Slide 3: 🎁 What to Bring (1 toy = gift bag entry)
+- Slide 4: 🎮 What to Expect (games, vendors, food, giveaways)
+- Slide 5: 💚 The Impact (Sojourner Center, $7,000+ goal)
+- Slide 6: ✅ Final Checklist
 
-**Visuals Needed:**
-- Clean, organized slide design
-- Icons for each section
-- Map snippet for location
-- Checklist aesthetic
-- Save-worthy design
-
-**Caption Hook:** "📋 SAVE THIS! Your complete guide to KK6 in 48 hours. Everything you need to know about Saturday..."
-
-**CTA:** Save this post, share with friends coming with you, screenshot and post to story
+**Design Specs:** `POST_09_DESIGN_SPECS.md`
 
 **Visual Creator:** ✅ CAN GENERATE
 
-**Assigned To:** TBD
+**Post Time:** Dec 4, 10:00 AM AZ
+
+**Assigned To:** Claude (image generation)
 **Due:** Dec 4
 
 ---
 
-### POST #10 - DEC 5 (THURSDAY) - "TOMORROW! 24-Hour Warning"
-**Status:** 🔴 TODO - CREATE NOW
+### POST #15 - DEC 5 (THURSDAY) - "TOMORROW! 24-Hour Warning"
+**Status:** 🔴 TODO - GENERATE IMAGES/VIDEO
 **Purpose:** Maximum urgency, final hype, First Friday tie-in
 **Format:** Countdown animation/video or hype graphic
 **Platforms:** IG, TT, FB, Stories
 
 **Content Elements:**
 - "‼️ TOMORROW ‼️ KannaKickback 6 in 24 hours!"
-- Countdown timer graphic (animated if possible)
+- Countdown timer graphic (24:00:00)
 - Quick highlights: Games, giveaways, Ginza, Sojourner impact
-- First Friday perfect timing (Dec 5 is First Friday)
+- First Friday perfect timing
 - Last chance to RSVP
 
-**Visuals Needed:**
-- Countdown timer (24:00:00)
-- Hype montage style
-- High energy, urgent design
-- Text animations (if video)
-- KannaKlaus character prominent
-
-**Caption Hook:** "‼️ 24 HOURS ‼️ Tomorrow. 2pm. Ginza. The biggest KannaKickback yet. Tag someone who's pulling up with you 👇"
-
-**CTA:** Tag your crew, RSVP now, pick up your donation toy today
+**Design Specs:** `POST_10_DESIGN_SPECS.md`
 
 **Visual Creator:** ✅ CAN GENERATE (static countdown or video prompt)
 
-**Video Prompt (if animation):** "Countdown timer ticking down from 24 hours, quick cuts of KannaKlaus character, festive party decorations, toy donations, smoke effects, hype music building, text overlay 'TOMORROW 2PM', energetic and urgent vibe"
+**Post Time:** Dec 5, 7:00 PM AZ (First Friday evening)
 
-**Assigned To:** TBD
-**Due:** Dec 5 (First Friday - perfect timing!)
+**Assigned To:** Claude (image/video generation)
+**Due:** Dec 5
 
 ---
 
-### POST #11 - DEC 6 (FRIDAY) - "WE'RE LIVE! Event Day Coverage"
-**Status:** 🔴 TODO - EXECUTE DAY-OF
+### POST #16 - DEC 6 (FRIDAY) - "WE'RE LIVE! Event Day Coverage"
+**Status:** ⚠️ CANNOT PRE-GENERATE
 **Purpose:** Real-time event coverage, drive last-minute attendance
 **Format:** Instagram Stories + feed posts throughout day
 **Platforms:** IG Stories (primary), TT, FB
@@ -375,26 +433,40 @@ Slide 6: ✅ Final Checklist
 - **5:00 PM:** "1 hour left! Still time to come through"
 - **6:30 PM:** Thank you post with crowd shot
 
-**Visuals Needed:**
-- Real event photos/video (CANNOT pre-generate)
-- iPhone footage is fine
-- Stories with polls, questions, tags
-- Candid moments, energy shots
-
-**Caption Hook (for main feed post):** "🎄 KannaKickback 6 is LIVE! If you're seeing this, you can still pull up. We're here till 6pm 🎁"
-
-**CTA:** Come now, bring a toy, tag us when you arrive
-
-**Visual Creator:** ❌ CANNOT PRE-GENERATE - Needs real event coverage
+**Requires:** Real event photos/video (iPhone footage fine)
 
 **Assigned To:** Gilbert/Team on-site
 **Due:** Dec 6 (live execution)
 
 ---
 
-## POST-EVENT (Optional)
+## BONUS: VENDOR SPOTLIGHT #1 (IF NEEDED)
 
-### POST #12 - DEC 7 (SATURDAY) - "Thank You Recap"
+### Gemmi Connect + Greek Glass + HCQQ
+**Status:** 🔴 TODO - CREATE IF SLOT AVAILABLE
+**Format:** 4-slide carousel
+**Platforms:** IG, FB
+
+**Vendors Featured:**
+- **Gemmi Connect:** Pre-rolls for digital flyer, cross-promotion opportunity
+- **Greek Glass:** Sent goodies for gift bags (sponsor)
+- **HCQQ:** Glass prizes + Webkinz donations (sponsor)
+
+**Content Elements:**
+- Slide 1: "Thank You to Our KK6 Sponsors 💚"
+- Slide 2: Gemmi Connect spotlight + collab announcement
+- Slide 3: Greek Glass spotlight + gift bag contribution
+- Slide 4: HCQQ spotlight + prize donations
+
+**Post Slot:** Nov 28 (if crane video not ready) OR Dec 2 (flexible)
+
+**Assigned To:** Claude (design specs + generation when needed)
+
+---
+
+## POST-EVENT (OPTIONAL)
+
+### POST #17 - DEC 7 (SATURDAY) - "Thank You Recap"
 **Status:** ⚪ OPTIONAL
 **Purpose:** Gratitude, community celebration, set up next year
 **Format:** Carousel or reel with event highlights
@@ -412,58 +484,49 @@ Slide 6: ✅ Final Checklist
 
 ---
 
-## PRODUCTION WORKFLOW
+## TRACKING DASHBOARD
 
-### Content Creation Process:
-1. **Newsroom-Editor** orchestrates overall campaign
-2. **Platform Specialists** create captions/scripts:
-   - instagram-creator: Captions, hooks, hashtags
-   - tiktok-creator: Video scripts, trends
-   - x-creator: Twitter/X variants (if needed)
-3. **Visual-Creator** generates all images
-4. **Video Prompts** created for Sora/Runway (if video content)
+| # | Date | Topic | Design Specs | Images | Scheduled | Posted |
+|---|------|-------|--------------|--------|-----------|--------|
+| 1 | Nov 15 | KK6 Announcement | ✅ | ✅ | ✅ | ✅ |
+| 2 | Nov 21 | Email Blast Tie-In | ✅ | ✅ | ✅ | ✅ |
+| 3 | Nov 23 | Sojourner Video | ✅ | N/A (video) | ⚪ | ⚪ |
+| 4 | Nov 24 | Shirt Contest | ✅ | ⚪ | ⚪ | ⚪ |
+| 5 | Nov 25 | Story Series | ✅ | N/A (clips) | ⚪ | ⚪ |
+| 6 | Nov 26 | Box Locations | ⚪ (needs revision) | ⚪ (real photos) | ⚪ | ⚪ |
+| 7 | Nov 27 | Hybrid Why We Do This | ⚪ | ⚪ | ⚪ | ⚪ |
+| 8 | Nov 28 | Crane Game Video | ✅ | N/A (video) | ⚪ | ⚪ |
+| 9 | Nov 29 | Black Friday | ✅ | ✅ (needs date fix) | ⚪ | ⚪ |
+| 10 | Nov 30 | Vendor Spotlight #2 | ⚪ | ⚪ | ⚪ | ⚪ |
+| 11 | Dec 1 | Nirvana 9 Locations | ✅ | ✅ | ✅ | ⚪ Auto |
+| 12 | Dec 2 | Design Update | ⚪ | ⚪ | ⚪ | ⚪ |
+| 13 | Dec 3 | Contest Winner | ⚪ | ⚪ | ⚪ | ⚪ |
+| 14 | Dec 4 | Event Guide | ✅ | ⚪ | ⚪ | ⚪ |
+| 15 | Dec 5 | 24-Hour Warning | ✅ | ⚪ | ⚪ | ⚪ |
+| 16 | Dec 6 | Event Day Live | ✅ | N/A (live) | N/A | ⚪ |
 
-### Asset Management:
-- All images: `creative/social/images/POST_[NUMBER]/`
-- Design specs: `creative/social/POST_[NUMBER]_DESIGN_SPECS.md`
-- Captions: `creative/social/POST_[NUMBER]_CAPTION.md`
-- Video prompts: `creative/social/POST_[NUMBER]_VIDEO_PROMPT.md`
-
----
-
-## TRACKING
-
-| Post | Date | Topic | Created | Visuals | Scheduled | Posted | Link |
-|------|------|-------|---------|---------|-----------|--------|------|
-| 1 | Nov 15 | KK6 Announcement | ✅ | ✅ | ✅ | ✅ | POST_01 files |
-| 2 | Nov 21 | Email Blast Tie-In | ⚪ | ⚪ | ⚪ | ⚪ | |
-| 3 | Nov 23 | Box Locations | ⚪ | ⚪ | ⚪ | ⚪ | |
-| 4 | Nov 25 | Box Delivery BTS | ⚪ | ⚪ | ⚪ | ⚪ | |
-| 5 | Nov 27 | Why We Do This | ⚪ | ⚪ | ⚪ | ⚪ | |
-| 6 | Nov 29 | Green Friday | ⚪ | ⚪ | ⚪ | ⚪ | |
-| 7 | Dec 1 | Nirvana Launch | ✅ | ✅ | ✅ | ⚪ | POST_11 files |
-| 8 | Dec 2 | Email Blast #2 | ⚪ | ⚪ | ⚪ | ⚪ | |
-| 9 | Dec 4 | Event Guide | ⚪ | ⚪ | ⚪ | ⚪ | |
-| 10 | Dec 5 | 24-Hour Warning | ⚪ | ⚪ | ⚪ | ⚪ | |
-| 11 | Dec 6 | Event Day Live | ⚪ | ⚪ | ⚪ | ⚪ | |
-
-**Progress:** 2/11 posts complete (18%)
-**8 posts to create NOW:** #2, #3, #4, #5, #6, #8, #9, #10
+**Progress:** 2/16 posts complete (13%)
+**Next 3 Priorities:**
+1. POST #3 - Sojourner video (Gilbert edits by Nov 23)
+2. POST #4 - Shirt contest carousel (Claude generates by Nov 24)
+3. POST #9 - Fix Black Friday dates (Claude fixes by Nov 27)
 
 ---
 
 ## SUCCESS METRICS
 
 **Content Goals:**
-- ✅ 8 posts pre-created before Nov 30
-- ✅ All posts support email blasts or real events
-- ✅ 80%+ of visuals generated with AI (no bottlenecks)
-- ✅ Clear CTAs driving RSVP and donations
+- ✅ Sojourner validation content ASAP
+- ✅ Discord growth via shirt contest
+- ✅ Real photos (not AI) for box locations
+- ✅ Vendor spotlights for all partners
+- ✅ Comedy/authentic vibes (crane game)
 
 **Engagement Goals:**
 - 500+ combined likes per post
 - 50+ comments per post
 - 20+ shares per post
+- 50+ new Discord members (shirt contest)
 - 100+ new RSVPs from social
 
 **Business Goals:**
@@ -474,5 +537,5 @@ Slide 6: ✅ Final Checklist
 
 ---
 
-**Last Updated:** 2025-11-20
-**Next Update:** After each post creation batch
+**Last Updated:** 2025-11-22 (Evening - Major revision post-agenda review)
+**Next Update:** After each batch of posts created/posted
