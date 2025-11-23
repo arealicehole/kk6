@@ -3,6 +3,97 @@
 
 ---
 
+## 2025-11-22 (EVENING) - AGENDA REVIEW + CRITICAL DATE CORRECTIONS 📊
+
+### ✅ COMPLETED TODAY:
+- Comprehensive `/kk6-agenda` review and corrections
+- POST #6 slides reviewed and approved (5-slide Black Friday carousel)
+- September's Bar flyer delivery (after 9pm tonight)
+
+### 🔴 CRITICAL CORRECTIONS TO TRACKING:
+- **ALL FACEBOOK CALENDAR DAYS OFF BY 1** - Fixed all day-of-week labels (Sat-Fri)
+- **BOXES STATUS:** 2 PLACED (Ginza, Fancy Pets), 1 unassembled ready for Amarillin
+- **BOX DEPLOYMENT PLAN:** Smoke shops Sunday Nov 23, remaining boxes Mon/Tue
+- **FACEBOOK STRATEGY:** Using Option C (Event Page + existing groups), NOT creating new Group
+- **SEREN INTERVIEW:** Already completed Nov 21 (originally scheduled with Berkeley)
+- **NIRVANA RESPONDED:** 9 stores confirmed via conversation with Max
+- **SPECIAL K RESPONDED:** Wants $600-900, said "let us know what we can help with" - have ~5 pieces
+
+### 📋 DECISIONS MADE:
+- POST #6 approved - needs manual date adjustment (Black Friday is Nov 29 Sat, carousel says Nov 28)
+- Add video clip from Seren interview to POST #6 carousel
+- Facebook Option C: Optimize Event Page, post in existing cannabis groups (not creating new Group)
+- Game name correction: It's "Ring Toss" not "Bong Pong"
+- Location correction: "Amarillin" (not "Amaranth") in Apache Junction
+- Boxes content post (POST #3) can move to Tue/Wed after boxes placed
+- Need meetings this week: Event itinerary + ring toss game planning
+
+### 🎨 NEW VENDORS CONFIRMED:
+- Lost My Marbles (OG Skunk) - Vendor booth
+- Holy Smokes - Vendor booth
+- Trapper Dan (clothing) - Vendor booth
+
+### 📦 VENDOR STATUS UPDATES:
+- Greek Glass = sponsor only (no vendor booth)
+- HCQQ = sponsor only (no vendor booth)
+- Special K = in negotiation ($600-900 ask, ~5 pieces available)
+- Cherry Bomb = need to circle back for confirmation
+- Brian Jacobs = likely no
+- Nirvana = 9 stores confirmed via Max conversation
+
+### 🎁 NEW ACTIVATION - TRAPPER DAN SHIRT DESIGN CONTEST:
+- Bot for designing KK6 shirts
+- ~20 generations so far
+- 12 long sleeves on hand
+- Winner gets free shirt (11 remaining for sale/giveaway)
+
+### 💰 REVENUE CONFIRMED:
+- 10% of food sales at Ginza for KannaKrew section
+
+### 📁 KEY FILES TO REVIEW:
+- creative/social/POST_06_images/ - Black Friday carousel (needs date adjustment: Nov 29 not Nov 28)
+- Need video clip extracted from Seren interview for POST #6 carousel
+
+### 🔴 IMMEDIATE ACTIONS (TONIGHT/TOMORROW):
+1. ✅ Deliver flyers to September's Bar (tonight after 9pm)
+2. Deploy 1 unassembled box to Amarillin
+3. Adjust POST #6 dates (Black Friday = Nov 29 Sat)
+4. Extract video clip from Seren interview
+5. Review and schedule remaining social posts
+6. Hit smoke shops with boxes Sunday Nov 23
+7. Identify existing Facebook cannabis groups to post in
+
+---
+
+## 2025-11-22 (MORNING) - TASK TRACKER UPDATED WITH FACEBOOK STRATEGY 📘
+
+### ✅ TASK_TRACKER.md UPDATED
+
+**What Changed:**
+1. Added Facebook Event/Group 3-Hour Quick Start to BLOCKING TASKS
+2. Added comprehensive FACEBOOK section (197 lines) with:
+   - 3-hour quick start breakdown (9 tasks)
+   - Daily Facebook Group content calendar (Nov 22 - Dec 6)
+   - Gamification tactics (5 tactics)
+   - Facebook Ads campaign structure (2 stages)
+   - Cannabis compliance checklist
+   - KPIs to track weekly
+3. Updated WEEK 2, WEEK 3, WEEK 4 sections with Facebook tasks
+4. Marked Facebook strategy research as DONE (Nov 21)
+5. Marked POST #6 regeneration as DONE (Nov 21)
+
+**Impact:**
+- `/kk6-agenda` command will now include all Facebook strategy tasks
+- `/kk6-status` command will show Facebook work as critical
+- All slash commands now have complete picture of workload
+
+**Next Actions:**
+1. Review updated TASK_TRACKER.md
+2. Execute 3-hour Facebook quick start TODAY (Nov 22)
+3. Launch Facebook Ads Nov 23 (tomorrow)
+
+---
+
 ## 2025-11-21 (EVENING) - EMAIL BLAST 100% COMPLETE! 🎉🚀
 
 ### 📍 CURRENT STATUS - WHERE WE ARE NOW
