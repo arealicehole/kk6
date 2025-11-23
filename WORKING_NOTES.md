@@ -3,6 +3,31 @@
 
 ---
 
+## 2025-11-23 (MORNING) - FACEBOOK EVENT POSTS + NEW RSVP 📱
+
+### ✅ COMPLETED TODAY:
+- September's Bar flyer delivery ✅ (completed last night)
+- New RSVP: Trevor Meyer logged (16 total RSVPs now)
+- Facebook Event Page: Created + pinned box locations post
+- Facebook Event Page: Posted "2 weeks out" hype update with past event video
+- Both Facebook posts live on Event Page
+
+### 📋 DECISIONS MADE:
+- Facebook pinned post includes "Live Now" (2 locations) + "Coming This Week" (remaining locations)
+- Instructed users to bookmark pinned post for live updates as boxes deploy
+- Used real KK footage for hype post (better than generated graphic)
+
+### 📁 KEY FILES UPDATED:
+- communications/KK6_FORM_SUBMISSIONS_TRACKER.md - Trevor Meyer added (16 RSVPs total)
+- Facebook Event Page - 2 new posts (pinned box locations + 2-week countdown)
+
+### 🔴 NEXT IMMEDIATE ACTIONS:
+1. Edit Sojourner "We Beat Corporations" video (60-90s) - due tonight 7pm
+2. Deploy boxes to smoke shops (Sunday afternoon)
+3. Update Facebook pinned post as new box locations go live
+
+---
+
 ## 2025-11-22 (EVENING) - AGENDA REVIEW + CRITICAL DATE CORRECTIONS 📊
 
 ### ✅ COMPLETED TODAY:

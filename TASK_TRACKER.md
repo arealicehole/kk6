@@ -1,6 +1,6 @@
 # KANNA KICKBACK 6 - TASK TRACKER
-**Last Updated:** 2025-11-22 (Evening - Agenda review corrections)
-**Days Until Event:** 14
+**Last Updated:** 2025-11-23 (Morning - FB Event posts)
+**Days Until Event:** 13
 
 🔴 = CRITICAL | 🟡 = HIGH PRIORITY | 🟢 = MEDIUM | ⚪ = LOW
 
@@ -21,10 +21,10 @@
 | ✅ DONE | Order flyers (1,000) | Team | Nov 18 | ✅ Ordered Nov 18 - RECEIVED Nov 20 |
 | ✅ DONE | **Attend Cinnamon Event with flyers** | | Nov 21 | ✅ Same as Nirvana event, didn't attend |
 | ✅ DONE | **Attend Nirvana Event with flyers** | | Nov 21 | ✅ Same event, didn't attend |
-| 🔴 TODO | **Deliver flyers to September's Bar** | | Nov 22 | Sat Nov 22 after 9pm (20min drive) |
+| ✅ DONE | **Deliver flyers to September's Bar** | | Nov 22 | ✅ Completed Nov 22 after 9pm |
 | 🔴 TODO | Create donation boxes (10-15) | | Nov 11 | 2 PLACED (Ginza, Fancy Pets), 1 unassembled ready for Amrahlynn's Watch Repair |
 | 🔴 TODO | Send pinata design to vendor | Gilbert | Nov 10 | Ornament design + logo specs |
-| 🔴 TODO | **Facebook Event/Group 3-Hour Quick Start** | Team | Nov 22 | Using OPTION C (Event Page + existing groups, NOT creating new Group) |
+| ✅ DONE | **Facebook Event/Group 3-Hour Quick Start** | Team | Nov 22 | ✅ Event Page posts live (pinned box locations + 2-week hype) |
 
 ---
 
