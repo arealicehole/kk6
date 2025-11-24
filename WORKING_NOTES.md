@@ -3,6 +3,211 @@
 
 ---
 
+## 2025-11-24 (2AM SESSION) - SOJOURNER VIDEO SCHEDULED FOR TODAY 11AM 🚀
+
+### ✅ COMPLETED THIS SESSION:
+- **Sojourner video scheduled on Postiz** ✅ DONE
+  - Instagram: @kannakrew (Reel format)
+  - Facebook: KannaKrew page
+  - **Scheduled for:** Monday, Nov 24 at 11:00 AM MST (TODAY - 9 hours from now)
+  - **Post IDs:** cmid01mxh0002g47x7hw0hu9m (Instagram), cmid01ne90003g47x4mo0jvy9 (Facebook)
+  - **Video:** `C:\Users\figon\OneDrive\Kk6\Sojourner Center interview\v3_advanced\SojournersAnchor.mp4` (59 MB, 1:22)
+
+### 📋 CAPTION COPY FINALIZED:
+- **Created:** `creative/social/SOJOURNER_VIDEO_CAPTION_COPY.md`
+- **Instagram version:** Short, punchy, with hashtags
+  - Hook: "You've outdone corporations" 🙌
+  - History: $4,200 → $5,500 → $6,500 → ???
+  - 3 CTAs: Donate toy, come to KK6, volunteer with Sojourner
+  - Hashtags: #KannaKickback #SojournerCenter #PhoenixAZ
+- **Facebook version:** Longer, more story-driven
+  - Full Seren quote
+  - Partnership backstory (someone in Krew needed help)
+  - Same 3 CTAs with more context
+
+### 📅 POSTING SCHEDULE RESEARCH:
+- **Created:** `creative/social/SOJOURNER_VIDEO_POSTING_SCHEDULE.md`
+- **Researched optimal times:**
+  - Instagram Reels: 11 AM - 2 PM (lunch hour sweet spot), Monday best day
+  - Facebook Video: 11 AM - 3 PM MST optimal window
+  - Source: 2025 research (Sprout Social, Later.com analysis of 975K+ Reels)
+- **Recommendation:** 11:00 AM MST on Monday (SELECTED)
+  - Peak engagement window for both platforms
+  - First 30 min - 2 hours critical for algorithm
+  - Monday = best day for Reels engagement
+
+### 🔧 TECHNICAL NOTES:
+- **New Postiz URL:** `25aq1sfsk998h31hce0tk0lnlo.ingress.akash-palmito.org`
+  - Updated all documentation files (batch sed update)
+  - Old URL: `09rh4o8cch8a1f20mjtk31hec4`
+- **Video upload:** Successfully uploaded 59MB file via Postiz API (~15 seconds)
+- **Post type:** Using "post" type (not "reel") for API compatibility
+- **Integration IDs:**
+  - Instagram: `cmi02m1w80003n37s5brj1yys`
+  - Facebook: `cmi02mtkf0005n37sxbm8so2h`
+
+### 🚨 CRITICAL ERROR CAUGHT & FIXED:
+- **Initial mistake:** Scheduled for Nov 25 instead of Nov 24
+- **User caught it:** "wait yo, its monday 11/24/25 for th sojourners. u need to make sure its that"
+- **Fix:** Deleted wrong posts, updated JSON, rescheduled correctly
+- **Status:** Posts now scheduled for TODAY (Monday Nov 24) at 11:00 AM MST ✅
+
+### 🗑️ CLEANUP:
+- **Deleted Nirvana posts from Postiz** (not visible in UI but existed in API)
+  - Instagram: `cmi51q7li000bix80ov4wzy6k`
+  - Facebook: `cmi51q82n000cix80m7oocp95`
+  - **Reason:** Will reschedule later (not immediately)
+
+### 📁 NEW FILES CREATED:
+1. `creative/social/SOJOURNER_VIDEO_CAPTION_COPY.md` - Final caption copy for both platforms
+2. `creative/social/SOJOURNER_VIDEO_POSTING_SCHEDULE.md` - Research + optimal timing analysis
+3. `creative/social/postiz_schedule_payload.json` - API payload for scheduling
+4. `creative/social/POSTIZ_SCHEDULE_INSTRUCTIONS.md` - Manual backup instructions
+
+### 🔴 NEXT ACTIONS (Mon AM):
+1. **Monitor posts at 11:00 AM** - Verify they publish successfully
+2. **Pin first comment on Instagram:** Box locations + RSVP link
+3. **Share to Stories (1-2pm):** Repost Reel with link sticker
+4. **Check engagement every 30 min for first 2 hours** (critical window)
+5. **Respond to comments immediately** - especially "where can I donate?" questions
+
+### 🎯 SUCCESS METRICS (Track First 24 Hours):
+**Instagram Goals:**
+- 1,000+ views
+- 100+ likes
+- 50+ shares (Stories/DMs)
+- 30+ comments
+- 10+ donation inquiries
+
+**Facebook Goals:**
+- 500+ views
+- 50+ reactions
+- 20+ shares
+- 15+ comments
+
+### 💭 STRATEGIC NOTES:
+- **Content flow:** Sojourner video drops first → Box delivery stream next → Stream clips for additional posts
+- **Validation theme:** "We beat corporations" positions KannaKrew as serious community force
+- **Volunteer CTA included:** Clip 5 volunteer pitch integrated into captions
+- **Spelling correction applied:** "KannaKrew" (with K's) in all written copy
+- **Optimal timing based on 2025 research:** Monday lunch hour = peak engagement
+
+### 📊 TIMEZONE REFERENCE:
+- **Arizona MST = UTC-7** (year-round, no daylight saving)
+- **11:00 AM MST = 6:00 PM UTC (18:00)** (used for API scheduling)
+
+---
+
+## 2025-11-24 (LATE NIGHT 2AM) - VIDEO EDITING COMPLETE + BOX DELIVERY ROUTE PLANNED 🎬📦
+
+### ✅ COMPLETED TODAY:
+- Sojourner video editing session ✅ COMPLETE
+- No boxes delivered Sunday (as planned)
+
+### 📋 PLAN FOR BOX DELIVERY:
+- **WHEN:** This week (Mon/Tue)
+- **WHO:** Gilbert + crew member
+- **ROUTE:** Full box delivery route hitting all remaining locations (except Nirvana locations)
+- **SPECIAL:** Planning to stream the delivery route
+- **CONTENT OPPORTUNITY:** Pull up on at least one KannaKrew OG, smoke together, capture candid footage
+  - Topic ideas: KannaKickback history, why we do this, origin story
+  - Tone: Casual, authentic, community-focused
+
+### 🎥 CONTENT IDEA - DELIVERY STREAM + OG INTERVIEW:
+- Live stream or record box delivery route
+- Stop at KannaKrew OG's location during route
+- Smoke session + candid conversation about:
+  - KannaKickback history (now in year 6)
+  - Why the charity matters (Sojourner Center story)
+  - Growth from KK3 ($4,200) → KK4 ($5,500) → KK5 ($6,500) → KK6 (target: beat KK5)
+  - Community building through cannabis culture
+- Raw, unscripted, real community vibes
+
+### 🔴 REVISED CONTENT PLAN:
+
+**SOJOURNER VIDEO - DROP IMMEDIATELY:**
+- Post edited Sojourner video ASAP (Mon AM or whenever best engagement time)
+- This gives feed content while delivery stream is live
+- "We Beat Corporations" video is ready to go
+
+**BOX DELIVERY STREAM:**
+- Stream the full box delivery route (Mon/Tue)
+- Pull up on KannaKrew OG during route for candid smoke + interview
+- Record entire stream for editing later
+- Use stream recordings to make clips (like we did with Sojourner, but better flow)
+- Content topics: KK history, why Sojourner matters, community building
+
+**CONTENT FLOW:**
+1. Drop Sojourner video → Gets engagement on feed
+2. Stream delivery route → Real-time community engagement
+3. Edit stream clips → POST #4, Stories, behind-the-scenes content
+4. OG interview clips → Evergreen KK history content
+
+### 🔴 NEXT IMMEDIATE ACTIONS:
+1. Post Sojourner video (Mon AM or best time)
+2. Execute box delivery route + stream (Mon/Tue this week)
+3. Record OG interview during delivery
+4. Update Facebook pinned post as boxes go live
+5. Edit stream clips into social posts
+
+### 💭 STRATEGIC NOTES:
+- Sojourner video = validation content (already complete)
+- Delivery stream = authentic community storytelling (raw, real-time)
+- OG interview = evergreen KK history content (reusable for years)
+- Shows ground game effort + real relationships (not just Instagram posts)
+- Stream recordings = source material for multiple posts (efficient content creation)
+
+---
+
+## 2025-01-24 (EVENING) - SOJOURNER VIDEO COMPLETE + FFMPEG WORKFLOW ANALYSIS 🎬
+
+### ✅ COMPLETED TODAY:
+- Sojourner Center interview video with subtitles ✅ FINAL
+- Comprehensive FFmpeg workflow analysis document created
+- Final video: V3_ADVANCED_MOBILE_FINAL_WITH_SUBS_CENTER2.mp4 (59 MB, 1:22.64)
+
+### 📋 VIDEO SPECS:
+- Resolution: 1080x1920 (9:16 vertical format)
+- Subtitles: Center-center positioned, bold, 18.5 font size
+- Captions: 58 total, 3-5 words each, breaking at sentence boundaries
+- Spelling corrections: Kanna Krew (not Cana crew), Seren (not Sarin)
+
+### 📁 KEY FILES CREATED:
+- `C:/Users/figon/OneDrive/Kk6/Sojourner Center interview/FFMPEG_WORKFLOW_ANALYSIS.md`
+  - Comprehensive post-mortem analysis
+  - Error analysis and root causes
+  - Recommendations for future agentic FFmpeg workflows
+  - Alignment value reference chart (Alignment=10 for center-center)
+  - Python script templates for subtitle processing
+  - Knowledge base entries for proven approaches
+
+### 🔧 TECHNICAL LEARNINGS:
+- **Alignment values**: Use Alignment=10 (not 5) for center-center with `subtitles` filter
+- **SRT vs ASS**: SRT with force_style has better playback compatibility than custom ASS files
+- **Test clip workflow**: Extract 5-second clips for fast parameter testing (10x faster iteration)
+- **Smart grouping**: Priority hierarchy for caption breaks: periods > max length > other punctuation
+- **UTF-8 encoding**: Always set `PYTHONIOENCODING=utf-8` for Python text processing
+
+### 📊 WORKFLOW METRICS:
+- Total time: 19 minutes (target: 5 minutes with optimizations)
+- Encoding attempts: 4 (target: 1-2 with test clips)
+- Final success rate: 2/3 files playable (67%, target: 95%)
+- User satisfaction: ✅ Mission accomplished
+
+### 🎯 PROCESS IMPROVEMENTS IDENTIFIED:
+1. Pre-flight checklist: Validate current state before building solutions
+2. Test clip extraction: Fast iteration on 5-second clips before full encodes
+3. Alignment value reference: Document which values work for each filter type
+4. Python template standardization: UTF-8 encoding, consistent error handling
+5. Playback compatibility testing: Test outputs before delivering
+
+### 🔴 NEXT STEPS FOR VIDEO:
+1. Video ready for social media posting
+2. Can extract 60-90 second clip for Facebook/Instagram if needed
+3. Location: `C:/Users/figon/OneDrive/Kk6/Sojourner Center interview/v3_advanced/`
+
+---
+
 ## 2025-11-23 (MORNING) - FACEBOOK EVENT POSTS + NEW RSVP 📱
 
 ### ✅ COMPLETED TODAY:
@@ -1450,7 +1655,7 @@ Website Form → Resend (receives) → Pipedream Webhook → SMTP to mail.kannak
 
 **Postiz API Details:**
 - **API Key:** Retrieved from `Organization.apiKey` table via Supabase SQL
-- **Base URL:** `https://09rh4o8cch8a1f20mjtk31hec4.ingress.akash-palmito.org/api/public/v1`
+- **Base URL:** `https://25aq1sfsk998h31hce0tk0lnlo.ingress.akash-palmito.org/api/public/v1`
 - **Rate Limit:** 30 requests/hour
 - **Images Uploaded:** All 5 carousel slides stored in Postiz media library
 - **Timezone:** Arizona (UTC-7, no DST) - confirmed for future scheduling

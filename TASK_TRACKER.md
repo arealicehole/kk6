@@ -1,6 +1,6 @@
 # KANNA KICKBACK 6 - TASK TRACKER
-**Last Updated:** 2025-11-23 (Morning - FB Event posts)
-**Days Until Event:** 13
+**Last Updated:** 2025-11-24 (2AM - Sojourner video scheduled)
+**Days Until Event:** 12
 
 🔴 = CRITICAL | 🟡 = HIGH PRIORITY | 🟢 = MEDIUM | ⚪ = LOW
 
@@ -74,7 +74,7 @@
 | ✅ DONE | **Process Sojourner Center interview** | Claude | Nov 21 | ✅ COMPLETE - Strategy docs created, 4 content pieces planned (Nov 22-27) |
 | ✅ DONE | **Research Facebook Event/Group Strategy** | Claude | Nov 21 | ✅ 54KB comprehensive guide created - See communications/FACEBOOK_EVENT_GROUP_STRATEGY.md |
 | 🔴 TODO | **Complete Facebook 3-Hour Quick Start** | Team | Nov 22 | Event Page optimization + Group creation - CRITICAL FOR ADS |
-| 🔴 TODO | **Create short-form video (60-90s)** | Gilbert | Nov 23 | "We Beat Corporations" - Edit 6 video clips into ONE video |
+| ✅ DONE | **Create short-form video (60-90s)** | Gilbert | Nov 23 | ✅ "We Beat Corporations" complete - 1:22 video with subtitles |
 | ✅ DONE | **Regenerate POST #6 (5 slides)** | Claude | Nov 21 | ✅ Black Friday Super-Carousel generated - READY FOR REVIEW at creative/social/POST_06_images/ |
 | 🔴 TODO | **Create Story series (5-7 parts)** | Gilbert + Claude | Nov 26 | Short clips from Sojourner interview |
 | 🔴 TODO | **Post Facebook long-form** | Claude | Nov 27 | "Why We Partner with Sojourner" emotional piece |
@@ -112,6 +112,7 @@
 ### 🔴 CRITICAL
 | Status | Task | Owner | Due | Notes |
 |--------|------|-------|-----|-------|
+| ✅ DONE | **Schedule Sojourner "We Beat Corporations" video** | Claude | Nov 24 | ✅ SCHEDULED - Instagram + Facebook, Mon Nov 24 11:00 AM MST |
 | 🔴 TODO | **Launch Facebook Ads Stage 1** | Team | Nov 23 | Event RSVP campaign - $5-10/day, 21+ Phoenix audience |
 | 🔴 TODO | **Daily Facebook Group posts (1-2/day)** | Moderator | Nov 23-29 | Follow content calendar from strategy doc |
 | 🔴 TODO | Social posts #9-13 | | Nov 23-29 | Ramp up frequency |
