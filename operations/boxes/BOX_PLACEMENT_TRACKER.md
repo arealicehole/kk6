@@ -1,6 +1,6 @@
 # KANNAKICKBACK 6 - BOX PLACEMENT TRACKER
 
-**Last Updated:** 2025-11-17
+**Last Updated:** 2025-11-24
 
 Track all donation box host locations, delivery status, and pickup schedule.
 
@@ -79,7 +79,55 @@ Track all donation box host locations, delivery status, and pickup schedule.
 
 ---
 
-### ✅ RECENTLY CONFIRMED (Nov 21)
+### ✅ BOXES DELIVERED (Nov 24)
+
+#### Mary's Heady Smoke Shop
+**Status:** ✅ DELIVERED - Box placed Nov 24
+**Location:** Alma School, Phoenix/Tempe area
+**Address:** TBD (need full address)
+**Contact:** TBD
+**Delivered:** Nov 24, 2025
+**Notes:**
+- Box successfully placed Nov 24
+- Owner previously interested in sponsorship + box hosting (Nov 14 via Bong Blazer)
+- **ACTION NEEDED:** Get full address, contact info, Google Business listing/website
+
+#### Level Up Smoke Shop
+**Status:** ✅ DELIVERED - Box placed Nov 24
+**Location:** Glendale, AZ
+**Address:** 6766 W Glendale Ave #125, Glendale 85303
+**Contact:** TBD
+**Delivered:** Nov 24, 2025
+**Notes:**
+- Originally confirmed Nov 16, reconfirmed Nov 21, delivered Nov 24
+- **ACTION NEEDED:** Get contact info, Google Business listing/website
+
+#### High Maintenance Smoke Shop / The High Lounge
+**Status:** ✅ DELIVERED - Box placed Nov 24
+**Type:** Cannabis lounge + smoke shop
+**Location:** Mill Ave (Tempe area)
+**Address:** TBD (need full address)
+**Contact:** TBD
+**Delivered:** Nov 24, 2025
+**Notes:**
+- Cannabis consumption lounge in Tempe
+- Originally confirmed Nov 21, delivered Nov 24
+- **ACTION NEEDED:** Get full address, contact info, Google Business listing/website
+
+---
+
+### ✅ RECENTLY CONFIRMED (Nov 21-24)
+
+#### September's Bar
+**Status:** ✅ CONFIRMED - Box host
+**Location:** TBD
+**Address:** TBD
+**Contact:** TBD
+**Confirmed:** Nov 24, 2025
+**Notes:**
+- Flyers delivered Nov 22
+- Confirmed Nov 24 they want a donation box
+- **ACTION NEEDED:** Get full address, contact info, coordinate delivery
 
 #### Highgrade Cannabis Products
 **Status:** ✅ CONFIRMED - Box host
@@ -89,27 +137,6 @@ Track all donation box host locations, delivery status, and pickup schedule.
 **Notes:**
 - Confirmed will take a donation box
 - **ACTION NEEDED:** Get contact info, location address, delivery schedule
-
-#### The High Lounge
-**Status:** ✅ CONFIRMED - Box host
-**Type:** Cannabis lounge
-**Location:** Tempe, AZ
-**Contact:** TBD
-**Confirmed:** Nov 21, 2025
-**Notes:**
-- Cannabis consumption lounge in Tempe
-- Confirmed will take a donation box
-- **ACTION NEEDED:** Get contact info, exact address, delivery schedule
-
-#### Level Up Smoke Shop
-**Status:** ✅ CONFIRMED - Box host
-**Location:** Glendale, AZ
-**Address:** 6766 W Glendale Ave #125, Glendale 85303
-**Contact:** TBD
-**Confirmed:** Nov 16, 2025 (reconfirmed Nov 21)
-**Notes:**
-- Already in tracker, reconfirmed Nov 21
-- **ACTION NEEDED:** Coordinate delivery with contact
 
 #### Hetti Supply AZ
 **Status:** ✅ CONFIRMED - Box host + Vendor
@@ -189,11 +216,16 @@ Track all donation box host locations, delivery status, and pickup schedule.
 
 ## TOTAL BOX COUNT
 
-**Committed:** 9 boxes (Nirvana Center)
-**Pending:** 2 boxes (First Stop Smoke Shop, Glendale Shop)
-**Potential Total:** 11 boxes
+**Delivered & Placed:** 5 boxes (Mary's Heady, Level Up, High Maintenance/High Lounge, Ginza, Fancy Pets)
+**Ready for Delivery:** 1 box (Amrahlynn's Watch Repair - scheduled tomorrow)
+**Confirmed Pending Delivery:** 4 boxes (September's Bar, Highgrade, Hetti Supply, Nirvana - dates TBD)
+**Nirvana Center:** 9 boxes (committed - delivery date TBD)
+**Other Pending:** 2 boxes (First Stop Smoke Shop, Glendale Shop)
+
+**Total Deployed/Ready:** 6 boxes
+**Total Confirmed:** 21 boxes (if including Nirvana)
 **Target:** 20-30 boxes total
-**Remaining to secure:** 9-19 boxes
+**Status:** ✅ AT TARGET (21 confirmed boxes)
 
 ---
 

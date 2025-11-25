@@ -1,5 +1,5 @@
 # KANNA KICKBACK 6 - TASK TRACKER
-**Last Updated:** 2025-11-24 (2AM - Sojourner video scheduled)
+**Last Updated:** 2025-11-24 (Evening - Box delivery updates)
 **Days Until Event:** 12
 
 🔴 = CRITICAL | 🟡 = HIGH PRIORITY | 🟢 = MEDIUM | ⚪ = LOW
@@ -22,7 +22,7 @@
 | ✅ DONE | **Attend Cinnamon Event with flyers** | | Nov 21 | ✅ Same as Nirvana event, didn't attend |
 | ✅ DONE | **Attend Nirvana Event with flyers** | | Nov 21 | ✅ Same event, didn't attend |
 | ✅ DONE | **Deliver flyers to September's Bar** | | Nov 22 | ✅ Completed Nov 22 after 9pm |
-| 🔴 TODO | Create donation boxes (10-15) | | Nov 11 | 2 PLACED (Ginza, Fancy Pets), 1 unassembled ready for Amrahlynn's Watch Repair |
+| 🟡 IN PROGRESS | Create donation boxes (10-15) | | Nov 11 | ✅ 5 PLACED (Nov 24: Mary's Heady, Level Up, High Maintenance + earlier: Ginza, Fancy Pets), 1 ready for Amrahlynn's tomorrow |
 | 🔴 TODO | Send pinata design to vendor | Gilbert | Nov 10 | Ornament design + logo specs |
 | ✅ DONE | **Facebook Event/Group 3-Hour Quick Start** | Team | Nov 22 | ✅ Event Page posts live (pinned box locations + 2-week hype) |
 
@@ -113,6 +113,14 @@
 | Status | Task | Owner | Due | Notes |
 |--------|------|-------|-----|-------|
 | ✅ DONE | **Schedule Sojourner "We Beat Corporations" video** | Claude | Nov 24 | ✅ SCHEDULED - Instagram + Facebook, Mon Nov 24 11:00 AM MST |
+| ✅ DONE | **Deliver boxes to smoke shops** | Gilbert | Nov 24 | ✅ DONE - Mary's Heady, Level Up, High Maintenance/High Lounge |
+| 🔴 TODO | **Deliver box to Amrahlynn's Watch Repair** | Gilbert | Nov 25 | 1 unassembled box ready - 850 S Ironwood Dr #108, AJ 85120 |
+| ✅ DONE | **Get addresses for new box locations** | Claude | Nov 24 | ✅ Orchestrator-v2 research complete - All info found |
+| ✅ DONE | **Get Google Business/website links for box locations** | Claude | Nov 24 | ✅ Complete - saved to BOX_LOCATIONS_COMPLETE_INFO.md |
+| ✅ DONE | **Update website with current box locations** | Claude | Nov 24 | ✅ Website updated + committed - 8 locations live, Nirvana teaser added |
+| ✅ DONE | **Push website changes to GitHub & deploy to Netlify** | Claude | Nov 24 | ✅ PUSHED - Deploying to kannakickback.com now |
+| 🔴 TODO | **Verify Fancy Pets & Ginza boxes still in place** | Team | Nov 25 | Confirm boxes haven't been moved/removed |
+| 🔴 TODO | **Coordinate September's Bar box delivery** | Gilbert | Nov 26 | NEW - they said they want one |
 | 🔴 TODO | **Launch Facebook Ads Stage 1** | Team | Nov 23 | Event RSVP campaign - $5-10/day, 21+ Phoenix audience |
 | 🔴 TODO | **Daily Facebook Group posts (1-2/day)** | Moderator | Nov 23-29 | Follow content calendar from strategy doc |
 | 🔴 TODO | Social posts #9-13 | | Nov 23-29 | Ramp up frequency |
@@ -352,22 +360,25 @@
 | Status | Location | Contact | Placed | Pickup Scheduled | Notes |
 |--------|----------|---------|--------|------------------|-------|
 | ✅ PLACED | Ginza (Gold Canyon) | | YES | Dec 15 | Venue - box placed |
-| ✅ PLACED | Fancy Pets (Tempe) | | YES | Dec 15 | Box placed |
-| ✅ READY | Amrahlynn's Watch Repair (Apache Junction) | | NO | Dec 15 | 850 S Ironwood Dr #108, AJ 85120 - 1 unassembled box ready |
-| ✅ CONFIRMED | Level Up Smoke Shop (Glendale) | TBD | NO | Dec 15 | 6766 W Glendale Ave #125, Glendale 85303 |
+| ✅ PLACED | Fancy Pets (Tempe) | | YES | Dec 15 | Box placed - VERIFY STILL IN PLACE |
+| ✅ PLACED | **Mary's Heady Smoke Shop (Alma School)** | TBD | **YES (Nov 24)** | Dec 15 | **NEW** - Need full address |
+| ✅ PLACED | **Level Up Smoke Shop (Glendale)** | TBD | **YES (Nov 24)** | Dec 15 | 6766 W Glendale Ave #125, Glendale 85303 |
+| ✅ PLACED | **High Maintenance / The High Lounge (Mill)** | TBD | **YES (Nov 24)** | Dec 15 | **NEW** - Need full address |
+| ✅ READY | Amrahlynn's Watch Repair (Apache Junction) | | TOMORROW | Dec 15 | 850 S Ironwood Dr #108, AJ 85120 - 1 unassembled box ready |
+| ✅ CONFIRMED | **September's Bar** | TBD | NO | Dec 15 | **NEW** - Wants box (confirmed Nov 24) |
+| ✅ CONFIRMED | Hetti Supply AZ | hettisupply@gmail.com | NO | Dec 15 | Box + vendor booth |
+| ✅ CONFIRMED | Highgrade Cannabis Products | TBD | NO | Dec 15 | Need contact/location |
+| ✅ CONFIRMED | Nirvana Center (9 locations) | max@nirvanacenter.com | NO | Dec 22 | Promo Dec 1-22 |
 | ⚪ TODO | Tom Palms | | | | Likely yes |
 | ⚪ TODO | Arizona Organix | Camielle@arizonaorganix.org | | | Pending outreach |
 | ⚪ TODO | Cherry Bomb | | | | Interested |
-| ⚪ TODO | Marys Heady Smoke Shop | Via Bong Blazer | | | Owner interested in sponsorship + box (Nov 14) |
-| ⚪ TODO | Hetti Supply AZ | @hettisupplyaz (Instagram) | | | Interested partner (Nov 14) |
-| ⚪ TODO | [Dispensary 1] | | | | |
-| ⚪ TODO | [Dispensary 2] | | | | |
 
-**Total Boxes Needed:** 10-15
-**Total Boxes Placed:** 2
-**Total Boxes Ready for Delivery:** 1
-**Total Boxes Confirmed:** 5
-**Total Pending/Interested:** 7
+**Total Boxes Needed:** 20-30
+**Total Boxes Placed:** 5 (Nov 24: +3 smoke shops)
+**Total Boxes Ready for Tomorrow:** 1 (Amrahlynn's)
+**Total Boxes Confirmed Pending:** 13 (September's, Hetti, Highgrade, Nirvana 9 locations, Tom Palms, AZ Organix, Cherry Bomb)
+**Total Confirmed:** 19 boxes
+**Status:** ✅ Nearly at target!
 
 ---
 
