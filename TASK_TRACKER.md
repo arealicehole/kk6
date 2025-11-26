@@ -389,15 +389,16 @@
 | 1 | Nov 15 | IG/FB | KK6 Grand Announcement | Claude | ✅ PUBLISHED | 5-slide carousel - LIVE on @kannakrew IG + arizona_smokers FB |
 | - | Nov 18 | IG | KannaKlaus vs Krampus | Gilbert | ✅ PUBLISHED | 6-slide carousel (1 image + 5 videos) - Early POST #6 concept |
 | 2 | Nov 21 | IG/FB | Email Blast Tie-In | Claude | ✅ PUBLISHED | IG: 2-slide carousel, FB: 1-slide - "Did You Get The Email?" |
-| 3 | Nov 22 | IG/FB/TT | Box locations | | 🔴 TODO | |
+| 3 | Nov 26 | IG/FB | Box Locations (8 spots) | Claude | ✅ SCHEDULED | 5-slide carousel - SCHEDULED Nov 26 11am IG+FB via Postiz |
+| - | Nov 27 | IG/FB | Menu Reveal | Claude | ✅ SCHEDULED | 2-slide carousel - SCHEDULED Nov 27 6pm IG+FB via Postiz |
 | 4 | Nov 24 | IG/FB/TT | Save the Date / Pinata | | 🔴 TODO | Changed from KannaKlaus reveal to Pinata highlight (old footage) |
-| 5 | Nov 26 | IG/FB/TT | | | 🔴 TODO | |
-| 6 | Nov 29 | IG/FB | Black Friday Teen Gifts | Claude | 🟡 REVIEW | ✅ GENERATED (3 slides) - Awaiting user review before posting |
+| 5 | Nov 28 | IG/FB/TT | | | 🔴 TODO | |
+| 6 | Nov 29 | IG/FB | Black Friday Teen Gifts | Claude | ✅ SCHEDULED | 5-slide carousel - SCHEDULED Nov 29 9am IG+FB via Postiz |
 | 7 | Nov 30 | IG/FB/TT | | | 🔴 TODO | |
-| 8 | Dec 1 | IG/FB/TT | | | 🔴 TODO | |
-| 9 | Dec 2 | IG/FB/TT | | | 🔴 TODO | |
-| 10 | Dec 3 | IG/FB/TT | | | 🔴 TODO | |
-| 11 | Dec 1 | IG/FB | Nirvana Partnership (9 Locations) | Claude | 🟡 SCHEDULED | ✅ GENERATED (6 slides) - Scheduled Dec 1, 9am AZ - Awaiting Max confirmation on timeline |
+| 8 | Dec 2 | IG/FB/TT | | | 🔴 TODO | |
+| 9 | Dec 3 | IG/FB/TT | | | 🔴 TODO | |
+| 10 | Dec 4 | IG/FB/TT | | | 🔴 TODO | |
+| 11 | Dec 1 | IG/FB | Nirvana Partnership (9 Locations) | Claude | ✅ SCHEDULED | 6 slides regenerated - SCHEDULED Dec 1 10am IG+FB via Postiz |
 | 12 | Dec 4 | IG/FB/TT | | | 🔴 TODO | |
 | 13 | Dec 5 | IG/FB/TT | First Friday Countdown | | 🔴 TODO | |
 | 14 | Dec 6 AM | IG/FB/TT | Event Day Hype | | 🔴 TODO | |
@@ -405,8 +406,8 @@
 
 **SUMMARY:**
 - ✅ Published: 3 posts (POST #1, Krampus, POST #2)
-- 🟡 Pending Review: 2 posts (POST #6, POST #11)
-- 🔴 Still Needed: 10 posts (POST #3-5, #7-10, #12-15)
+- ✅ Scheduled: 4 posts (POST #3 Box Locations, Menu Reveal, POST #6 Black Friday, POST #11 Nirvana)
+- 🔴 Still Needed: 8 posts (POST #4-5, #7-10, #12-15)
 
 ---
 

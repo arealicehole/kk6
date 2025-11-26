@@ -3,7 +3,35 @@
 
 ---
 
-## 2025-11-26 - Menu Print Files Complete + Website Deployed
+## 2025-11-26 (PM) - Social Content Scheduled (4 Posts via Postiz)
+
+### ✅ COMPLETED TODAY:
+- Scheduled POST #3 Box Locations (5 slides) - Nov 26 11am IG+FB
+- Scheduled Menu Reveal (2 slides) - Nov 27 6pm IG+FB
+- Scheduled POST #6 Black Friday (5 slides) - Nov 29 9am IG+FB
+- Regenerated Nirvana slides 3-6 with Kie.ai (festive upgrade to match slides 1-2)
+- Scheduled POST #11 Nirvana Partnership (6 slides) - Dec 1 10am IG+FB
+
+### 📋 DECISIONS MADE:
+- Toy drive extended to Dec 19 (4 extra days past the Dec 6 party)
+- Nirvana caption includes "If you miss the party, you miss the best part" messaging
+- Free pre-roll promo prominently featured in Nirvana slides 2 & 6
+- Carousel order for Box Locations: Event flyer → Hero → Locations → Teaser → CTA
+
+### 📁 KEY FILES CREATED/UPDATED:
+- `creative/social/images/POST_03/` - 5 new carousel images generated via Kie.ai, compressed for Postiz
+- `creative/social/images/POST_11_NIRVANA/slide_3-6.png` - Regenerated with festive holiday style
+- `creative/social/POST_03_BOX_LOCATIONS_FINAL.md` - Final captions for IG and FB
+
+### 🔴 NEXT IMMEDIATE ACTIONS:
+- Review Black Friday post before Nov 29 (user noted wanting edits)
+- Verify boxes still in place at all locations
+- Deliver box to Amrahlynn's Watch Repair
+- Deliver box to September's Bar
+
+---
+
+## 2025-11-26 (AM) - Menu Print Files Complete + Website Deployed
 
 ### ✅ COMPLETED TODAY:
 - Finalized 9x11 print files for corrugated plastic menus (5 double-sided)
