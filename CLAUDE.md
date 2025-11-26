@@ -22,6 +22,7 @@ Help me plan the Kanna Kickback 6 for the Kanna Krew
 │   └── /assets                  # KannaKlaus character, logos, reusable graphics
 │
 ├── /operations                  # Logistics and execution
+│   ├── MENU_TRACKER.md          # Menu items, pricing, design brief, print tracking
 │   ├── /boxes                   # Donation box designs, placement tracking
 │   ├── /vendors                 # Vendor commitments, booth assignments, contacts
 │   └── /budget                  # Expense tracking, receipts, financial docs
@@ -61,6 +62,19 @@ Help me plan the Kanna Kickback 6 for the Kanna Krew
   - Contact form messages
 - Remove spam/test submissions - keep only real data
 - **ALWAYS check and update this tracker** when processing emails from forms
+
+### MENU_TRACKER.md - Menu & Food Subproject
+- **Location:** `operations/MENU_TRACKER.md`
+- **UPDATE** when menu items, pricing, or design status changes
+- Single source of truth for all menu-related work:
+  - Approved menu items (entrees + sushi rolls)
+  - Removed items and reasons
+  - Pricing (from Ginza)
+  - Design brief for digital + print menus
+  - Task checklist for menu subproject
+  - Social post copy for menu reveal
+  - Generation prompts for AI image creation
+- **Reference this doc** for any menu design or printing tasks
 
 ### Document Relationships:
 ```
@@ -103,6 +117,9 @@ WORKING_NOTES.md     →  The "now" (daily updates and changes)
 - Brand colors and fonts
 - **Naming:** `[ASSET_NAME]_[VERSION].png/svg`
 - Example: `KANNAKLAUS_CHARACTER_V1.png`
+
+### /operations
+- **MENU_TRACKER.md** - Complete menu subproject tracking (items, pricing, design brief, tasks)
 
 ### /operations/boxes
 - Donation box design files

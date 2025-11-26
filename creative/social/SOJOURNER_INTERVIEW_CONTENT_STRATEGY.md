@@ -853,24 +853,28 @@ P.S. Full interview video, donation guidelines, and more on our Instagram. Follo
 
 ---
 
-## 📅 PROPOSED CONTENT CALENDAR (Nov 22 - Dec 6)
+## 📅 REVISED CONTENT CALENDAR (Nov 24 - Dec 6)
+
+**🔄 STRATEGY CHANGE:** Drop Sojourner video immediately + Stream box delivery route for authentic content
 
 | Date | Content | Platform | Owner | Status |
 |------|---------|----------|-------|--------|
-| **Nov 23 (Sat)** | 🎬 Short-form video (60-90s) "We Beat Corporations" | IG Reels, TikTok, FB | Gilbert + Claude | 🔴 CREATE NOW |
-| **Nov 25 (Mon)** | 🖼️ Carousel (4 slides) "Teens Need Gifts Too" | IG, FB | Claude (visual-creator) | 🔴 CREATE NOW |
-| **Nov 26 (Tue)** | 📱 Story series (5-7 parts) "Meet Sojourner Center" | IG Stories, FB Stories | Gilbert + Claude | 🟡 CREATE SOON |
-| **Nov 27 (Wed)** | 📝 Facebook long-form post "Why We Partner" | FB | Claude | 🟡 CREATE SOON |
-| **Nov 28 (Thu)** | 📧 Email newsletter feature | Email (Resend) | Claude | ⚠️ MAYBE |
-| **Nov 29-30** | 🎥 YouTube video (5-7 min) "The Full Story" | YouTube, FB Watch | Gilbert | ⚠️ MAYBE |
-| **Nov 30** | 🎙️ Podcast episode "Why KK Exists" | Podcast feed | Gilbert + team | ⚪ OPTIONAL |
-| **Dec 1-6** | 🔄 Repurpose content (clips, stories, reminders) | All platforms | Team | 🟢 ONGOING |
+| **Nov 24-25 (Mon AM)** | 🎬 Short-form video (60-90s) "We Beat Corporations" | IG Reels, TikTok, FB | Gilbert + Claude | ✅ EDITED - POST ASAP |
+| **Nov 24-25 (Mon/Tue)** | 📹 **LIVE STREAM: Box delivery route + OG interview** | IG Live, TikTok Live, FB Live | Gilbert + team | 🔴 NEW - STREAM & RECORD |
+| **Nov 25-26** | 🎬 Edit delivery stream clips → POST #4 (Box locations BTS) | IG, FB, TikTok | Gilbert | 🔴 NEW - EDIT FROM STREAM |
+| **Nov 26-27** | 📱 Story series from OG interview clips | IG Stories, FB Stories | Gilbert | 🔴 NEW - CUT FROM STREAM |
+| **Nov 26 (Tue)** | 🖼️ Carousel (4 slides) "Teens Need Gifts Too" | IG, FB | Claude (visual-creator) | 🟡 CREATE IF TIME |
+| **Nov 27 (Wed)** | 📝 Facebook long-form post "Why We Partner" | FB | Claude | 🟡 CREATE IF TIME |
+| **Nov 28 (Thu)** | 📧 Email newsletter feature | Email (Resend) | Claude | ⚠️ OPTIONAL |
+| **Dec 1-6** | 🔄 Repurpose stream clips (Stories, reminders, BTS) | All platforms | Team | 🟢 ONGOING |
 
-**Notes:**
-- Front-load content creation (Nov 22-27) to allow time for event prep (Nov 28 - Dec 6)
-- Short-form content (video + carousel) = highest priority
-- Long-form content (YouTube, podcast) = nice-to-have, not critical
-- Repurpose interview clips throughout week leading up to event
+**🔥 NEW STRATEGY NOTES:**
+- **Sojourner video = POST NOW** (Mon AM or best engagement time) - Already complete, ready to drop
+- **Delivery stream = PRIMARY CONTENT SOURCE** - Live real-time engagement + recordable for editing
+- **OG interview clips = EVERGREEN CONTENT** - KK history, community stories, why we do this
+- **Stream recordings = MULTIPLE POSTS** - Efficient: 1 stream → POST #4 + Stories + BTS clips
+- **Better flow than Sojourner edit** - Learn from FFmpeg workflow, faster editing with better results
+- **Authentic storytelling** - Raw community vibes, not staged/scripted
 
 ---
 

@@ -138,8 +138,11 @@ Someone in the Krew was directly helped by them. Personal connection drives the 
 **Option 3:** Hats instead of shirts (dress code friendly)
 
 ### Food:
-- Orange chicken confirmed
-- Menu needs Maggie (Ginza owner) approval
+- ✅ **Menu approved by Maggie (Nov 10)** - See `operations/MENU_TRACKER.md` for full menu
+- 6 entrees: Orange Chicken/Beef, Teriyaki Chicken/Beef, Mongolian Beef, Fried Rice
+- 10 sushi rolls including Candy Cane holiday specialty
+- Removed: Ramen, Dragon Roll, Spicy Yellowtail (too time-consuming)
+- 10% of food sales go to KannaKrew for event expenses
 - Food sales = secondary revenue goal
 
 ---

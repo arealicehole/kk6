@@ -15,7 +15,7 @@
 4. Record: Reach, Likes, Comments, Shares, Saves
 
 ### Instagram Posts (via Postiz UI):
-1. Login: https://09rh4o8cch8a1f20mjtk31hec4.ingress.akash-palmito.org
+1. Login: https://25aq1sfsk998h31hce0tk0lnlo.ingress.akash-palmito.org
 2. Go to Analytics section
 3. Select post from list
 4. View metrics (if available)
