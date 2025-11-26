@@ -6,7 +6,69 @@
 
 ---
 
-## OPTION A: Single Vertical Image (1080x1350px - Instagram Feed)
+## PAGE 1 - ENTREES & SUSHI (COMPLETED)
+
+Page 1 has been generated - contains Hot Entrees, Fried Rice, Sushi Rolls, and Candy Cane Roll specialty.
+
+---
+
+## PAGE 2 - APPS, DRINKS & DESSERTS (Use This Prompt)
+
+```
+Create a festive holiday restaurant menu graphic for "KannaKickback 6" event - PAGE 2. Must match the style of page 1 exactly.
+
+Dark forest green background with gold ornaments, snowflakes, stars, and sparkle effects. Gold decorative border with corner flourishes.
+
+Header text: "KANNAKICKBACK 6" in large gold letters at top
+Subheader: "EVENT MENU" in white below
+
+Three-column or smart layout for these sections:
+
+APPETIZERS section (gold banner/header):
+- Spicy Edamame - $7.50
+- Vegetable Egg Rolls - $5.50
+- Crab Puff - $9.99
+- Gyoza (4pc) - $6.99
+- Agedashi Tofu - $7.50
+- Shrimp Tempura - $14.99
+- Vegetable Tempura - $12.99
+- Chicken Lettuce Wrap - $12.99
+- Stuffed Jalapeño - $13.99
+- Takoyaki - $9.99
+- Chicken Tenders - $7.99
+- French Fries - $5.99
+
+DRINKS section (gold banner/header):
+- Soft Drinks - $3.25
+- Soda Water - $2.00
+- Iced Green Tea - $3.99
+- Hot Green Tea - $2.50
+- Perrier/Fiji Water - $4.00
+- Orange Juice - $3.99
+- Cranberry Juice - $3.99
+- Pineapple Juice - $3.99
+- Red Bull - $4.99
+- Coconut Milk - $4.50
+- Matcha Latte (Cold) - $5.50
+- Matcha Latte (Hot) - $6.50
+- Shirley Temple - $3.99
+- Arnold Palmer - $3.99
+
+DESSERTS section (special gold box like Candy Cane Roll on page 1):
+- Mango Sticky Rice - $8.99
+- Green Tea Ice Cream - $4.99
+- Mochi Ice Cream - $5.99 (mango, red bean, green tea, strawberry, chocolate)
+
+Footer text: "Dec 6, 2025 | 2-6pm | Ginza, Gold Canyon AZ"
+
+Style: MUST MATCH PAGE 1 EXACTLY - Same dark green (#1a3d0f) background, same gold (#d4af37) accents, same gold ornaments, snowflakes, stars, sparkles. Same fonts and typography style, same border style, same festive holiday aesthetic. Professional restaurant menu look. NO cannabis imagery. NO food photos.
+
+Aspect ratio: 4:5 portrait (1080x1350)
+```
+
+---
+
+## ARCHIVE - Original Page 1 Prompts (Reference)
 
 ### Main Prompt:
 
@@ -16,7 +78,7 @@ Create a festive holiday restaurant menu graphic for "KannaKickback 6" event. Da
 Header text: "KANNAKICKBACK 6" in large gold letters at top
 Subheader: "EVENT MENU" in white below
 
-Layout should be a professional restaurant menu with three sections:
+Layout should be a professional restaurant menu with these sections:
 
 HOT ENTREES section (gold header):
 - Orange Chicken - $16.99
@@ -32,11 +94,15 @@ FRIED RICE section (gold header):
 
 SUSHI ROLLS section (gold header):
 - California Roll - $8.50
-- Spicy Tuna/Salmon - $8.50-8.99
+- Spicy Tuna Roll - $8.99
+- Spicy Salmon Roll - $8.50
+- Shrimp Tempura Roll - $9.50
 - Philadelphia Roll - $10.99
+- Eel Roll - $10.99
+- Crunchy Caliente Roll - $9.50
 - Las Vegas Roll - $12.99
+- Tootsie Roll - $11.99
 - Alaska Roll - $14.50
-- Plus 5 more rolls
 
 HOLIDAY SPECIALTY (special golden box):
 - Candy Cane Roll - $15.99
@@ -57,7 +123,7 @@ ENTREES ($16.99-$19.99): Orange Chicken, Orange Beef, Teriyaki Chicken, Teriyaki
 
 FRIED RICE ($10.99-$15.99): Vegetable, Chicken, Shrimp
 
-SUSHI ROLLS ($8.50-$14.50): 10 rolls including California, Spicy Tuna, Philadelphia, Las Vegas, Alaska
+SUSHI ROLLS ($8.50-$14.50): California Roll, Spicy Tuna Roll, Spicy Salmon Roll, Shrimp Tempura Roll, Philadelphia Roll, Eel Roll, Crunchy Caliente Roll, Las Vegas Roll, Tootsie Roll, Alaska Roll
 
 HOLIDAY SPECIALTY ($15.99): Candy Cane Roll
 
@@ -106,11 +172,16 @@ Chicken $12.99
 Shrimp $15.99
 
 Right side - "SUSHI ROLLS" (gold header):
-10 Rolls Available
-Starting at $8.50
-Premium rolls up to $14.50
-
-Bottom text: "California, Spicy Tuna, Philadelphia, Las Vegas, Alaska & more"
+California Roll $8.50
+Spicy Tuna Roll $8.99
+Spicy Salmon Roll $8.50
+Shrimp Tempura Roll $9.50
+Philadelphia Roll $10.99
+Eel Roll $10.99
+Crunchy Caliente Roll $9.50
+Las Vegas Roll $12.99
+Tootsie Roll $11.99
+Alaska Roll $14.50
 
 Clean typography, elegant menu design, festive holiday accents. Square 1:1 ratio.
 ```
@@ -146,13 +217,13 @@ Top section: "KANNAKICKBACK 6" logo/title in large gold text with "EVENT MENU" b
 Middle section - scrollable menu feel:
 
 ENTREES ($16.99-$19.99)
-Orange Chicken | Orange Beef | Teriyaki Chicken | Teriyaki Beef | Mongolian Beef
+Orange Chicken $16.99 | Orange Beef $19.99 | Teriyaki Chicken $16.99 | Teriyaki Beef $18.99 | Mongolian Beef $18.99
 
 FRIED RICE ($10.99-$15.99)
-Vegetable | Chicken | Shrimp
+Vegetable $10.99 | Chicken $12.99 | Shrimp $15.99
 
 SUSHI ROLLS ($8.50-$14.50)
-10 rolls including California, Spicy Tuna, Philadelphia, Las Vegas, Alaska
+California Roll $8.50 | Spicy Tuna Roll $8.99 | Spicy Salmon Roll $8.50 | Shrimp Tempura Roll $9.50 | Philadelphia Roll $10.99 | Eel Roll $10.99 | Crunchy Caliente Roll $9.50 | Las Vegas Roll $12.99 | Tootsie Roll $11.99 | Alaska Roll $14.50
 
 Special gold banner: "HOLIDAY SPECIALTY"
 Candy Cane Roll - $15.99
@@ -205,23 +276,49 @@ Style: Elegant menu design, festive but sophisticated. Gold borders and ornament
 
 ### Option 1 - Detailed:
 ```
-MENU REVEAL
+🎄 FULL MENU REVEAL 🎄
 
 Here's what's on deck at KannaKickback 6:
 
 HOT ENTREES ($16.99-$19.99)
-Orange Chicken | Orange Beef
-Teriyaki Chicken | Teriyaki Beef
-Mongolian Beef
-Fried Rice (veg $10.99 / chicken $12.99 / shrimp $15.99)
+Orange Chicken $16.99 | Orange Beef $19.99
+Teriyaki Chicken $16.99 | Teriyaki Beef $18.99
+Mongolian Beef $18.99
+
+FRIED RICE ($10.99-$15.99)
+Vegetable $10.99 | Chicken $12.99 | Shrimp $15.99
 
 SUSHI ROLLS ($8.50-$14.50)
-California | Spicy Tuna | Spicy Salmon
-Shrimp Tempura | Philadelphia | Eel
-Crunchy Caliente | Las Vegas | Tootsie | Alaska
+California Roll $8.50 | Spicy Tuna Roll $8.99
+Spicy Salmon Roll $8.50 | Shrimp Tempura Roll $9.50
+Philadelphia Roll $10.99 | Eel Roll $10.99
+Crunchy Caliente Roll $9.50 | Las Vegas Roll $12.99
+Tootsie Roll $11.99 | Alaska Roll $14.50
 
-HOLIDAY SPECIALTY ($15.99)
-Candy Cane Roll - Cali roll topped with white tuna & wasabi mayo
+🎅 HOLIDAY SPECIALTY
+Candy Cane Roll $15.99 - Cali roll topped with white tuna & wasabi mayo
+
+APPETIZERS ($5.50-$14.99)
+Spicy Edamame $7.50 | Vegetable Egg Rolls $5.50
+Crab Puff $9.99 | Gyoza (4pc) $6.99
+Agedashi Tofu $7.50 | Shrimp Tempura $14.99
+Vegetable Tempura $12.99 | Chicken Lettuce Wrap $12.99
+Stuffed Jalapeño $13.99 | Takoyaki $9.99
+Chicken Tenders $7.99 | French Fries $5.99
+
+DRINKS ($2.00-$6.50)
+Soft Drinks $3.25 | Soda Water $2.00
+Iced Green Tea $3.99 | Hot Green Tea $2.50
+Perrier/Fiji Water $4.00 | Orange Juice $3.99
+Cranberry Juice $3.99 | Pineapple Juice $3.99
+Red Bull $4.99 | Coconut Milk $4.50
+Matcha Latte (Cold) $5.50 | Matcha Latte (Hot) $6.50
+Shirley Temple $3.99 | Arnold Palmer $3.99
+
+🍨 DESSERTS
+Mango Sticky Rice $8.99
+Green Tea Ice Cream $4.99
+Mochi Ice Cream $5.99 (mango, red bean, green tea, strawberry, chocolate)
 
 Ginza Sushi Fusion Cuisine
 8654 E Topaz Dr, Gold Canyon
@@ -236,22 +333,49 @@ RSVP: kannakickback.com
 
 ### Option 2 - Short & Punchy:
 ```
-FOOD AT KK6
+🔥 FOOD AT KK6 🔥
 
 Real talk: You're gonna be hungry.
 
-5 entrees starting at $16.99
-11 sushi rolls starting at $8.50
-Holiday specialty: Candy Cane Roll
+5 hot entrees ($16.99-$19.99)
+3 fried rice options ($10.99-$15.99)
+10 sushi rolls ($8.50-$14.50)
+12 appetizers ($5.50-$14.99)
+14 drinks ($2.00-$6.50)
+3 desserts ($4.99-$8.99)
 
-All from Ginza Sushi - Gold Canyon's finest.
+Plus the holiday specialty: Candy Cane Roll $15.99 🎄
+
+48 items. All from Ginza Sushi - Gold Canyon's finest.
 
 Dec 6 | 2-6pm
 RSVP: kannakickback.com
 
-Who's pulling up hungry?
+Who's pulling up hungry? 🍣
 
 #KannaKickback #KK6 #GinzaSushi
+```
+
+### Option 3 - Carousel Captions (2-page menu):
+```
+SLIDE 1 (Page 1 - Entrees & Sushi):
+🍱 KK6 MENU REVEAL - Part 1
+
+Entrees, fried rice, and sushi rolls from Ginza Sushi!
+
+Swipe for appetizers, drinks & desserts →
+
+SLIDE 2 (Page 2 - Apps, Drinks, Desserts):
+🥟 KK6 MENU REVEAL - Part 2
+
+Apps for days. Drinks on deck. Dessert to finish.
+
+12 appetizers | 14 drinks | 3 desserts
+
+Dec 6 | 2-6pm | Ginza, Gold Canyon
+RSVP: kannakickback.com
+
+#KannaKickback #KK6 #GinzaSushi #GoldCanyon
 ```
 
 ---

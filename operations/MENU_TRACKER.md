@@ -50,6 +50,51 @@ Approved by Maggie (Ginza owner). 10% of food sales go to KannaKrew for event ex
 |------|-------|-------------|
 | **Candy Cane** | $15.99 | California Roll topped with white tuna and served with wasabi mayo (Holiday Special!) |
 
+### APPETIZERS (12 Items)
+
+| Item | Price | Description |
+|------|-------|-------------|
+| **Spicy Edamame** | $7.50 | Edamame with spicy seasoning |
+| **Vegetable Egg Rolls** | $5.50 | Classic veggie egg rolls |
+| **Crab Puff** | $9.99 | Cream cheese and crab filling |
+| **Gyoza (4pc)** | $6.99 | Pork & chicken dumplings |
+| **Agedashi Tofu** | $7.50 | Lightly fried tofu with tempura sauce |
+| **Shrimp Tempura (6pc)** | $14.99 | Six pieces of shrimp tempura |
+| **Vegetable Tempura** | $12.99 | Assorted vegetable tempura |
+| **Chicken Lettuce Wrap** | $12.99 | Chicken lettuce wrap |
+| **Stuffed Jalapeño** | $13.99 | Jalapeño stuffed with salmon & surimi, tempura-fried with eel sauce |
+| **Takoyaki** | $9.99 | Japanese octopus balls |
+| **Chicken Tenders** | $7.99 | For the picky eaters |
+| **French Fries** | $5.99 | For the picky eaters |
+
+### DRINKS (14 Items)
+
+| Item | Price | Notes |
+|------|-------|-------|
+| **Soft Drinks** | $3.25 | Pepsi, Diet Pepsi, Dr Pepper, Starry, Lemonade, Root Beer, Ginger Beer, Mountain Dew, Raspberry Tea, Tonic Water |
+| **Soda Water** | $2.00 | |
+| **Iced Green Tea** | $3.99 | |
+| **Hot Green Tea** | $2.50 | |
+| **Perrier Sparkling Water** | $4.00 | |
+| **Fiji Water** | $4.00 | |
+| **Orange Juice** | $3.99 | |
+| **Cranberry Juice** | $3.99 | |
+| **Pineapple Juice** | $3.99 | |
+| **Red Bull** | $4.99 | Energy drink |
+| **Coconut Milk** | $4.50 | |
+| **Matcha Tea Latte (Cold)** | $5.50 | |
+| **Matcha Tea Latte (Hot)** | $6.50 | |
+| **Shirley Temple** | $3.99 | |
+| **Arnold Palmer** | $3.99 | |
+
+### DESSERTS (3 Items)
+
+| Item | Price | Description |
+|------|-------|-------------|
+| **Mango Sticky Rice** | $8.99 | Thai-style mango with sticky rice |
+| **Green Tea Ice Cream** | $4.99 | Homemade green tea flavored ice cream |
+| **Mochi Ice Cream** | $5.99 | Choose: mango, red bean, green tea, strawberry, or chocolate |
+
 ### REMOVED BY MAGGIE
 
 | Item | Reason |
@@ -65,8 +110,20 @@ Approved by Maggie (Ginza owner). 10% of food sales go to KannaKrew for event ex
 **Entree Range:** $16.99 - $19.99
 **Fried Rice Range:** $10.99 - $15.99
 **Sushi Roll Range:** $8.50 - $15.99
-**Most Affordable:** California Roll ($8.50), Spicy Salmon Roll ($8.50)
-**Most Premium:** Candy Cane Specialty ($15.99), Alaska Roll ($14.50)
+**Appetizer Range:** $5.50 - $14.99
+**Drink Range:** $2.00 - $6.50
+**Dessert Range:** $4.99 - $8.99
+
+**Most Affordable:** French Fries ($5.99), Egg Rolls ($5.50), Soda Water ($2.00)
+**Most Premium:** Candy Cane Roll ($15.99), Shrimp Tempura ($14.99), Alaska Roll ($14.50)
+
+**Full Menu Count:** 48 items total
+- 5 Entrees
+- 3 Fried Rice
+- 11 Sushi Rolls (10 regular + 1 specialty)
+- 12 Appetizers
+- 14 Drinks
+- 3 Desserts
 
 ---
 
