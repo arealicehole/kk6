@@ -1,6 +1,6 @@
 # KANNA KICKBACK 6 - TASK TRACKER
-**Last Updated:** 2025-11-24 (Evening - Box delivery updates)
-**Days Until Event:** 12
+**Last Updated:** 2025-11-25 (Menu deliverables complete)
+**Days Until Event:** 11
 
 🔴 = CRITICAL | 🟡 = HIGH PRIORITY | 🟢 = MEDIUM | ⚪ = LOW
 
@@ -16,7 +16,7 @@
 | ✅ DONE | **Website audit & enhancements** | Claude | Nov 10 | ✅ Added FAQ, About, Schedule. Partners page on hold |
 | ✅ DONE | **Deploy website to production** | Claude | Nov 10 | ✅ LIVE at kannakickback.com - All forms working |
 | ✅ DONE | **Set up email automation system** | Claude | Nov 11 | ✅ MCP email client + Resend API - Can read/send/schedule emails |
-| ✅ DONE | Finalize menu with Maggie at Ginza | Gilbert | Nov 10 | ✅ Menu approved - Removed: ramen, dragon roll, spicy yellow. 10% revenue confirmed |
+| ✅ DONE | Finalize menu with Maggie at Ginza | Gilbert | Nov 10 | ✅ Menu approved - See `operations/MENU_TRACKER.md` for full details |
 | ✅ DONE | Design flyer | Team | Nov 15 | ✅ KK6_EVENT_FLYER.png created - Clean, professional, all info correct |
 | ✅ DONE | Order flyers (1,000) | Team | Nov 18 | ✅ Ordered Nov 18 - RECEIVED Nov 20 |
 | ✅ DONE | **Attend Cinnamon Event with flyers** | | Nov 21 | ✅ Same as Nirvana event, didn't attend |
@@ -92,8 +92,8 @@
 | 🟡 TODO | Plan gift bags (sourcing) | | Nov 18 | Half oz, pre-rolls, wax, papers, lighter |
 | 🟡 TODO | Dispensary ground game visits | | Nov 16-22 | In person w/ flyers |
 | 🟡 TODO | Finalize games setup | | Nov 20 | Crane, Ring Toss, Pinata |
-| 🟡 TODO | Design menu (print ready) | | Nov 18 | After Maggie approval |
-| 🟡 TODO | Order menu printing | | Nov 19 | |
+| ✅ DONE | Design menu (print ready) | | Nov 27 | ✅ See operations/MENU_TRACKER.md |
+| 🟡 TODO | Order menu printing | | Nov 29 | HTML ready - creative/print/MENU_PRINT_READY.html |
 | 🟡 TODO | Contact Marys Heady Smoke Shop | Bong Blazer | Nov 21 | Interested in sponsorship + box hosting |
 | 🟡 TODO | DM Hetti Supply AZ on Instagram | | Nov 21 | @hettisupplyaz - interested partner |
 
@@ -134,7 +134,7 @@
 | 🔴 TODO | **Meeting: Ring toss game planning** | Team | Nov 25 | Creative solution |
 | 🔴 TODO | **Design event signage** | Team | Nov 26 | For venue |
 | 🔴 TODO | **Get wrapping paper** | Team | Nov 26 | For decorations |
-| 🔴 TODO | **Design menu (digital + print)** | Team | Nov 26 | After Maggie approval |
+| ✅ DONE | **Design menu (digital + print)** | Team | Nov 27 | See `operations/MENU_TRACKER.md` for full brief + approved items |
 | 🔴 TODO | Black Friday activation | | Nov 28 | Booth/presence |
 | 🔴 TODO | **Launch gamification in Facebook Group** | | Nov 26 | Photo challenge, leaderboard, badges |
 | 🔴 TODO | Assemble gift bags | | Nov 27 | Production line |
@@ -440,7 +440,7 @@
 | **🚨 VENUE CAPACITY CUT IN HALF** | **May not fit 10 vendors + guests** | **✅ RESOLVED** | **Gilbert assessed (Nov 13) - venue viable, will look more full** |
 | Stage moved/rearranged | Layout changed, affects booth placement | ✅ RESOLVED | Assessed - acceptable |
 | No Sojourner cutoff date | Can't send emails, set timeline | ✅ RESOLVED | DEC 15 CUTOFF CONFIRMED (Sojourner accepts Dec 8-20) |
-| Menu not approved | Can't design/print | ✅ RESOLVED | Menu approved Nov 10 - Ramen, dragon roll, spicy yellow removed |
+| Menu not approved | Can't design/print | ✅ RESOLVED | Menu approved Nov 10 - See `operations/MENU_TRACKER.md` for full menu |
 | Toy drive should've started 11/11 | Behind schedule | 🟡 OPEN | Catch up ASAP with aggressive push |
 | No boxes created yet | Can't place anywhere | 🔴 OPEN | Make this weekend |
 | Special K payment owed? | Relationship risk | 🟡 OPEN | Clarify, address if needed |
