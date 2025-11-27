@@ -17,6 +17,12 @@
 - Created privacy policy page on tricondigital.com/privacy-policy.html
 - Deployed privacy policy to Netlify (covers Tricon, Print Junkie, KannaKrew)
 
+### ⚠️ CORRECTIONS MADE BY USER (DO NOT MODIFY AD):
+- **Location:** Claude set to Ukraine (???) - USER CORRECTED to Gold Canyon AZ area
+- **Placements:** Claude only set Facebook - USER ADDED Instagram
+- **Status:** Ad is now LIVE and RUNNING correctly - DO NOT TOUCH
+- **Analytics:** Monitor only, do not edit campaign settings
+
 ### 📁 KEY FILES CREATED:
 -  - Privacy policy for Meta compliance
 -  - 4 carousel images

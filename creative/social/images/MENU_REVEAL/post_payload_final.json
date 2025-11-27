@@ -1,0 +1,36 @@
+{
+  "type": "schedule",
+  "date": "2025-11-28T01:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {"id": "cmi02m1w80003n37s5brj1yys"},
+      "settings": {"post_type": "post"},
+      "value": [{
+        "content": "🍱 MENU REVEAL: KannaKickback 6 🍱\n\nWhat's cooking at KK6? Only the best from Ginza Sushi Fusion!\n\n🎄 Dec 6 | 2-6pm | Ginza Gold Canyon\n\nEntrees, sushi rolls, apps & more - plus our KK6 EXCLUSIVE: the Candy Cane Roll 🍬\n\nSwipe to see what's on the menu →\n\nRSVP FREE at kannakickback.com\n\n#KannaKickback #KK6 #GinzaGoldCanyon #SushiFusion #KannaKrew #HolidayFood #ArizonaEvents",
+        "image": [
+          {"id": "65e9c608-2629-489c-9d48-4e79601994cd", "path": "https://anhrol6q3d83l850m9svibivrk.ingress.akash-palmito.org/uploads/2025/11/27/6ba3914e4be324d439b653cf4b55a133.jpg"},
+          {"id": "39dcca1f-0ae9-4f68-a381-efdb40d01667", "path": "https://anhrol6q3d83l850m9svibivrk.ingress.akash-palmito.org/uploads/2025/11/27/5103ebaa4a938d71d278d5a53610f21087.jpg"},
+          {"id": "e742c828-48bb-483a-87ef-f0794943b4c0", "path": "https://anhrol6q3d83l850m9svibivrk.ingress.akash-palmito.org/uploads/2025/11/27/3fdcde8561ef84552bf392ba2dc384b10.jpg"},
+          {"id": "154b8276-0e0d-41b6-b010-b18d69a6f870", "path": "https://anhrol6q3d83l850m9svibivrk.ingress.akash-palmito.org/uploads/2025/11/27/91c11210baed84d4a2110e965f810b1064c0.jpg"}
+        ],
+        "video": []
+      }]
+    },
+    {
+      "integration": {"id": "cmi02mtkf0005n37sxbm8so2h"},
+      "settings": {"post_type": "post"},
+      "value": [{
+        "content": "🍱 MENU REVEAL: KannaKickback 6 🍱\n\nWhat's cooking at KK6? Only the best from Ginza Sushi Fusion!\n\n🎄 Friday, December 6 | 2-6pm\n📍 Ginza Restaurant, Gold Canyon\n\nEntrees, sushi rolls, apps & more - plus our KK6 EXCLUSIVE: the Candy Cane Roll (California Roll topped with white tuna and wasabi mayo) 🍬\n\nFull menu at kannakickback.com\nRSVP FREE!\n\n#KannaKickback #KK6 #GinzaGoldCanyon #SushiFusion #KannaKrew #HolidayFood #ArizonaEvents",
+        "image": [
+          {"id": "65e9c608-2629-489c-9d48-4e79601994cd", "path": "https://anhrol6q3d83l850m9svibivrk.ingress.akash-palmito.org/uploads/2025/11/27/6ba3914e4be324d439b653cf4b55a133.jpg"},
+          {"id": "39dcca1f-0ae9-4f68-a381-efdb40d01667", "path": "https://anhrol6q3d83l850m9svibivrk.ingress.akash-palmito.org/uploads/2025/11/27/5103ebaa4a938d71d278d5a53610f21087.jpg"},
+          {"id": "e742c828-48bb-483a-87ef-f0794943b4c0", "path": "https://anhrol6q3d83l850m9svibivrk.ingress.akash-palmito.org/uploads/2025/11/27/3fdcde8561ef84552bf392ba2dc384b10.jpg"},
+          {"id": "154b8276-0e0d-41b6-b010-b18d69a6f870", "path": "https://anhrol6q3d83l850m9svibivrk.ingress.akash-palmito.org/uploads/2025/11/27/91c11210baed84d4a2110e965f810b1064c0.jpg"}
+        ],
+        "video": []
+      }]
+    }
+  ]
+}

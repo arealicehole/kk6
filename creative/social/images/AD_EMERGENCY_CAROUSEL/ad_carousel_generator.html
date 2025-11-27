@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KK6 Emergency Ad Carousel Generator</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&family=Bebas+Neue&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            font-family: 'Montserrat', sans-serif;
+            padding: 40px;
+            color: #fff;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #FFD700, #FFA500, #FFD700);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 0 30px rgba(255, 215, 0, 0.3);
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #888;
+            margin-bottom: 40px;
+            font-size: 0.9rem;
+        }
+
+        .instructions {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 40px;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .instructions h3 {
+            color: #FFD700;
+            margin-bottom: 10px;
+        }
+
+        .instructions ol {
+            margin-left: 20px;
+            line-height: 1.8;
+            color: #ccc;
+        }
+
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 40px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        @media (max-width: 900px) {
+            .cards-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .card-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .card-label {
+            font-size: 0.85rem;
+            color: #FFD700;
+            margin-bottom: 10px;
+            font-weight: 600;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        .card {
+            width: 540px;
+            height: 540px;
+            position: relative;
+            overflow: hidden;
+            border-radius: 8px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,255,255,0.1);
+        }
+
+        .card img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 40px;
+        }
+
+        /* CARD 1 - IMPACT */
+        .card1 .overlay {
+            background: linear-gradient(180deg, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.3) 100%);
+        }
+
+        .card1 .big-number {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 140px;
+            color: #fff;
+            text-shadow:
+                0 4px 8px rgba(0,0,0,0.8),
+                0 0 40px rgba(255,215,0,0.4),
+                0 0 80px rgba(255,215,0,0.2);
+            line-height: 1;
+            letter-spacing: 4px;
+        }
+
+        .card1 .subtitle-text {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 32px;
+            font-weight: 800;
+            color: #fff;
+            text-shadow: 0 3px 6px rgba(0,0,0,0.8);
+            letter-spacing: 6px;
+            margin-top: -5px;
+        }
+
+        .card1 .small-text {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 24px;
+            font-weight: 400;
+            color: #FFD700;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.8);
+            margin-top: 15px;
+            font-style: italic;
+        }
+
+        /* CARD 2 - CHARITY */
+        .card2 .overlay {
+            background: linear-gradient(180deg, rgba(0,51,102,0.7) 0%, rgba(0,51,102,0.5) 100%);
+        }
+
+        .card2 .benefiting {
+            font-size: 28px;
+            font-weight: 400;
+            color: rgba(255,255,255,0.9);
+            letter-spacing: 4px;
+            text-transform: uppercase;
+        }
+
+        .card2 .charity-name {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 72px;
+            color: #fff;
+            text-shadow: 0 4px 12px rgba(0,0,0,0.5);
+            letter-spacing: 3px;
+            margin: 15px 0;
+            line-height: 1.1;
+        }
+
+        .card2 .supporting {
+            font-size: 22px;
+            font-weight: 400;
+            color: rgba(255,255,255,0.85);
+            line-height: 1.6;
+            max-width: 80%;
+        }
+
+        .card2 .heart-icon {
+            font-size: 48px;
+            margin-top: 20px;
+            opacity: 0.9;
+        }
+
+        /* CARD 3 - DETAILS */
+        .card3 .overlay {
+            background: rgba(0,0,0,0.55);
+        }
+
+        .card3 .date {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 68px;
+            color: #fff;
+            text-shadow: 0 3px 8px rgba(0,0,0,0.8);
+            letter-spacing: 4px;
+        }
+
+        .card3 .time {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 80px;
+            color: #FFD700;
+            text-shadow: 0 3px 8px rgba(0,0,0,0.8);
+            letter-spacing: 3px;
+            margin: 5px 0 20px 0;
+        }
+
+        .card3 .venue {
+            font-size: 28px;
+            font-weight: 700;
+            color: #fff;
+            text-shadow: 0 2px 6px rgba(0,0,0,0.8);
+        }
+
+        .card3 .location {
+            font-size: 20px;
+            font-weight: 400;
+            color: rgba(255,255,255,0.9);
+            margin-top: 5px;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.8);
+        }
+
+        .card3 .free-badge {
+            background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%);
+            color: #000;
+            font-size: 22px;
+            font-weight: 800;
+            padding: 12px 30px;
+            border-radius: 50px;
+            margin-top: 25px;
+            box-shadow: 0 4px 20px rgba(255,215,0,0.4);
+            letter-spacing: 2px;
+        }
+
+        /* CARD 4 - CTA */
+        .card4 .overlay {
+            background: linear-gradient(180deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.7) 100%);
+        }
+
+        .card4 .bring-line {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 52px;
+            color: #fff;
+            text-shadow: 0 3px 8px rgba(0,0,0,0.8);
+            letter-spacing: 4px;
+            line-height: 1.15;
+        }
+
+        .card4 .make-diff {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 58px;
+            color: #FFD700;
+            text-shadow:
+                0 3px 8px rgba(0,0,0,0.8),
+                0 0 30px rgba(255,215,0,0.3);
+            letter-spacing: 3px;
+            margin: 20px 0 30px 0;
+        }
+
+        .card4 .cta-box {
+            background: linear-gradient(135deg, #C41E3A 0%, #8B0000 100%);
+            padding: 18px 45px;
+            border-radius: 8px;
+            box-shadow: 0 8px 30px rgba(196,30,58,0.5);
+        }
+
+        .card4 .rsvp {
+            font-size: 18px;
+            font-weight: 600;
+            color: rgba(255,255,255,0.9);
+            letter-spacing: 3px;
+            margin-bottom: 5px;
+        }
+
+        .card4 .website {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 38px;
+            color: #fff;
+            letter-spacing: 2px;
+        }
+
+        .export-btn {
+            display: block;
+            margin: 50px auto 20px auto;
+            background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%);
+            color: #000;
+            border: none;
+            padding: 18px 50px;
+            font-size: 18px;
+            font-weight: 700;
+            border-radius: 50px;
+            cursor: pointer;
+            font-family: 'Montserrat', sans-serif;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            box-shadow: 0 8px 30px rgba(255,215,0,0.3);
+            transition: all 0.3s ease;
+        }
+
+        .export-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 12px 40px rgba(255,215,0,0.4);
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            color: #666;
+            font-size: 0.8rem;
+        }
+    </style>
+</head>
+<body>
+    <h1>KK6 Emergency Ad Carousel</h1>
+    <p class="subtitle">Facebook/Instagram Ready - Cannabis Compliant - Charity Forward</p>
+
+    <div class="instructions">
+        <h3>Export Instructions</h3>
+        <ol>
+            <li>Right-click each card image below</li>
+            <li>Select "Save image as..." or use screenshot tool (Win+Shift+S)</li>
+            <li>Save as PNG at 1080x1080 for Instagram/Facebook</li>
+            <li>Or use browser print (Ctrl+P) > Save as PDF for all cards</li>
+        </ol>
+    </div>
+
+    <div class="cards-grid">
+        <!-- CARD 1: IMPACT -->
+        <div class="card-container">
+            <div class="card-label">Card 1: Impact Hook</div>
+            <div class="card card1">
+                <img src="card_1_impact.png" alt="Toy Drive Impact">
+                <div class="overlay">
+                    <div class="big-number">$6,500</div>
+                    <div class="subtitle-text">IN TOYS DONATED</div>
+                    <div class="small-text">Last Year</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- CARD 2: CHARITY -->
+        <div class="card-container">
+            <div class="card-label">Card 2: Charity Story</div>
+            <div class="card card2">
+                <img src="card_2_charity.png" alt="Charity Background">
+                <div class="overlay">
+                    <div class="benefiting">Benefiting</div>
+                    <div class="charity-name">SOJOURNER<br>CENTER</div>
+                    <div class="supporting">Supporting families<br>in our community</div>
+                    <div class="heart-icon">&#10084;</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- CARD 3: DETAILS -->
+        <div class="card-container">
+            <div class="card-label">Card 3: Event Details</div>
+            <div class="card card3">
+                <img src="card_3_details.jpg" alt="Event Details">
+                <div class="overlay">
+                    <div class="date">FRIDAY DEC 6</div>
+                    <div class="time">2-6PM</div>
+                    <div class="venue">GINZA ASIAN FUSION</div>
+                    <div class="location">Gold Canyon, AZ</div>
+                    <div class="free-badge">FREE 21+ EVENT</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- CARD 4: CTA -->
+        <div class="card-container">
+            <div class="card-label">Card 4: Call to Action</div>
+            <div class="card card4">
+                <img src="card_4_cta.png" alt="Call to Action">
+                <div class="overlay">
+                    <div class="bring-line">BRING A TOY</div>
+                    <div class="bring-line">BRING A FRIEND</div>
+                    <div class="make-diff">MAKE A DIFFERENCE</div>
+                    <div class="cta-box">
+                        <div class="rsvp">RSVP FREE</div>
+                        <div class="website">KannaKickback.com</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        KannaKickback 6 | Holiday Celebration & Toy Drive | Dec 6, 2024<br>
+        Generated for Facebook/Instagram Ads - Cannabis Compliant
+    </div>
+
+    <script>
+        // Optional: Add click-to-copy functionality for individual cards
+        document.querySelectorAll('.card').forEach(card => {
+            card.style.cursor = 'pointer';
+            card.title = 'Right-click to save or use screenshot tool';
+        });
+    </script>
+</body>
+</html>

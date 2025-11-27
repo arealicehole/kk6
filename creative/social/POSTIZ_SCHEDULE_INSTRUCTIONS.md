@@ -16,7 +16,7 @@
 
 ## POSTIZ ACCESS INFO
 
-**URL:** https://25aq1sfsk998h31hce0tk0lnlo.ingress.akash-palmito.org
+**URL:** https://anhrol6q3d83l850m9svibivrk.ingress.akash-palmito.org
 
 **API Key (if needed):** `ee89432a561a15ddd54f2ab90c9698cd2482ffac29b0033dc4b220bd78b9a38d`
 
@@ -29,7 +29,7 @@
 ## STEP-BY-STEP INSTRUCTIONS
 
 ### 1. Open Postiz Dashboard
-- Navigate to: https://25aq1sfsk998h31hce0tk0lnlo.ingress.akash-palmito.org
+- Navigate to: https://anhrol6q3d83l850m9svibivrk.ingress.akash-palmito.org
 - Login if needed
 
 ### 2. Create New Post
