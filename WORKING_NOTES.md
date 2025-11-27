@@ -1,3 +1,31 @@
+## 2025-11-27 (Evening) - Image QA & Regeneration Session
+
+### ✅ COMPLETED TODAY:
+- Regenerated 9 social post images with Bob Ross/Kie.ai:
+  - POST_04: slides 1, 4, 5 (garbled emoji "ô≡í", missing slides)
+  - POST_05: slides 1, 4, 5 (garbled "♂" emoji, "anywore" typo, "80px" artifact)
+  - POST_06: slide 5 ("KICKBICK", "6-6PM", "kickbak.com" typos)
+  - POST_09: slides 4, 5 ("Serously", "familis", "rebugling" typos)
+- Discovered correct Kie.ai API polling endpoint: GET /api/v1/jobs/recordInfo?taskId=xxx
+- Verified POST_02, POST_08, POST_10 are clean - no issues
+
+### 📁 KEY FILES CREATED/UPDATED:
+- creative/social/images/POST_04/slide_1.png (v2 - fixed emoji)
+- creative/social/images/POST_04/slide_4.png (NEW)
+- creative/social/images/POST_04/slide_5.png (NEW)
+- creative/social/images/POST_05/slide_1.png (v2 - fixed emoji)
+- creative/social/images/POST_05/slide_4.png (v3 - fixed typo)
+- creative/social/images/POST_05/slide_5.png (v2 - fixed artifact)
+- creative/social/images/POST_06/slide_5.png (v2 - fixed all typos)
+- creative/social/images/POST_09/slide_4.png (v2 - fixed typo)
+- creative/social/images/POST_09/slide_5.png (v2 - fixed typos)
+
+### 🔴 NEXT IMMEDIATE ACTIONS:
+- Schedule remaining unscheduled posts (POST_04, POST_05, POST_09, POST_10)
+- Review POST_06 slide 4 quote grammar ("outdone yourself" → "outdone themselves")
+
+---
+
 ## 2025-11-27 - Meta Ads Carousel Campaign LIVE
 
 ### ✅ COMPLETED TODAY:
