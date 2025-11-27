@@ -1,6 +1,6 @@
 # KANNA KICKBACK 6 - TASK TRACKER
-**Last Updated:** 2025-11-26 (Menu print files complete)
-**Days Until Event:** 10
+**Last Updated:** 2025-11-27 (Meta carousel ad LIVE via API)
+**Days Until Event:** 9
 
 🔴 = CRITICAL | 🟡 = HIGH PRIORITY | 🟢 = MEDIUM | ⚪ = LOW
 
@@ -101,7 +101,9 @@
 | Status | Task | Owner | Due | Notes |
 |--------|------|-------|-----|-------|
 | 🟢 TODO | Flyer distribution run #1 | | Nov 24 | Smoke shops, dispensaries (flyers RECEIVED Nov 20) |
-| 🟢 TODO | Plan paid ads | | Nov 20 | Launch week 3 |
+| ✅ DONE | **Plan paid ads & create creative briefs** | Claude | Nov 26 | ✅ 4 COMPLETE BRIEFS: 2 video ads (charity vs party) + 2 carousel ads - See creative/social/AD_CREATIVE_BRIEFS_SUMMARY.md |
+| 🔴 TODO | **PRODUCE paid ad video/carousel content** | Team | Nov 27 | URGENT: Need to produce from briefs and launch Phase 1 ASAP |
+| 🔴 TODO | **LAUNCH paid ads Phase 1** | Team | Nov 27 | $5/day, Facebook/Instagram, 15-mile radius from Ginza, 21+ only |
 | 🟢 TODO | Order custom wrapping paper | | Nov 17 | If decided yes |
 | 🟢 TODO | Send RSVP confirmations (9 people) | | Nov 21-22 | **NEW:** Stephanie Crawford (from email blast!) + Andreah Crowe |
 
@@ -119,9 +121,9 @@
 | ✅ DONE | **Get Google Business/website links for box locations** | Claude | Nov 24 | ✅ Complete - saved to BOX_LOCATIONS_COMPLETE_INFO.md |
 | ✅ DONE | **Update website with current box locations** | Claude | Nov 24 | ✅ Website updated + committed - 8 locations live, Nirvana teaser added |
 | ✅ DONE | **Push website changes to GitHub & deploy to Netlify** | Claude | Nov 24 | ✅ PUSHED - Deploying to kannakickback.com now |
-| 🔴 TODO | **Verify Fancy Pets & Ginza boxes still in place** | Team | Nov 25 | Confirm boxes haven't been moved/removed |
+| ✅ DONE | **Verify Fancy Pets & Ginza boxes still in place** | Team | Nov 25 | ✅ CONFIRMED Nov 26 - Both boxes OK |
 | 🔴 TODO | **Coordinate September's Bar box delivery** | Gilbert | Nov 26 | NEW - they said they want one |
-| 🔴 TODO | **Launch Facebook Ads Stage 1** | Team | Nov 23 | Event RSVP campaign - $5-10/day, 21+ Phoenix audience |
+| 🔴 TODO | **Launch Facebook/IG Ads Stage 1** | Team | Nov 26 | **HYPER-LOCAL:** 15mi radius from Ginza, AJ/QC/Santan, $5/day, NO "420" terms - See research doc |
 | 🔴 TODO | **Daily Facebook Group posts (1-2/day)** | Moderator | Nov 23-29 | Follow content calendar from strategy doc |
 | 🔴 TODO | Social posts #9-13 | | Nov 23-29 | Ramp up frequency |
 | 🔴 TODO | **Review and schedule all remaining social posts** | Gilbert | Nov 23 | POST #3-15 need review/scheduling |
@@ -132,6 +134,7 @@
 | 🔴 TODO | **Contact Bong Blazer for vendor help** | Team | Nov 24 | Specific asks |
 | 🔴 TODO | **Meeting: Event itinerary + crowd interactive** | Team | Nov 25 | Plan timeline |
 | 🔴 TODO | **Meeting: Ring toss game planning** | Team | Nov 25 | Creative solution |
+| 🔴 TODO | **DIY Stencil Street Signs** | Gilbert | Nov 29 | 80 signs (18x12) from 10 sheets - See `creative/print/STENCIL_SIGNS_DESIGN_BRIEF.md` |
 | 🔴 TODO | **Design event signage** | Team | Nov 26 | For venue |
 | 🔴 TODO | **Get wrapping paper** | Team | Nov 26 | For decorations |
 | ✅ DONE | **Design menu (digital + print)** | Team | Nov 27 | See `operations/MENU_TRACKER.md` for full brief + approved items |
@@ -390,7 +393,7 @@
 | - | Nov 18 | IG | KannaKlaus vs Krampus | Gilbert | ✅ PUBLISHED | 6-slide carousel (1 image + 5 videos) - Early POST #6 concept |
 | 2 | Nov 21 | IG/FB | Email Blast Tie-In | Claude | ✅ PUBLISHED | IG: 2-slide carousel, FB: 1-slide - "Did You Get The Email?" |
 | 3 | Nov 26 | IG/FB | Box Locations (8 spots) | Claude | ✅ SCHEDULED | 5-slide carousel - SCHEDULED Nov 26 11am IG+FB via Postiz |
-| - | Nov 27 | IG/FB | Menu Reveal | Claude | ✅ SCHEDULED | 2-slide carousel - SCHEDULED Nov 27 6pm IG+FB via Postiz |
+| - | Nov 27 | IG/FB | Menu Reveal | Claude | ✅ SCHEDULED | 4-slide carousel (regenerated NO prices, with food icons) - SCHEDULED Nov 27 6pm IG+FB via Postiz |
 | 4 | Nov 24 | IG/FB/TT | Save the Date / Pinata | | 🔴 TODO | Changed from KannaKlaus reveal to Pinata highlight (old footage) |
 | 5 | Nov 28 | IG/FB/TT | | | 🔴 TODO | |
 | 6 | Nov 29 | IG/FB | Black Friday Teen Gifts | Claude | ✅ SCHEDULED | 5-slide carousel - SCHEDULED Nov 29 9am IG+FB via Postiz |
@@ -406,7 +409,7 @@
 
 **SUMMARY:**
 - ✅ Published: 3 posts (POST #1, Krampus, POST #2)
-- ✅ Scheduled: 4 posts (POST #3 Box Locations, Menu Reveal, POST #6 Black Friday, POST #11 Nirvana)
+- ✅ Scheduled: 4 posts (POST #3 Box Locations, Menu Reveal [4 slides, no prices], POST #6 Black Friday, POST #11 Nirvana)
 - 🔴 Still Needed: 8 posts (POST #4-5, #7-10, #12-15)
 
 ---

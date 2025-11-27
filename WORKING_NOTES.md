@@ -1,5 +1,162 @@
+## 2025-11-27 - Meta Ads Carousel Campaign LIVE
+
+### ✅ COMPLETED TODAY:
+- **Meta Ads carousel campaign LIVE via direct Marketing API**
+  - Campaign ID: 120240660415560608
+  - Ad Set ID: 120240660427060608
+  - Ad Creative ID: 1520876062575407
+  - Ad ID: 120240664205010608
+  - Budget: \/day | Targeting: Gold Canyon AZ area, 21+
+  - Status: ACTIVE (pending Meta review)
+- Generated 4 carousel images with Kie.ai (text baked in):
+  - Card 1: "\,500 IN TOYS DONATED Last Year"
+  - Card 2: "Benefiting SOJOURNER CENTER"
+  - Card 3: "FRIDAY DEC 6 | 2-6PM | GINZA ASIAN FUSION"
+  - Card 4: "BRING A TOY BRING A FRIEND MAKE A DIFFERENCE"
+- Set up Meta app for Live mode (required for ad creation)
+- Created privacy policy page on tricondigital.com/privacy-policy.html
+- Deployed privacy policy to Netlify (covers Tricon, Print Junkie, KannaKrew)
+
+### 📁 KEY FILES CREATED:
+-  - Privacy policy for Meta compliance
+-  - 4 carousel images
+
+### 🔴 NEXT IMMEDIATE ACTIONS:
+- [ ] Monitor carousel ad for Meta approval (check Ads Manager)
+- [ ] Create video ad (party-forward version) from AD_CREATIVE_VIDEO_VERSION_B brief
+- [ ] Check Postiz for post performance stats
+
+---
+
+## 2025-11-26 (Very Late PM) - Paid Ad Creative Briefs Complete
+
+### ✅ COMPLETED THIS SESSION:
+**Created 4 Complete Ad Creative Briefs for A/B Testing:**
+
+1. **Video Ad - Version A (Charity-Forward)**
+   - 25-second storyboard (6 scenes)
+   - Hook: "$6,500 in Toys Donated Last Year"
+   - Tone: Impact-driven, heartfelt, purposeful
+   - File: creative/social/AD_CREATIVE_VIDEO_VERSION_A_CHARITY_FORWARD.md
+
+2. **Video Ad - Version B (Party-Forward)**
+   - 28-second storyboard (7 scenes)
+   - Hook: "December 6th - Get Ready!" (KannaKlaus celebrating)
+   - Tone: High-energy, fun-first, social
+   - File: creative/social/AD_CREATIVE_VIDEO_VERSION_B_PARTY_FORWARD.md
+
+3. **Carousel Ad - Version A (Charity-Forward)**
+   - 5-card carousel (Impact → Charity Story → Invitation → Details → CTA)
+   - Tone: Professional, purposeful, warm
+   - File: creative/social/AD_CREATIVE_CAROUSEL_VERSION_A_CHARITY_FORWARD.md
+
+4. **Carousel Ad - Version B (Party-Forward)**
+   - 5-card carousel (Party → Food → Games → Community → CTA)
+   - Tone: Energetic, bold, fun
+   - File: creative/social/AD_CREATIVE_CAROUSEL_VERSION_B_PARTY_FORWARD.md
+
+**Summary Document Created:**
+- creative/social/AD_CREATIVE_BRIEFS_SUMMARY.md
+- Includes all specs, compliance checklists, asset requirements, production timelines
+- A/B test strategy and predicted performance metrics
+
+### KEY COMPLIANCE NOTES:
+- ALL briefs 100% compliant with Meta cannabis policies
+- Zero "420" or cannabis terms (ads would be banned)
+- Zero cannabis imagery permitted
+- Position as: "21+ Holiday Charity Event & Toy Drive"
+- All text, imagery, tone safe for Facebook/Instagram ads
+
+### PRODUCTION PRIORITIES:
+If time/budget limited, prioritize in this order:
+1. Video Version B (Party-Forward) - Highest predicted ROI
+2. Video Version A (Charity-Forward) - Strong retargeting/mission-aligned
+3. Carousel Version B - Alternative format, lower production cost
+4. Carousel Version A - Niche appeal
+
+### NEXT ACTIONS:
+- [ ] Choose which creative(s) to produce first
+- [ ] Gather assets (photos, footage, graphics)
+- [ ] Produce video/carousel content
+- [ ] Set up Facebook Ads Manager
+- [ ] Launch Phase 1 ($5/day, Nov 26-29)
+
+---
+
 # KANNA KICKBACK 6 - WORKING NOTES
 **Live document for daily updates, decisions, and changes**
+
+---
+
+## 2025-11-26 (Night) - Transcripts Processed + New Tasks Added
+
+### TRANSCRIPTS PROCESSED:
+- `241126_0257` - Nirvana announcement (already done - extended to Dec 19)
+- `241126_1240` - DIY stencil street signs for AJ area
+- `241126_1242` - Hyper-local paid ads (AJ, Queen Creek, Santan Valley)
+
+### NEW TASKS ADDED:
+
+**1. DIY STENCIL STREET SIGNS**
+- Method: Cut stencils, spray paint on corrugated plastic
+- Size: 18"x12" recommended (80 signs from 10 sheets) or 24"x18" (40 signs)
+- Colors: Red + Green on White (or Black)
+- Messaging: "21+ XMAS PARTY | DEC 6 | GINZA GOLD CANYON | 420 FRIENDLY"
+- Deploy: Nov 30 - Dec 1 across Apache Junction
+- Design brief: `creative/print/STENCIL_SIGNS_DESIGN_BRIEF.md`
+
+**2. HYPER-LOCAL PAID ADS (CRITICAL)**
+- Full research saved: `C:/Users/figon/zeebot/r/hyper-local-event-advertising-kk6-2025-11-26.md`
+- **COMPLIANCE WARNING:** Cannot use "420" or cannabis terms in ads - will get banned
+- Position as: "21+ Holiday Charity Event & Toy Drive"
+- Platforms: Facebook + Instagram ONLY (skip TikTok)
+- Budget: $97 total over 10 days (Phase 1: $5/day, Phase 2: $8/day, Final: $15/day)
+- Target: 15-mile radius from Ginza OR zip codes 85118, 85117, 85119, 85120, 85140, 85142, 85143
+- **LAUNCH TODAY** - Every day without ads = lost reach
+
+**3. MENU PRINTING BACKUP**
+- May go to Staples/Office Max for rigid laminate instead of corrugated
+- Check prices Friday
+- Should be ready in time for Dec 6
+
+### BOX STATUS UPDATES:
+- Fancy Pets: ✅ CONFIRMED OK
+- Ginza: ✅ CONFIRMED OK
+
+### NEW RSVP:
+- Rodrigo Trejo (pumaslove13@gmail.com) - Total now 17
+
+---
+
+## 2025-11-26 (Late PM) - Menu Reveal Carousel Regenerated + Rescheduled
+
+### ✅ COMPLETED THIS SESSION:
+- Regenerated Menu Reveal carousel (4 slides) WITHOUT prices - prices only on website
+- Added food icons to slides 2 (Entrees) and 3 (Sushi) for visual appeal
+- Fixed incorrect menu items on Entrees slide (was showing wrong items like Honey Walnut Shrimp)
+- Correct entrees now: Orange Chicken/Beef, Teriyaki Chicken/Beef, Mongolian Beef, Fried Rice (with options)
+- Uploaded all 4 slides to new Postiz instance
+- Rescheduled Menu Reveal post for Nov 27, 6pm MST (IG + FB)
+- Updated Postiz URLs across 6 documentation files (old instance went down)
+
+### 📋 KEY TECHNICAL INFO:
+- **New Postiz URL:** `anhrol6q3d83l850m9svibivrk.ingress.akash-palmito.org`
+- **Menu Reveal Post IDs:** IG `cmigri49g000cfh87b4cehh10`, FB `cmigri4qu000dfh8753eexpyu`
+- **Kie.ai API Key updated:** New key in `.env` file
+- **Image Compression:** All slides compressed to ~250KB for Postiz upload
+
+### 📁 KEY FILES CREATED/UPDATED:
+- `creative/social/images/MENU_REVEAL/menu_carousel_slide_1_intro_small.jpg` (252KB)
+- `creative/social/images/MENU_REVEAL/menu_carousel_slide_2_entrees_v4_small.jpg` (272KB) - FINAL correct version
+- `creative/social/images/MENU_REVEAL/menu_carousel_slide_3_sushi_v2_small.jpg` (251KB) - with food icons
+- `creative/social/images/MENU_REVEAL/menu_carousel_slide_4_specialty_small.jpg` (257KB)
+- `creative/social/images/MENU_REVEAL/post_payload_final.json` - Postiz API payload
+- Updated 6 docs with new Postiz URL
+
+### 🔴 NEXT IMMEDIATE ACTIONS:
+- Verify Menu Reveal post goes live Nov 27 6pm MST
+- Review and update bob-ross agent config if needed
+- Continue with remaining social content posts
 
 ---
 
