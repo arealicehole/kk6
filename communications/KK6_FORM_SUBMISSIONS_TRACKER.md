@@ -1,6 +1,6 @@
 # KannaKickback 6 - Form Submissions Tracker
 
-**Last Updated:** 2025-11-26
+**Last Updated:** 2025-11-27
 **Purpose:** Track all form submissions from kannakickback.com
 
 ---
@@ -9,6 +9,8 @@
 
 | Date | Name | Email | Phone | Status | Notes |
 |------|------|-------|-------|--------|-------|
+| Nov 27 | **Nick Reato** | nickreato@gmail.com | (480) 386-4409 | ✅ CONFIRMED | Organic website RSVP |
+| Nov 27 | **Meghan Reato** | meghanreato@gmail.com | (480) 386-3508 | ✅ CONFIRMED | Organic website RSVP |
 | Nov 26 | **Rodrigo Trejo** | pumaslove13@gmail.com | (480) 600-2118 | ✅ CONFIRMED | Organic website RSVP (submitted twice) |
 | Nov 23 | **Trevor Meyer** | trevormeyer3@gmail.com | (480) 904-8679 | ✅ CONFIRMED | Organic website RSVP |
 | Nov 21 | **Emily Walker** | emily.cannadega@gmail.com | (480) 495-6942 | ✅ CONFIRMED | Organic website RSVP |
@@ -27,7 +29,7 @@
 | Nov 15 | **Deno Easter** | deasterdenoeasterdeaster@hotmail.com | (480) 504-7160 | ✅ CONFIRMED | Real RSVP |
 | Nov 15 | **Rita Pacchiana** | ritajeanmary@hotmail.com | (480) 249-5516 | ✅ CONFIRMED | Real RSVP |
 
-**Total Real RSVPs: 17** (5 from Nov 20-21 email blast! 🎉)
+**Total Real RSVPs: 19** (5 from Nov 20-21 email blast! 🎉)
 
 ---
 
@@ -63,7 +65,7 @@
 
 ## SUMMARY STATS
 
-- **Total Event RSVPs:** 17 people confirmed ✅
+- **Total Event RSVPs:** 19 people confirmed ✅
   - **5 RSVPs from Nov 20-21 email blast!** 🎉
     - Jenny Williamson
     - Bong blazer (Marco Soto) - ORIGINAL KREW MEMBER since 2020!

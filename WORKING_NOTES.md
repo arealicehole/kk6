@@ -24,6 +24,11 @@
 - Schedule remaining unscheduled posts (POST_04, POST_05, POST_09, POST_10)
 - Review POST_06 slide 4 quote grammar ("outdone yourself" → "outdone themselves")
 
+### 📊 NEW RSVPs:
+- Meghan Reato (meghanreato@gmail.com) - Organic website RSVP
+- Nick Reato (nickreato@gmail.com) - Organic website RSVP
+- **Total RSVPs: 17 → 19**
+
 ---
 
 ## 2025-11-27 - Meta Ads Carousel Campaign LIVE
