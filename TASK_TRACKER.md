@@ -123,7 +123,7 @@
 | ✅ DONE | **Push website changes to GitHub & deploy to Netlify** | Claude | Nov 24 | ✅ PUSHED - Deploying to kannakickback.com now |
 | ✅ DONE | **Verify Fancy Pets & Ginza boxes still in place** | Team | Nov 25 | ✅ CONFIRMED Nov 26 - Both boxes OK |
 | 🔴 TODO | **Coordinate September's Bar box delivery** | Gilbert | Nov 26 | NEW - they said they want one |
-| 🔴 TODO | **Launch Facebook/IG Ads Stage 1** | Team | Nov 26 | **HYPER-LOCAL:** 15mi radius from Ginza, AJ/QC/Santan, $5/day, NO "420" terms - See research doc |
+| ✅ DONE | **Launch Facebook/IG Ads Stage 1** | Team | Nov 26 | ✅ Ad live: 599 reach, 1.72% CTR, $4.14 spent (Nov 27) |
 | 🔴 TODO | **Daily Facebook Group posts (1-2/day)** | Moderator | Nov 23-29 | Follow content calendar from strategy doc |
 | 🔴 TODO | Social posts #9-13 | | Nov 23-29 | Ramp up frequency |
 | 🔴 TODO | **Review and schedule all remaining social posts** | Gilbert | Nov 23 | POST #3-15 need review/scheduling |

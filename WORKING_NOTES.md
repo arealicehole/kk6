@@ -29,6 +29,12 @@
 - Nick Reato (nickreato@gmail.com) - Organic website RSVP
 - **Total RSVPs: 17 → 19**
 
+### 📊 ANALYTICS & TRACKING:
+- Installed Google Analytics 4 (G-G4V5SC2M7L) on kannakickback.com
+- Created operations/ANALYTICS_TRACKER.md (GA4 + website ops doc)
+- Updated Meta ad stats: 599 reach, 640 impressions, 11 clicks, 1.72% CTR, $4.14 spent
+- Updated operations/AD_CAMPAIGN_TRACKER.md with full-day performance
+
 ---
 
 ## 2025-11-27 - Meta Ads Carousel Campaign LIVE

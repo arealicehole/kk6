@@ -71,7 +71,7 @@ instagram_positions: ["stream", "story"]
 ### Campaign 1 Performance:
 | Date | Reach | Impressions | Clicks | CTR | Spend |
 |------|-------|-------------|--------|-----|-------|
-| Nov 27 | - | - | - | - | - |
+| Nov 27 | 599 | 640 | 11 | 1.72% | \.14 |
 | Nov 28 | | | | | |
 | Nov 29 | | | | | |
 | Nov 30 | | | | | |
