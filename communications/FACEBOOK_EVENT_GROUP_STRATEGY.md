@@ -261,11 +261,11 @@ Let's make KannaKickback 6 the biggest yet! 🎁
 **Sunday, Nov 30:**
 - Countdown begins: "6 DAYS UNTIL KK6!" graphic
 - Behind-the-scenes: Vendor booth setup preview
+- **FINAL WALKTHROUGH + DECORATING @ GINZA**
 
 **Monday, Dec 1:**
 - "5 Days" countdown post
 - User-generated content feature: Repost member donation photos
-- FINAL WALKTHROUGH + DECORATING @ GINZA
 
 **Tuesday, Dec 2:**
 - "4 Days" countdown post

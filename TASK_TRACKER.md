@@ -123,7 +123,7 @@
 | ✅ DONE | **Push website changes to GitHub & deploy to Netlify** | Claude | Nov 24 | ✅ PUSHED - Deploying to kannakickback.com now |
 | ✅ DONE | **Verify Fancy Pets & Ginza boxes still in place** | Team | Nov 25 | ✅ CONFIRMED Nov 26 - Both boxes OK |
 | 🔴 TODO | **Coordinate September's Bar box delivery** | Gilbert | Nov 26 | NEW - they said they want one |
-| 🔴 TODO | **MONDAY Final Walkthrough + Decorating** | Team | Dec 1 | GINZA - Mon Dec 1 - Decorate, plan layout, anyone with input should attend |
+| 🔴 TODO | **SUNDAY Final Walkthrough + Decorating** | Team | Nov 30 | GINZA - Sun Nov 30 - Decorate, plan layout, anyone with input should attend |
 | 🔴 TODO | **Deliver boxes to AZ Smokers (6 locations)** | Gilbert | Nov 30-Dec 1 | NEW - Confirmed Nov 28, one on Power Rd |
 | 🔴 TODO | **Deliver boxes to September's Bar** | Gilbert | Nov 30 | NEW - Still need to deliver |
 | ✅ DONE | **Launch Facebook/IG Ads Stage 1** | Team | Nov 26 | ✅ Ad live: 599 reach, 1.72% CTR, $4.14 spent (Nov 27) |
@@ -183,7 +183,7 @@
 | 🟡 TODO | **Draft Email Blast #2 content** | | Nov 30 | "1 Week Out + Nirvana Partnership" |
 | 🟡 TODO | **Send Email Blast #2 to 2k+ list** | | Dec 1-2 | Coordinate with Post #11 (Dec 1 9am) |
 | 🟡 TODO | Record Podcast Ep 6-7 (finale) | | Dec 1 | Kickback Manifesto |
-| 🟡 TODO | Ginza walk-through execution | | Dec 1 | MONDAY - Final venue check + decorating |
+| 🟡 TODO | Ginza walk-through execution | | Nov 30 | SUNDAY - Final venue check + decorating |
 | 🟡 TODO | Deliver toys to Sojourner Center | | Dec 16-17 | After final collection (by Dec 20) |
 
 ### 🟢 MEDIUM

@@ -4,7 +4,7 @@
 
 **Problem:** Claude had been writing wrong day-of-week throughout docs:
 - Event is **SATURDAY Dec 6** (NOT Friday)
-- Walkthrough is **MONDAY Dec 1** (NOT Sunday)
+- Walkthrough is **SUNDAY Nov 30** (TOMORROW)
 - Had "Chantel's Bar" should be "September's Bar"
 
 **Files Fixed:**
@@ -25,8 +25,8 @@
 | Day | Date | Event |
 |-----|------|-------|
 | **Saturday** | Nov 29 | TODAY |
-| Sunday | Nov 30 | 6 days out |
-| **Monday** | Dec 1 | **FINAL WALKTHROUGH @ GINZA** |
+| **Sunday** | Nov 30 | **FINAL WALKTHROUGH @ GINZA** |
+| Monday | Dec 1 | 5 days out |
 | Tuesday | Dec 2 | 4 days out |
 | Wednesday | Dec 3 | 3 days out |
 | Thursday | Dec 4 | 2 days out |
@@ -71,7 +71,7 @@
 - Monday (Dec 1): Mop up remaining Nirvana centers
 - Gilbert checking if he can get Sunday off work
 
-**MONDAY DEC 1 - FINAL WALKTHROUGH:**
+**SUNDAY NOV 30 - FINAL WALKTHROUGH:**
 - Final walkthrough of Ginza facility
 - **DECORATING DAY** - bring all decorations
 - Call to action for KannaKrew: "Anyone involved with KannaKrew, this is the day to come"

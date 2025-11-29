@@ -13,8 +13,8 @@ Help me plan the Kanna Kickback 6 for the Kanna Krew
 |-----|------|-------|
 | **Friday** | Nov 28, 2025 | Yesterday |
 | **Saturday** | Nov 29, 2025 | **TODAY** - 7 days out |
-| **Sunday** | Nov 30, 2025 | 6 days out |
-| **Monday** | Dec 1, 2025 | 5 days out - FINAL WALKTHROUGH @ GINZA |
+| **Sunday** | Nov 30, 2025 | 6 days out - **FINAL WALKTHROUGH @ GINZA** |
+| **Monday** | Dec 1, 2025 | 5 days out |
 | **Tuesday** | Dec 2, 2025 | 4 days out |
 | **Wednesday** | Dec 3, 2025 | 3 days out |
 | **Thursday** | Dec 4, 2025 | 2 days out |
