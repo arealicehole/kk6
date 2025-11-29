@@ -1,6 +1,6 @@
 # KANNA KICKBACK 6 - TASK TRACKER
-**Last Updated:** 2025-11-27 (Image QA session - 9 images regenerated)
-**Days Until Event:** 9
+**Last Updated:** 2025-11-28 (Transcript processing - AZ Smokers 6 locations\!) (Image QA session - 9 images regenerated)
+**Days Until Event:** 8
 
 🔴 = CRITICAL | 🟡 = HIGH PRIORITY | 🟢 = MEDIUM | ⚪ = LOW
 
@@ -123,6 +123,9 @@
 | ✅ DONE | **Push website changes to GitHub & deploy to Netlify** | Claude | Nov 24 | ✅ PUSHED - Deploying to kannakickback.com now |
 | ✅ DONE | **Verify Fancy Pets & Ginza boxes still in place** | Team | Nov 25 | ✅ CONFIRMED Nov 26 - Both boxes OK |
 | 🔴 TODO | **Coordinate September's Bar box delivery** | Gilbert | Nov 26 | NEW - they said they want one |
+| 🔴 TODO | **Sunday Final Walkthrough + Decorating** | Team | Dec 1 | GINZA - Decorate, plan layout, anyone with input should attend |
+| 🔴 TODO | **Deliver boxes to AZ Smokers (6 locations)** | Gilbert | Nov 30-Dec 1 | NEW - Confirmed Nov 28, one on Power Rd |
+| 🔴 TODO | **Deliver boxes to Chantel's Bar** | Gilbert | Nov 30 | NEW - Still need to deliver |
 | ✅ DONE | **Launch Facebook/IG Ads Stage 1** | Team | Nov 26 | ✅ Ad live: 599 reach, 1.72% CTR, $4.14 spent (Nov 27) |
 | 🔴 TODO | **Daily Facebook Group posts (1-2/day)** | Moderator | Nov 23-29 | Follow content calendar from strategy doc |
 | 🔴 TODO | Social posts #9-13 | | Nov 23-29 | Ramp up frequency |
@@ -338,6 +341,7 @@
 |--------|------|---------|------|----------|------------|
 | ✅ DONE | Cherry Bomb | | | YES | Interested, waiting for details |
 | ⚪ TODO | Chill Pipe | | | | Ask for 30 bongs |
+| 🔴 TODO | **Text Dr. Dabber vendor pitch** | Team | Nov 28 | NEW - Pitch to be vendor, smoke out guests, photo ops w/ Santa |
 | ✅ DONE | Greek Glass | | Nov 11 | YES | Sponsor only (not vendor booth) |
 | ✅ RESPONDED | Special K | DM | Nov 11 | RESPONDED | Wants $600-900, have ~5 pieces (Nov 22) |
 | ⚪ TODO | Brian Jacobs | | | | Likely NO |
@@ -355,6 +359,7 @@
 | ✅ CONFIRMED | Lost My Marbles (OG Skunk) | TBD | Nov 22 | YES | ✅ Vendor booth confirmed |
 | ✅ CONFIRMED | Holy Smokes | TBD | Nov 22 | YES | ✅ Vendor booth confirmed |
 | ✅ CONFIRMED | Trapper Dan (clothing) | TBD | Nov 22 | YES | ✅ Vendor booth confirmed |
+| ✅ CONFIRMED | **IC Glass** | TBD | Nov 28 | YES | **NEW** - Verbal commit, setup 1pm, vend + smoke people out |
 
 ---
 

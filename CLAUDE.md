@@ -1,5 +1,30 @@
 Help me plan the Kanna Kickback 6 for the Kanna Krew
 
+---
+
+## DATE REFERENCE - READ THIS FIRST
+
+**IMPORTANT: Claude frequently gets dates/days wrong. ALWAYS refer to this calendar when discussing dates.**
+
+**EVENT DATE: Saturday, December 6, 2025 (KannaKickback 6)**
+
+### Countdown Calendar:
+| Day | Date | Notes |
+|-----|------|-------|
+| **Friday** | Nov 28, 2025 | TODAY (as of last update) |
+| **Saturday** | Nov 29, 2025 | 7 days out |
+| **Sunday** | Nov 30, 2025 | 6 days out |
+| **Monday** | Dec 1, 2025 | 5 days out - FINAL WALKTHROUGH @ GINZA |
+| **Tuesday** | Dec 2, 2025 | 4 days out |
+| **Wednesday** | Dec 3, 2025 | 3 days out |
+| **Thursday** | Dec 4, 2025 | 2 days out |
+| **Friday** | Dec 5, 2025 | 1 day out - First Friday |
+| **Saturday** | Dec 6, 2025 | **EVENT DAY - KK6 @ GINZA 2-6PM** |
+
+**When calculating days/dates, ALWAYS cross-reference this table. Do not guess.**
+
+---
+
 ## Project Structure
 
 ```

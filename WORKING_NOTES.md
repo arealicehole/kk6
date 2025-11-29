@@ -1,3 +1,85 @@
+## 2025-11-28 - Transcript Processing & RSVPs
+
+### ✅ NEW RSVP:
+- **Ashton Hogue** (shearbeauty19@gmail.com, 602-619-9731) - Organic website RSVP
+- **Total RSVPs: 19 → 20**
+
+### 📋 TRANSCRIPTS PROCESSED (Nov 28):
+
+**1. 241128_1334 - Sponsor Content Packages**
+- Key insight: Leverage KannaKlaus/Santa + Christmas theme for sponsor content
+- Event is 19 days before Christmas = prime time for brands to get holiday content
+- ACTION: Develop content package offerings for sponsors/vendors
+
+**2. 241128_1358 - Dr. Dabber Vendor Pitch**
+- Draft text message pitch to Dr. Dabber:
+  - Invite to be vendor, smoke people out, show products
+  - Can sell products at event
+  - Perfect photo/content opportunity with Santa in Christmas setting
+  - Expected attendance: 75-200 people
+- ACTION: Send text pitch to Dr. Dabber
+
+**3. Gilbert Call (Nov 28, 3:53pm) - Major Updates:**
+
+**BOX DELIVERY - NEW COMMITMENTS:**
+- **Arizona Smokers** - 6 LOCATIONS confirmed, wants boxes! (one on Power Road)
+- **Nirvana** - still need to deliver
+- **High Grade** - already delivered ✅
+- **Chantel's Bar** - still need to deliver
+- **Ginza** - should get box there (already have it)
+- **Bashes** - NO (owner is "a dick")
+
+**DELIVERY SCHEDULE:**
+- Sunday (Nov 30): AZ Smokers + some Nirvana
+- Monday (Dec 1): Mop up remaining Nirvana centers
+- Gilbert checking if he can get Sunday off work
+
+**SUNDAY DEC 1 - FINAL WALKTHROUGH:**
+- Final walkthrough of Ginza facility
+- **DECORATING DAY** - bring all decorations
+- Call to action for KannaKrew: "Anyone involved with KannaKrew, this is the day to come"
+- "Anyone who doesn't show Sunday has no input"
+- Greg might come through
+
+**TOY DRIVE CONFIDENCE:**
+- Feeling good about toy drive momentum
+- Richard (local regular) bringing "hella toys" even though he doesn't smoke
+- Might tie previous record (~,500)
+
+**OTHER NOTES:**
+- H Steaks coming tomorrow (Nov 29)
+- Need to "get a P and a hat" (product for giveaways)
+- Gilbert/Bong Blazer are only ones expecting big weed distribution
+
+### 📋 ADDITIONAL SESSION WORK (Nov 28 Evening):
+
+**CLAUDE.md UPDATED:**
+- Added explicit date calendar (Nov 28 - Dec 6) at top of file
+- Note added: "Claude gets dates wrong, always reference this table"
+
+**RESEARCH COMPLETED:**
+- Arizona Smokers - all 6 locations found via orchestrator-v2
+- Full addresses, phone numbers, Instagram handles for all
+
+**DISCORD ANNOUNCEMENT:**
+- Posted Sunday Dec 1 walkthrough announcement to #ppk-general
+- Tagged @ppk with full details about decorating day
+
+**WEBSITE UPDATED & DEPLOYED:**
+- Added 6 Arizona Smokers locations to kannakickback.com
+- Total box locations: 8 → 14
+- Pushed to GitHub, Netlify deploying
+
+**VENDORS CONFIRMED:**
+- IC Glass - verbal commit to vend + smoke people out, setup 1pm Dec 6
+
+**BOX TRACKER OVERHAUL:**
+- All boxes now have: name, address, IG handle, delivery status
+- Highgrade marked INTERNAL ONLY (employee lobby, not public)
+- Total confirmed boxes: 24 (exceeding 20-30 target!)
+
+---
+
 ## 2025-11-27 (Evening) - Image QA & Regeneration Session
 
 ### ✅ COMPLETED TODAY:
