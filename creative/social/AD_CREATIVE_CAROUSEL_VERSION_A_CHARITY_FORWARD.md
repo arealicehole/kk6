@@ -235,7 +235,7 @@ KannaKrew's annual community holiday party. Food, games, and festive vibes.
 **Text Overlay (On Image):**
 Left side:
 ```
-FRIDAY DEC 6
+SATURDAY DEC 6
 2-6PM
 ```
 
@@ -415,7 +415,7 @@ Last year: $6,500 in toys for families in need.
 This year: Let's beat it.
 
 KannaKickback 6
-Friday Dec 6 | 2-6pm
+Saturday Dec 6 | 2-6pm
 Ginza Asian Fusion, Gold Canyon
 
 🎁 Bring a toy

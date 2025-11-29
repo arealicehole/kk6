@@ -258,31 +258,33 @@ Let's make KannaKickback 6 the biggest yet! 🎁
 - Donation challenge: "Black Friday deal: Donate a toy, enter to win [prize]"
 - Leaderboard preview: "Most active donors this week"
 
-**Saturday, Nov 30:**
+**Sunday, Nov 30:**
 - Countdown begins: "6 DAYS UNTIL KK6!" graphic
 - Behind-the-scenes: Vendor booth setup preview
 
-**Sunday, Dec 1:**
+**Monday, Dec 1:**
 - "5 Days" countdown post
 - User-generated content feature: Repost member donation photos
+- FINAL WALKTHROUGH + DECORATING @ GINZA
 
-**Monday, Dec 2:**
+**Tuesday, Dec 2:**
 - "4 Days" countdown post
 - Vendor spotlight #2 + product giveaway announcement
 
-**Tuesday, Dec 3:**
+**Wednesday, Dec 3:**
 - "3 Days" countdown post
 - Box pickup schedule: "Last chance to donate at these locations!"
 
-**Wednesday, Dec 4:**
+**Thursday, Dec 4:**
 - "2 Days" countdown post
 - Final RSVP push: "Are you IN? Click RSVP + invite 3 friends"
 
-**Thursday, Dec 5:**
+**Friday, Dec 5:**
 - "1 DAY!" countdown post
 - Event details reminder: Time, location, what to bring, parking, etc.
+- First Friday activation
 
-**Friday, Dec 6 (EVENT DAY):**
+**Saturday, Dec 6 (EVENT DAY - KK6 @ GINZA 2-6PM):**
 - Morning: "IT'S TODAY!" hype post
 - During event: Live updates, photos, videos
 - Post-event: "Thank you!" recap + donation total reveal

@@ -22,11 +22,11 @@
 #### Carousel Cards:
 1. "$6,500 IN TOYS DONATED Last Year"
 2. "Benefiting SOJOURNER CENTER"
-3. "FRIDAY DEC 6 | 2-6PM | GINZA ASIAN FUSION"
+3. "SATURDAY DEC 6 | 2-6PM | GINZA ASIAN FUSION"
 4. "BRING A TOY BRING A FRIEND MAKE A DIFFERENCE"
 
 #### Primary Text:
-> Last year, our community donated $6,500 in toys for families in need. This year, we're going even bigger. Join us Friday, Dec 6 for a FREE holiday celebration benefiting the Sojourner Center. Bring a toy, bring a friend, make a difference.
+> Last year, our community donated $6,500 in toys for families in need. This year, we're going even bigger. Join us Saturday, Dec 6 for a FREE holiday celebration benefiting the Sojourner Center. Bring a toy, bring a friend, make a difference.
 
 #### CORRECTIONS LOG:
 | Date | Issue | Correction | By |

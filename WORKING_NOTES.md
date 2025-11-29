@@ -1,3 +1,40 @@
+## 2025-11-29 - MAJOR DATE AUDIT
+
+### 🚨 CRITICAL FIXES APPLIED:
+
+**Problem:** Claude had been writing wrong day-of-week throughout docs:
+- Event is **SATURDAY Dec 6** (NOT Friday)
+- Walkthrough is **MONDAY Dec 1** (NOT Sunday)
+- Had "Chantel's Bar" should be "September's Bar"
+
+**Files Fixed:**
+1. **CLAUDE.md** - Updated TODAY marker from Nov 28 → Nov 29
+2. **TASK_TRACKER.md** - Days Until Event 8→7, walkthrough=MONDAY Dec 1, September's Bar
+3. **WORKING_NOTES.md** - September's Bar, carousel card date
+4. **FACEBOOK_EVENT_GROUP_STRATEGY.md** - Fixed all day/date mismatches
+5. **AD_CAMPAIGN_TRACKER.md** - FRIDAY→SATURDAY
+6. **EMAIL_VENDORS_SPONSORS.md** - FRIDAY→SATURDAY
+7. **AD_CREATIVE_CAROUSEL_VERSION_A_CHARITY_FORWARD.md** - All FRIDAY→SATURDAY
+8. **AD_CREATIVE_CAROUSEL_VERSION_B_PARTY_FORWARD.md** - All FRIDAY→SATURDAY
+9. **AD_CREATIVE_VIDEO_VERSION_A_CHARITY_FORWARD.md** - All FRIDAY→SATURDAY
+10. **AD_CREATIVE_VIDEO_VERSION_B_PARTY_FORWARD.md** - All FRIDAY→SATURDAY
+11. **AD_EMERGENCY_CAROUSEL/TEXT_OVERLAY_INSTRUCTIONS.md** - FRIDAY→SATURDAY
+12. **AD_EMERGENCY_CAROUSEL/ad_carousel_generator.html** - FRIDAY→SATURDAY
+
+### 📅 CORRECT DATE REFERENCE (from CLAUDE.md):
+| Day | Date | Event |
+|-----|------|-------|
+| **Saturday** | Nov 29 | TODAY |
+| Sunday | Nov 30 | 6 days out |
+| **Monday** | Dec 1 | **FINAL WALKTHROUGH @ GINZA** |
+| Tuesday | Dec 2 | 4 days out |
+| Wednesday | Dec 3 | 3 days out |
+| Thursday | Dec 4 | 2 days out |
+| Friday | Dec 5 | 1 day out - First Friday |
+| **Saturday** | Dec 6 | **EVENT DAY - KK6 @ GINZA 2-6PM** |
+
+---
+
 ## 2025-11-28 - Transcript Processing & RSVPs
 
 ### ✅ NEW RSVP:
@@ -25,7 +62,7 @@
 - **Arizona Smokers** - 6 LOCATIONS confirmed, wants boxes! (one on Power Road)
 - **Nirvana** - still need to deliver
 - **High Grade** - already delivered ✅
-- **Chantel's Bar** - still need to deliver
+- **September's Bar** - still need to deliver
 - **Ginza** - should get box there (already have it)
 - **Bashes** - NO (owner is "a dick")
 
@@ -34,7 +71,7 @@
 - Monday (Dec 1): Mop up remaining Nirvana centers
 - Gilbert checking if he can get Sunday off work
 
-**SUNDAY DEC 1 - FINAL WALKTHROUGH:**
+**MONDAY DEC 1 - FINAL WALKTHROUGH:**
 - Final walkthrough of Ginza facility
 - **DECORATING DAY** - bring all decorations
 - Call to action for KannaKrew: "Anyone involved with KannaKrew, this is the day to come"
@@ -132,7 +169,7 @@
 - Generated 4 carousel images with Kie.ai (text baked in):
   - Card 1: "\,500 IN TOYS DONATED Last Year"
   - Card 2: "Benefiting SOJOURNER CENTER"
-  - Card 3: "FRIDAY DEC 6 | 2-6PM | GINZA ASIAN FUSION"
+  - Card 3: "SATURDAY DEC 6 | 2-6PM | GINZA ASIAN FUSION"
   - Card 4: "BRING A TOY BRING A FRIEND MAKE A DIFFERENCE"
 - Set up Meta app for Live mode (required for ad creation)
 - Created privacy policy page on tricondigital.com/privacy-policy.html

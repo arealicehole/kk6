@@ -148,7 +148,7 @@ KannaKlaus Invites You
 
 **Text Overlay:**
 ```
-Friday, Dec 6
+Saturday, Dec 6
 2-6pm
 ```
 (White text, bold, top of screen)
@@ -245,7 +245,7 @@ KannaKickback.com
 **0-3s:** "Last Year: $6,500 in Toys"
 **3-7s:** "Benefiting Sojourner Center"
 **7-11s:** "KannaKlaus Invites You"
-**11-16s:** "Friday, Dec 6 | 2-6pm" → "Ginza Asian Fusion, Gold Canyon, AZ"
+**11-16s:** "Saturday, Dec 6 | 2-6pm" → "Ginza Asian Fusion, Gold Canyon, AZ"
 **16-20s:** "FREE 21+ Event"
 **20-25s:** "BRING A TOY, BRING A FRIEND | RSVP FREE | KannaKickback.com"
 
@@ -283,7 +283,7 @@ Make the Holidays Brighter 🎁
 ```
 Join KannaKrew's 6th annual toy drive celebration! Last year we donated $6,500 to Sojourner Center. Help us top it in 2025.
 
-Friday, Dec 6 | 2-6pm
+Saturday, Dec 6 | 2-6pm
 Ginza Asian Fusion, Gold Canyon
 
 Bring an unwrapped toy. Enjoy food, games, and holiday festivities with your East Valley neighbors.
@@ -318,7 +318,7 @@ $6,500 in toys donated last year. Let's top it!
 
 Join KannaKrew's annual holiday celebration & toy drive.
 
-📅 Friday Dec 6 | 2-6pm
+📅 Saturday Dec 6 | 2-6pm
 📍 Ginza Asian Fusion, Gold Canyon
 🎁 Bring a toy, bring a friend
 
@@ -332,7 +332,7 @@ FREE 21+ event | RSVP now
 Help us beat last year's $6,500 toy donation to Sojourner Center!
 
 KannaKickback 6
-Friday Dec 6 | 2-6pm
+Saturday Dec 6 | 2-6pm
 Ginza Asian Fusion, Gold Canyon
 
 Food | Games | Giveaways | Community

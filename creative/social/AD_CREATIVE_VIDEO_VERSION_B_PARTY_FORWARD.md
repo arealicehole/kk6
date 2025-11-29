@@ -205,7 +205,7 @@ Benefiting Sojourner Center
 
 **Text Overlay:**
 ```
-FRIDAY DEC 6
+SATURDAY DEC 6
 2-6PM
 ```
 (Large text, top half)
@@ -273,7 +273,7 @@ KannaKickback.com
 **7-12s:** "GAMES | GIVEAWAYS | PRIZES" (sequential)
 **12-18s:** "East Valley's Favorite Party" → "21+ FREE Event"
 **18-22s:** "Oh, and you'll help local families too! 🎁 | Benefiting Sojourner Center"
-**22-25s:** "FRIDAY DEC 6 | 2-6PM | Ginza Asian Fusion, Gold Canyon, AZ"
+**22-25s:** "SATURDAY DEC 6 | 2-6PM | Ginza Asian Fusion, Gold Canyon, AZ"
 **25-28s:** "BRING A TOY | BRING A FRIEND | BRING THE VIBES | RSVP FREE | KannaKickback.com"
 
 ---
@@ -317,7 +317,7 @@ Join us at Ginza Asian Fusion in Gold Canyon for an afternoon of:
 
 Oh, and you'll help support local families too - bring an unwrapped toy for Sojourner Center!
 
-Friday Dec 6 | 2-6pm | Gold Canyon
+Saturday Dec 6 | 2-6pm | Gold Canyon
 FREE entry | 21+ only
 
 Bring a toy. Bring a friend. Bring the vibes.

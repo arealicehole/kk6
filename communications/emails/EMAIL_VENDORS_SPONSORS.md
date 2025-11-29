@@ -11,10 +11,10 @@
 
 Hey [Vendor Name],
 
-[Your Name] from KannaKrew here! We're throwing our 6th annual KannaKickback on Friday, December 6th and I'd love to have you set up a booth.
+[Your Name] from KannaKrew here! We're throwing our 6th annual KannaKickback on Saturday, December 6th and I'd love to have you set up a booth.
 
 **The event:**
-- **Date:** Friday, Dec 6, 2025, 2-6pm
+- **Date:** Saturday, Dec 6, 2025, 2-6pm
 - **Location:** Ginza Restaurant, Gold Canyon
 - **Vibe:** Holiday smoker's party + charity toy drive (all toys go to Sojourner Center)
 - **Expected attendance:** 100+ people from East Valley cannabis community

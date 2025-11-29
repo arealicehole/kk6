@@ -77,7 +77,7 @@ in our community
 
 **Text to Add:**
 ```
-FRIDAY DEC 6
+SATURDAY DEC 6
 2-6PM
 
 GINZA ASIAN FUSION
@@ -87,7 +87,7 @@ FREE 21+ Event
 ```
 
 **Typography:**
-- "FRIDAY DEC 6" size: 50-60pt, bold, white
+- "SATURDAY DEC 6" size: 50-60pt, bold, white
 - "2-6PM" size: 55-65pt, bold, white
 - Venue name: 40-45pt, bold, white
 - Location: 30-35pt, regular, white
@@ -168,7 +168,7 @@ Before finalizing ads, verify:
 ## Ad Copy Suggestions
 
 **Primary Text (appears above carousel):**
-"Last year, our community donated $6,500 in toys for families in need. This year, we're going even bigger. Join us Friday, Dec 6 for a FREE holiday celebration benefiting the Sojourner Center. Bring a toy, bring a friend, make a difference."
+"Last year, our community donated $6,500 in toys for families in need. This year, we're going even bigger. Join us Saturday, Dec 6 for a FREE holiday celebration benefiting the Sojourner Center. Bring a toy, bring a friend, make a difference."
 
 **Headline:**
 "KannaKickback 6: Holiday Celebration & Toy Drive"

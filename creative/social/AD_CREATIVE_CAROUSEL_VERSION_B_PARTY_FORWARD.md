@@ -264,7 +264,7 @@ A celebration of community. Meet new friends, reconnect with old ones.
 
 **Text Overlay (On Image):**
 ```
-FRIDAY DEC 6
+SATURDAY DEC 6
 2-6PM
 
 GINZA ASIAN FUSION
@@ -354,7 +354,7 @@ Make new friends, reconnect with old ones
 🎁 OH, AND:
 Help local families - bring an unwrapped toy for Sojourner Center
 
-FRIDAY DEC 6 | 2-6PM | GOLD CANYON
+SATURDAY DEC 6 | 2-6PM | GOLD CANYON
 FREE 21+ EVENT
 
 Bring a toy. Bring a friend. Bring the vibes.
