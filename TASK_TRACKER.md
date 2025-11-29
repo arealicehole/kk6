@@ -144,6 +144,9 @@
 | 🔴 TODO | Black Friday activation | | Nov 28 | Booth/presence |
 | 🔴 TODO | **Launch gamification in Facebook Group** | | Nov 26 | Photo challenge, leaderboard, badges |
 | 🔴 TODO | Assemble gift bags | | Nov 27 | Production line |
+| 🔴 TODO | Reset Facebook/Meta Ads | Gilbert | Nov 29 | After bank run |
+| 🔴 TODO | Create sponsor/vendor shoutout post | Claude | Nov 30 | Waiting for IG handles from Discord |
+| 🟡 TODO | Follow up with Nirvana on vendor booth pitch | Team | Dec 2 | Email sent to Max Nov 29 |
 
 ### 🟡 HIGH PRIORITY
 | Status | Task | Owner | Due | Notes |
@@ -357,7 +360,6 @@
 | ✅ DONE | The High Lounge | TBD | Nov 21 | YES | ✅ Cannabis lounge Tempe - Box hosting confirmed |
 | ✅ DONE | Level Up Smoke Shop (reconfirmed) | TBD | Nov 21 | YES | ✅ Glendale - Box hosting reconfirmed |
 | ✅ CONFIRMED | Lost My Marbles (OG Skunk) | TBD | Nov 22 | YES | ✅ Vendor booth confirmed |
-| ✅ CONFIRMED | Holy Smokes | TBD | Nov 22 | YES | ✅ Vendor booth confirmed |
 | ✅ CONFIRMED | Trapper Dan (clothing) | TBD | Nov 22 | YES | ✅ Vendor booth confirmed |
 | ✅ CONFIRMED | **IC Glass** | TBD | Nov 28 | YES | **NEW** - Verbal commit, setup 1pm, vend + smoke people out |
 

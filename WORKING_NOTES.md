@@ -33,7 +33,34 @@
 | Friday | Dec 5 | 1 day out - First Friday |
 | **Saturday** | Dec 6 | **EVENT DAY - KK6 @ GINZA 2-6PM** |
 
+## November 29, 2025 (Saturday) - Content Audit & Nirvana Vendor Pitch
+
+### ✅ COMPLETED TODAY:
+- Postiz content audit - found 12 published, 2 queued (Nirvana Dec 1), 0 scheduled after Dec 1
+- Identified content gap: No posts scheduled for Dec 2-5
+- Sent email to Max (Nirvana) pitching vendor booth at KK6
+- Posted in PPK General Discord asking for vendor/sponsor IG handles + photos
+- Removed incorrect "Holy Smokes" vendor from tracker (was never a real vendor)
+- Confirmed correct vendor list: Lost My Marbles, Trapper Dan, IC Glass, Hetti Supply (pending)
+
+### 📋 DECISIONS MADE:
+- Sponsor/vendor shoutout post is priority for tomorrow (Nov 30) or Monday
+- Need minimum 1 post/day for final week (Dec 1-6)
+- Nirvana pitch angle: vendor booth + Christmas content opportunity (KannaKlaus, holiday themed)
+
+### 📁 KEY FILES CREATED/UPDATED:
+- TASK_TRACKER.md - Removed Holy Smokes, confirmed IC Glass
+
+### 🔴 NEXT IMMEDIATE ACTIONS:
+- Gilbert: Bank run, then reset Meta ads
+- Gilbert: Deliver boxes to September's Bar, AZ Smokers (Power Rd), AJ Nirvana
+- Gilbert: Order printed menu
+- Claude: Create sponsor/vendor shoutout post when IG handles come in
+- Claude: Schedule POST_09 (Event Guide) for Dec 4
+- Claude: Fill Dec 2-3 content gaps
+
 ---
+
 
 ## 2025-11-28 - Transcript Processing & RSVPs
 
