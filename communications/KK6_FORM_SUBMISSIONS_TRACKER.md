@@ -9,6 +9,7 @@
 
 | Date | Name | Email | Phone | Status | Notes |
 |------|------|-------|-------|--------|-------|
+| Nov 29 | **Luis Moya** | luis.moya1988@gmail.com | (623) 455-2847 | ✅ CONFIRMED | Organic website RSVP |
 | Nov 28 | **Ashton Hogue** | shearbeauty19@gmail.com | (602) 619-9731 | ✅ CONFIRMED | Organic website RSVP |
 | Nov 27 | **Nick Reato** | nickreato@gmail.com | (480) 386-4409 | ✅ CONFIRMED | Organic website RSVP |
 | Nov 27 | **Meghan Reato** | meghanreato@gmail.com | (480) 386-3508 | ✅ CONFIRMED | Organic website RSVP |
@@ -30,7 +31,7 @@
 | Nov 15 | **Deno Easter** | deasterdenoeasterdeaster@hotmail.com | (480) 504-7160 | ✅ CONFIRMED | Real RSVP |
 | Nov 15 | **Rita Pacchiana** | ritajeanmary@hotmail.com | (480) 249-5516 | ✅ CONFIRMED | Real RSVP |
 
-**Total Real RSVPs: 20** (5 from Nov 20-21 email blast! 🎉)
+**Total Real RSVPs: 21** (5 from Nov 20-21 email blast! 🎉)
 
 ---
 
@@ -66,7 +67,7 @@
 
 ## SUMMARY STATS
 
-- **Total Event RSVPs:** 20 people confirmed ✅
+- **Total Event RSVPs:** 21 people confirmed ✅
   - **5 RSVPs from Nov 20-21 email blast!** 🎉
     - Jenny Williamson
     - Bong blazer (Marco Soto) - ORIGINAL KREW MEMBER since 2020!

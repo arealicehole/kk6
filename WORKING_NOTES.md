@@ -1,3 +1,34 @@
+## 2025-11-29 (Saturday Evening) - IG Handles Collected & Design Specs Updated
+
+### ✅ COMPLETED TODAY:
+- Collected ALL vendor/sponsor IG handles via Discord PPK General
+- Created comprehensive cannabis holiday marketing research (847 lines)
+- Created Christmas Sponsor Pitch Guide (communications/)
+- Created FINAL_WEEK_CONTENT_DEC_1-6.md content calendar
+- Created POST_12 Sponsor Shoutout design specs (5 slides)
+- Created POST_15 24-Hour Countdown design specs
+- Updated POST_12 with all handles, corrected Special K as sponsor not vendor
+- Discovered NEW vendor: Lazy Dog Homestead (glass crafts + 3D prints)
+
+### 📋 DECISIONS MADE:
+- Special K is SPONSOR (not vendor) - corrected in all docs
+- Final counts: 5 vendors + 4 sponsors
+
+### 📁 KEY FILES CREATED/UPDATED:
+- r/cannabis-holiday-marketing-research-2025-11-29.md (NEW - 847 lines)
+- communications/CHRISTMAS_SPONSOR_PITCH_GUIDE.md (NEW)
+- creative/social/FINAL_WEEK_CONTENT_DEC_1-6.md (NEW)
+- creative/social/POST_12_SPONSOR_SHOUTOUT_DESIGN_SPECS.md (NEW)
+- creative/social/POST_15_24HR_COUNTDOWN_DESIGN_SPECS.md (NEW)
+- TASK_TRACKER.md (Updated vendors/sponsors with handles)
+
+### 🔴 NEXT IMMEDIATE ACTIONS:
+- Generate POST_12 images using visual-creator subagent
+- Sunday: Final walkthrough @ Ginza
+- Deliver boxes to AZ Smokers, September's Bar
+
+---
+
 ## 2025-11-29 - MAJOR DATE AUDIT
 
 ### 🚨 CRITICAL FIXES APPLIED:
