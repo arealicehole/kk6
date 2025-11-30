@@ -1,0 +1,9 @@
+{
+  "model": "nano-banana-pro",
+  "input": {
+    "prompt": "Create a clean vendor spotlight poster, 1080x1080px square format. Top section (15% height) has dark crimson red header bar with hex color DC143C, white text EVENT VENDORS with fire emoji centered in bold 52px font. Center section (70% height) contains exactly 5 rounded rectangle panels arranged in grid on white FFFFFF background. Each panel has light gray background F5F5F5 with gray circle placeholder for logo at top, bold business name below in dark gray, Instagram handle in lighter gray 24px, and tagline in regular dark gray. The five vendors: First panel LOST MY MARBLES at lostmymarblesglass Premium flower with fire emoji. Second panel TRAPPER DAN at trapperdan underscore clothing Fresh threads plus KK6 shirt winner with shirt emoji. Third panel IC GLASS at ic underscore glass Custom glass plus smoke sessions with crystal ball emoji. Fourth panel HETTI SUPPLY AZ at hettisupplyaz Running the dab bar with smoke emoji. Fifth panel LAZY DOG HOMESTEAD at lazy underscore dog underscore homestead Glass crafts plus 3D prints with dog emoji. Bottom section (10% height) has footer text See them all December 6 at Ginza exclamation in dark gray 333333 32px font. Clean professional design, organized grid layout, perfect typography, exactly 5 vendor panels.",
+    "aspect_ratio": "1:1",
+    "resolution": "2K",
+    "output_format": "png"
+  }
+}
