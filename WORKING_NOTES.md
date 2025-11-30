@@ -1,3 +1,32 @@
+## 2025-11-29 (Evening) - Box List Posted to Discord, Content Images Ready
+
+### ✅ COMPLETED TODAY:
+- Posted full toy box location list to Discord PPK General (23 total: 11 placed, 12 pending with all addresses)
+- Generated POST_15 (24-hour countdown) images via Bob Ross agent
+- Generated POST_12 (sponsor/vendor shoutout) 5-slide carousel via Bob Ross agent (placeholder logos)
+- Processed voice notes from errands run
+- Menus picked up - look beautiful
+- Boxes delivered: Nirvana AJ, AZ Smokers Power Rd, AZ Smokers 67th
+
+### 📋 DECISIONS MADE:
+- Need separate order pages/tally sheets for servers (big menus too cumbersome)
+- Need 2 "Private Event" signs with incognito Skunk branding
+- Create vanilla version of toy box (no pot leaves) for general locations
+- Ads running at $8/day (upped from previous)
+
+### 📁 KEY FILES CREATED/UPDATED:
+- creative/social/images/POST_15/slide_1.png - 24-hour countdown image (7.7 MB)
+- creative/social/images/POST_12/ - 5 slides sponsor/vendor carousel (~26 MB total)
+- Discord PPK General - Full box location list with all addresses
+
+### 🔴 NEXT IMMEDIATE ACTIONS:
+- Replace placeholder logos in POST_12 with actual sponsor/vendor logos
+- Schedule POST_12 (Dec 2) and POST_15 (Dec 5) via Postiz
+- Create order pages/tally sheets for Ginza servers
+- Storage run for decorations (before Sunday walkthrough)
+
+---
+
 ## 2025-11-29 (Saturday Evening) - IG Handles Collected & Design Specs Updated
 
 ### ✅ COMPLETED TODAY:

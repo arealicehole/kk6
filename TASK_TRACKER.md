@@ -1,5 +1,5 @@
 # KANNA KICKBACK 6 - TASK TRACKER
-**Last Updated:** 2025-11-29 (Date audit - fixing all date references)
+**Last Updated:** 2025-11-29 (Evening update)
 **Days Until Event:** 7
 
 🔴 = CRITICAL | 🟡 = HIGH PRIORITY | 🟢 = MEDIUM | ⚪ = LOW
@@ -103,6 +103,12 @@
 | 🟢 TODO | Flyer distribution run #1 | | Nov 24 | Smoke shops, dispensaries (flyers RECEIVED Nov 20) |
 | ✅ DONE | **Plan paid ads & create creative briefs** | Claude | Nov 26 | ✅ 4 COMPLETE BRIEFS: 2 video ads (charity vs party) + 2 carousel ads - See creative/social/AD_CREATIVE_BRIEFS_SUMMARY.md |
 | 🔴 TODO | **PRODUCE paid ad video/carousel content** | Team | Nov 27 | URGENT: Need to produce from briefs and launch Phase 1 ASAP |
+| 🔴 TODO | **Create order pages/tally sheets for servers** | Team | Dec 5 | Separate from big menus - easier for ordering |
+| 🔴 TODO | **Create "Private Event" signs (Skunk branding)** | Team | Dec 5 | Incognito branding - 2 signs needed |
+| 🔴 TODO | **Create vanilla toy box design (no pot leaves)** | Team | Dec 3 | For general/non-cannabis locations |
+| 🟡 TODO | **Replace placeholder logos in POST_12** | Gilbert | Dec 1 | Need actual sponsor/vendor logos before posting |
+| 🟡 TODO | **Schedule POST_12 via Postiz** | Claude | Dec 2 | After logo replacement - sponsor/vendor shoutout |
+| 🟡 TODO | **Schedule POST_15 via Postiz** | Claude | Dec 5 | 24-hour countdown post |
 | 🔴 TODO | **LAUNCH paid ads Phase 1** | Team | Nov 27 | $5/day, Facebook/Instagram, 15-mile radius from Ginza, 21+ only |
 | 🟢 TODO | Order custom wrapping paper | | Nov 17 | If decided yes |
 | 🟢 TODO | Send RSVP confirmations (9 people) | | Nov 21-22 | **NEW:** Stephanie Crawford (from email blast!) + Andreah Crowe |
@@ -133,7 +139,6 @@
 | 🔴 TODO | **Adjust POST #6 Black Friday dates** | Gilbert | Nov 23 | Change Nov 29 to Nov 28 manually |
 | 🔴 TODO | **Extract Seren video clip for POST #6** | Gilbert + Claude | Nov 23 | Add to carousel |
 | 🔴 TODO | **Identify existing Facebook cannabis groups** | Team | Nov 23 | For Option C strategy |
-| 🔴 TODO | **Circle back with Cherry Bomb** | Team | Nov 24 | Confirm vendor status |
 | 🔴 TODO | **Contact Bong Blazer for vendor help** | Team | Nov 24 | Specific asks |
 | 🔴 TODO | **Meeting: Event itinerary + crowd interactive** | Team | Nov 25 | Plan timeline |
 | 🔴 TODO | **Meeting: Ring toss game planning** | Team | Nov 25 | Creative solution |
@@ -144,8 +149,8 @@
 | 🔴 TODO | Black Friday activation | | Nov 28 | Booth/presence |
 | 🔴 TODO | **Launch gamification in Facebook Group** | | Nov 26 | Photo challenge, leaderboard, badges |
 | 🔴 TODO | Assemble gift bags | | Nov 27 | Production line |
-| 🔴 TODO | Reset Facebook/Meta Ads | Gilbert | Nov 29 | After bank run |
-| 🔴 TODO | Create sponsor/vendor shoutout post | Claude | Nov 30 | Waiting for IG handles from Discord |
+| ✅ DONE | Reset Facebook/Meta Ads | Gilbert | Nov 29 | ✅ Restarted + upped to $8/day |
+| 🟡 IN PROGRESS | Create sponsor/vendor shoutout post | Claude | Dec 2 | ✅ Images generated with placeholder logos - need real logos |
 | 🟡 TODO | Follow up with Nirvana on vendor booth pitch | Team | Dec 2 | Email sent to Max Nov 29 |
 
 ### 🟡 HIGH PRIORITY
@@ -342,11 +347,12 @@
 ### Vendors/Sponsors:
 | Status | Name | Contact | Sent | Response | Commitment |
 |--------|------|---------|------|----------|------------|
-| ✅ DONE | Cherry Bomb | | | YES | Interested, waiting for details |
+| ❌ CANCELLED | Cherry Bomb | | | CANCELLED | Was interested, cancelled |
 | ⚪ TODO | Chill Pipe | | | | Ask for 30 bongs |
 | 🔴 TODO | **Text Dr. Dabber vendor pitch** | Team | Nov 28 | NEW - Pitch to be vendor, smoke out guests, photo ops w/ Santa |
-| ✅ DONE | Greek Glass | | Nov 11 | YES | Sponsor only (not vendor booth) |
-| ✅ RESPONDED | Special K | DM | Nov 11 | RESPONDED | Wants $600-900, have ~5 pieces (Nov 22) |
+| ✅ DONE | Greek Glass | @greek_glass | Nov 11 | YES | Sponsor only (not vendor booth) |
+| ✅ DONE | Special K | @speciakglass | Nov 29 | YES | Sponsor only (not vendor booth) - Glass prizes |
+| ✅ DONE | Gemmi Connect | @gemiconnect | Nov 29 | YES | Sponsor - Pre-rolls for digital flyer |
 | ⚪ TODO | Brian Jacobs | | | | Likely NO |
 | ⚪ TODO | Bong Blazer | | | | Dispensary connections |
 | ⚪ TODO | D1 | | | | Event support |
@@ -355,13 +361,14 @@
 | ✅ DONE | Fancy Pets | | | YES | Box hosting confirmed |
 | ✅ DONE | Ginza | | | YES | Box hosting confirmed (venue) |
 | ✅ DONE | Hetti Supply AZ | hettisupply@gmail.com | Nov 21 | YES | ✅ Box hosting + dab bar vendor at event - Need location details |
-| ✅ DONE | HCQQ | Discord: HCQQ | Nov 21 | YES | Sponsor only (not vendor booth) - Glass prizes + Webkinz |
+| ✅ DONE | HCQQ | @hcqualityquartz | Nov 21 | YES | Sponsor only (not vendor booth) - Glass prizes + Webkinz |
 | ✅ DONE | Highgrade Cannabis Products | TBD | Nov 21 | YES | ✅ Box hosting confirmed - Need contact/location |
 | ✅ DONE | The High Lounge | TBD | Nov 21 | YES | ✅ Cannabis lounge Tempe - Box hosting confirmed |
 | ✅ DONE | Level Up Smoke Shop (reconfirmed) | TBD | Nov 21 | YES | ✅ Glendale - Box hosting reconfirmed |
-| ✅ CONFIRMED | Lost My Marbles (OG Skunk) | TBD | Nov 22 | YES | ✅ Vendor booth confirmed |
-| ✅ CONFIRMED | Trapper Dan (clothing) | TBD | Nov 22 | YES | ✅ Vendor booth confirmed |
-| ✅ CONFIRMED | **IC Glass** | TBD | Nov 28 | YES | **NEW** - Verbal commit, setup 1pm, vend + smoke people out |
+| ✅ CONFIRMED | Lost My Marbles (OG Skunk) | @lostmymarblesglass | Nov 22 | YES | ✅ Vendor booth confirmed |
+| ✅ CONFIRMED | Trapper Dan (clothing) | @trapperdan_clothing | Nov 22 | YES | ✅ Vendor booth confirmed |
+| ✅ CONFIRMED | **IC Glass** | @ic_glass | Nov 28 | YES | Vendor booth, setup 1pm, smoking people out |
+| ✅ CONFIRMED | **Lazy Dog Homestead** | @lazy_dog_homestead | Nov 29 | YES | **NEW** - Vendor booth - Glass crafts + 3D prints |
 
 ---
 
@@ -374,21 +381,20 @@
 | ✅ PLACED | **Mary's Heady Smoke Shop (Alma School)** | TBD | **YES (Nov 24)** | Dec 15 | **NEW** - Need full address |
 | ✅ PLACED | **Level Up Smoke Shop (Glendale)** | TBD | **YES (Nov 24)** | Dec 15 | 6766 W Glendale Ave #125, Glendale 85303 |
 | ✅ PLACED | **High Maintenance / The High Lounge (Mill)** | TBD | **YES (Nov 24)** | Dec 15 | **NEW** - Need full address |
-| ✅ READY | Amrahlynn's Watch Repair (Apache Junction) | | TOMORROW | Dec 15 | 850 S Ironwood Dr #108, AJ 85120 - 1 unassembled box ready |
-| ✅ CONFIRMED | **September's Bar** | TBD | NO | Dec 15 | **NEW** - Wants box (confirmed Nov 24) |
-| ✅ CONFIRMED | Hetti Supply AZ | hettisupply@gmail.com | NO | Dec 15 | Box + vendor booth |
-| ✅ CONFIRMED | Highgrade Cannabis Products | TBD | NO | Dec 15 | Need contact/location |
-| ✅ CONFIRMED | Nirvana Center (9 locations) | max@nirvanacenter.com | NO | Dec 22 | Promo Dec 1-22 |
-| ⚪ TODO | Tom Palms | | | | Likely yes |
-| ⚪ TODO | Arizona Organix | Camielle@arizonaorganix.org | | | Pending outreach |
-| ⚪ TODO | Cherry Bomb | | | | Interested |
+| ✅ PLACED | **Amrahlynn's Watch Repair (Apache Junction)** | | **YES (Nov 29)** | Dec 15 | ✅ 850 S Ironwood Dr #108, AJ 85120 - Box delivered |
+| ✅ PLACED | **September's Bar** | TBD | **YES (Nov 29)** | Dec 15 | ✅ Box delivered + posted reel |
+| ✅ PLACED | **Highgrade Cannabis Products** | TBD | **YES (Nov 29)** | Dec 15 | ✅ Box delivered |
+| ✅ PLACED | **Nirvana AJ** | max@nirvanacenter.com | **YES (Nov 29)** | Dec 22 | ✅ Box delivered Nov 29 |
+| ✅ PLACED | **AZ Smokers (Power Rd)** | TBD | **YES (Nov 29)** | Dec 15 | ✅ Box delivered Nov 29 |
+| ✅ PLACED | **AZ Smokers (67th)** | TBD | **YES (Nov 29)** | Dec 15 | ✅ Box delivered Nov 29 |
+| ✅ CONFIRMED | Nirvana Center (8 remaining) | max@nirvanacenter.com | NO | Dec 22 | Promo Dec 1-22 |
 
 **Total Boxes Needed:** 20-30
-**Total Boxes Placed:** 5 (Nov 24: +3 smoke shops)
-**Total Boxes Ready for Tomorrow:** 1 (Amrahlynn's)
-**Total Boxes Confirmed Pending:** 13 (September's, Hetti, Highgrade, Nirvana 9 locations, Tom Palms, AZ Organix, Cherry Bomb)
-**Total Confirmed:** 19 boxes
-**Status:** ✅ Nearly at target!
+**Total Boxes Placed:** 11 (Nov 29: +Amrahlynn's, September's, Highgrade, Nirvana AJ, AZ Smokers Power Rd, AZ Smokers 67th)
+**Total Boxes Ready for Tomorrow:** 0
+**Total Boxes Confirmed Pending:** Nirvana 8 remaining, AZ Smokers 4 remaining
+**Total Confirmed:** 23 boxes
+**Status:** ✅ ON TRACK!
 
 ---
 
