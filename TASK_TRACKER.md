@@ -107,7 +107,7 @@
 | 🔴 TODO | **Create "Private Event" signs (Skunk branding)** | Team | Dec 5 | Incognito branding - 2 signs needed |
 | 🔴 TODO | **Create vanilla toy box design (no pot leaves)** | Team | Dec 3 | For general/non-cannabis locations |
 | ✅ DONE | **Schedule POST_12 via Postiz** | Claude | Dec 2 | ✅ Scheduled via API - Post ID: cmim51g5p0000f6795r3fj974 |
-| 🟡 TODO | **Schedule POST_15 via Postiz** | Claude | Dec 5 | 24-hour countdown post |
+| ✅ DONE | **Schedule POST_15 via Postiz** | Claude | Dec 5 | ✅ Scheduled IG + FB via API - 12:00 PM AZ - Post IDs: cmim5p7620003f6795xay0915 (IG), cmim5p7m50004f679elumeyun (FB) |
 | 🔴 TODO | **LAUNCH paid ads Phase 1** | Team | Nov 27 | $5/day, Facebook/Instagram, 15-mile radius from Ginza, 21+ only |
 | 🟢 TODO | Order custom wrapping paper | | Nov 17 | If decided yes |
 | 🟢 TODO | Send RSVP confirmations (9 people) | | Nov 21-22 | **NEW:** Stephanie Crawford (from email blast!) + Andreah Crowe |
@@ -414,15 +414,17 @@
 | 9 | Dec 3 | IG/FB/TT | | | 🔴 TODO | |
 | 10 | Dec 4 | IG/FB/TT | | | 🔴 TODO | |
 | 11 | Dec 1 | IG/FB | Nirvana Partnership (9 Locations) | Claude | ✅ SCHEDULED | 6 slides regenerated - SCHEDULED Dec 1 10am IG+FB via Postiz |
-| 12 | Dec 4 | IG/FB/TT | | | 🔴 TODO | |
-| 13 | Dec 5 | IG/FB/TT | First Friday Countdown | | 🔴 TODO | |
-| 14 | Dec 6 AM | IG/FB/TT | Event Day Hype | | 🔴 TODO | |
-| 15 | Dec 6 PM | IG/FB/TT | Live Event Coverage | | 🔴 TODO | |
+| 12 | Dec 2 | IG | Sponsor/Vendor Shoutout | Claude | ✅ SCHEDULED | 5-slide carousel - SCHEDULED Dec 2 12pm IG via Postiz |
+| 13 | Dec 3 | IG/FB/TT | | | 🔴 TODO | |
+| 14 | Dec 4 | IG/FB/TT | | | 🔴 TODO | |
+| 15 | Dec 5 | IG/FB | First Friday Countdown | Claude | ✅ SCHEDULED | 24-hour countdown - SCHEDULED Dec 5 12pm IG+FB via Postiz |
+| - | Dec 6 AM | IG/FB/TT | Event Day Hype | | 🔴 TODO | |
+| - | Dec 6 PM | IG/FB/TT | Live Event Coverage | | 🔴 TODO | |
 
 **SUMMARY:**
 - ✅ Published: 3 posts (POST #1, Krampus, POST #2)
-- ✅ Scheduled: 4 posts (POST #3 Box Locations, Menu Reveal [4 slides, no prices], POST #6 Black Friday, POST #11 Nirvana)
-- 🔴 Still Needed: 8 posts (POST #4-5, #7-10, #12-15)
+- ✅ Scheduled: 6 posts (POST #3 Box Locations, Menu Reveal [4 slides, no prices], POST #6 Black Friday, POST #11 Nirvana, POST #12 Sponsor/Vendor Shoutout, POST #15 24-Hour Countdown)
+- 🔴 Still Needed: 6 posts (POST #4-5, #7-10, #13-14)
 
 ---
 

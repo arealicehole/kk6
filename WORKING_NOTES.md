@@ -8,16 +8,21 @@
   - Platform: Instagram (Kanna Krew)
   - Scheduled: Dec 2, 2025 at 12:00 PM AZ (19:00 UTC)
   - 5-slide carousel with all vendors/sponsors/box hosts
+- Scheduled POST_15 (24-hour countdown) to both Instagram + Facebook via Postiz API
+  - Post IDs: cmim5p7620003f6795xay0915 (IG), cmim5p7m50004f679elumeyun (FB)
+  - Scheduled: Dec 5, 2025 at 12:00 PM AZ (changed from 7pm - too late)
 
 ### 📋 DECISIONS MADE:
 - Replaced map-with-pins concept for slide 4 (AI can't render accurate maps, pins cluster too much)
 - New "Drop Zone" concept: KannaKlaus + donation box + business names as confetti
 - Correct Postiz API workflow: Upload via /upload endpoint first, then create post with IDs
+- Changed POST_15 time from 7:00 PM to 12:00 PM (noon better for visibility before First Friday)
 
 ### 📁 KEY FILES CREATED/UPDATED:
 - creative/social/images/POST_12/slide_4.png - New "Drop Zone" concept (regenerated)
 - creative/social/POST_12_SPONSOR_SHOUTOUT_DESIGN_SPECS.md - Updated slide 4 specs + prompt
 - creative/social/post12_payload.json - Postiz API payload (for reference)
+- creative/social/post15_payload.json - Postiz API payload for POST_15
 - postitz/POSTIZ_API_COMPLETE_GUIDE.md - Discovered this API guide
 
 ### 🔴 NEXT IMMEDIATE ACTIONS:
