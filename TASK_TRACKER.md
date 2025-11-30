@@ -1,6 +1,6 @@
 # KANNA KICKBACK 6 - TASK TRACKER
-**Last Updated:** 2025-11-29 (Evening update)
-**Days Until Event:** 7
+**Last Updated:** 2025-11-30 (Sunday morning)
+**Days Until Event:** 6
 
 🔴 = CRITICAL | 🟡 = HIGH PRIORITY | 🟢 = MEDIUM | ⚪ = LOW
 
@@ -106,8 +106,7 @@
 | 🔴 TODO | **Create order pages/tally sheets for servers** | Team | Dec 5 | Separate from big menus - easier for ordering |
 | 🔴 TODO | **Create "Private Event" signs (Skunk branding)** | Team | Dec 5 | Incognito branding - 2 signs needed |
 | 🔴 TODO | **Create vanilla toy box design (no pot leaves)** | Team | Dec 3 | For general/non-cannabis locations |
-| 🟡 TODO | **Replace placeholder logos in POST_12** | Gilbert | Dec 1 | Need actual sponsor/vendor logos before posting |
-| 🟡 TODO | **Schedule POST_12 via Postiz** | Claude | Dec 2 | After logo replacement - sponsor/vendor shoutout |
+| ✅ DONE | **Schedule POST_12 via Postiz** | Claude | Dec 2 | ✅ Scheduled via API - Post ID: cmim51g5p0000f6795r3fj974 |
 | 🟡 TODO | **Schedule POST_15 via Postiz** | Claude | Dec 5 | 24-hour countdown post |
 | 🔴 TODO | **LAUNCH paid ads Phase 1** | Team | Nov 27 | $5/day, Facebook/Instagram, 15-mile radius from Ginza, 21+ only |
 | 🟢 TODO | Order custom wrapping paper | | Nov 17 | If decided yes |

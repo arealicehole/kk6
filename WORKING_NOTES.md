@@ -1,3 +1,32 @@
+## 2025-11-30 (Sunday Morning) - POST_12 Slide 4 Regenerated & Scheduled
+
+### ✅ COMPLETED TODAY:
+- Regenerated POST_12 Slide 4 with new "Drop Zone" concept (replaces failed map concept)
+- Bob Ross agent generated slide 4 with donation box + floating business names
+- Successfully scheduled POST_12 to Instagram via Postiz API
+  - Post ID: cmim51g5p0000f6795r3fj974
+  - Platform: Instagram (Kanna Krew)
+  - Scheduled: Dec 2, 2025 at 12:00 PM AZ (19:00 UTC)
+  - 5-slide carousel with all vendors/sponsors/box hosts
+
+### 📋 DECISIONS MADE:
+- Replaced map-with-pins concept for slide 4 (AI can't render accurate maps, pins cluster too much)
+- New "Drop Zone" concept: KannaKlaus + donation box + business names as confetti
+- Correct Postiz API workflow: Upload via /upload endpoint first, then create post with IDs
+
+### 📁 KEY FILES CREATED/UPDATED:
+- creative/social/images/POST_12/slide_4.png - New "Drop Zone" concept (regenerated)
+- creative/social/POST_12_SPONSOR_SHOUTOUT_DESIGN_SPECS.md - Updated slide 4 specs + prompt
+- creative/social/post12_payload.json - Postiz API payload (for reference)
+- postitz/POSTIZ_API_COMPLETE_GUIDE.md - Discovered this API guide
+
+### 🔴 NEXT IMMEDIATE ACTIONS:
+- SUNDAY Final Walkthrough @ Ginza (today!)
+- Deliver remaining boxes (AZ Smokers remaining locations, September's Bar)
+- Schedule POST_15 (Dec 5 - 24-hour countdown)
+
+---
+
 ## 2025-11-29 (Evening) - Box List Posted to Discord, Content Images Ready
 
 ### ✅ COMPLETED TODAY:
